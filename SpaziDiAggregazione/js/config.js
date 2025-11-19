@@ -25,9 +25,9 @@ export const dataSources = [
         lngField: "Longitudine",
     },
     {
-        id: "amenities",
-        name: "Amenities",
-        file: "resources/Amenities.json",
+        id: "SpaziDiConsumo",
+        name: "Spazi di Consumo",
+        file: "resources/SpaziDiConsumo.json",
         color: "#fb8072",
         defaultView: "heatmap", // 'pins', 'heatmap', or 'none'
         zIndexOffset: 500,

@@ -45,9 +45,9 @@ export const dataSources = [
         },
     },
     {
-        id: "amenities",
-        name: "Amenities",
-        file: "resources/Amenities.json",
+        id: "SpaziDiConsumo",
+        name: "Spazi di Consumo",
+        file: "resources/SpaziDiConsumo.json",
         color: "#808080",
         opacity: 0.7,
         defaultView: "pins",
