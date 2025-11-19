@@ -82,8 +82,11 @@ function createPin(data, source) {
     const category =
         getFieldValue(data, source.fields.category) || "Uncategorized";
 
-    // Create marker
-    const marker = L.marker([lat, lng], { icon: icon })
+    // Create marker with zIndexOffset to control stacking order
+    const marker = L.marker([lat, lng], {
+        icon: icon,
+        zIndexOffset: source.zIndexOffset || 0,
+    })
         .bindTooltip(`<strong>${name}</strong><br>${category}`, {
             direction: "top",
             offset: [0, -20],
