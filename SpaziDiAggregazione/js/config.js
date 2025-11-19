@@ -12,18 +12,18 @@ export const dataSources = [
         latField: "Latitudine",
         lngField: "Longitudine",
     },
-    {
-        id: "questionario",
-        name: "Questionario",
-        file: "resources/questionario.json",
-        color: "#4daf4a",
-        defaultView: "none", // 'pins', 'heatmap', or 'none'
-        zIndexOffset: 750,
-        nameField: "name",
-        categoryField: "Categoria",
-        latField: "Latitudine",
-        lngField: "Longitudine",
-    },
+    // {
+    //     id: "questionario",
+    //     name: "Questionario",
+    //     file: "resources/questionario.json",
+    //     color: "#4daf4a",
+    //     defaultView: "none", // 'pins', 'heatmap', or 'none'
+    //     zIndexOffset: 750,
+    //     nameField: "name",
+    //     categoryField: "Categoria",
+    //     latField: "Latitudine",
+    //     lngField: "Longitudine",
+    // },
     {
         id: "SpaziDiConsumo",
         name: "Spazi di Consumo",
