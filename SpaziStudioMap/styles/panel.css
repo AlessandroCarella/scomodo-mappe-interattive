@@ -1,0 +1,185 @@
+.info-panel {
+    position: absolute;
+    top: 0;
+    right: -400px;
+    width: 400px;
+    height: 100%;
+    background: white;
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    transition: right 0.3s ease;
+    overflow-y: auto;
+    display: none;
+}
+
+.info-panel.visible {
+    right: 0;
+}
+
+.info-panel-header {
+    padding: 20px;
+    padding-right: 50px;
+    background: #000000;
+    color: white;
+    position: relative;
+    border-bottom: 3px solid #ffffff;
+}
+
+.info-panel-header h2 {
+    margin: 0 0 10px 0;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.close-panel {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    width: 35px;
+    height: 35px;
+    border-radius: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+.close-panel:hover {
+    background: white;
+    color: #000000;
+}
+
+.info-panel-content {
+    padding: 20px;
+}
+
+.info-row {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #000000;
+}
+
+.info-row:last-child {
+    border-bottom: none;
+}
+
+.info-label {
+    font-size: 13px;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.info-value {
+    font-size: 16px;
+    color: #333;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.info-value a {
+    color: #000000;
+    text-decoration: underline;
+    transition: all 0.2s;
+}
+
+.info-value a:hover {
+    color: #666;
+}
+
+.orari-schedule {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.orari-day {
+    display: flex;
+    align-items: baseline;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.orari-day .day-name {
+    font-weight: 600;
+    min-width: 75px;
+    color: #000000;
+}
+
+.orari-day .closed {
+    color: #999;
+    font-style: italic;
+}
+
+.orari-day .time-slots {
+    color: #333;
+}
+
+/* Mobile responsive */
+@media (max-width: 480px) {
+    .info-panel {
+        width: 100%;
+        max-width: 100%;
+        right: -100%;
+        box-shadow: none;
+    }
+
+    .info-panel.visible {
+        right: 0;
+    }
+
+    .info-panel-header {
+        padding: 15px;
+        padding-right: 50px;
+    }
+
+    .info-panel-header h2 {
+        font-size: 18px;
+    }
+
+    .info-panel-header .category-badge {
+        font-size: 13px;
+        padding: 3px 10px;
+    }
+
+    .info-panel-content {
+        padding: 15px;
+    }
+
+    .info-row {
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .info-label {
+        font-size: 12px;
+    }
+
+    .info-value {
+        font-size: 14px;
+    }
+
+    .orari-day {
+        font-size: 14px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+    }
+
+    .orari-day .day-name {
+        min-width: auto;
+    }
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Aggregation Spaces</title>
+        <link
+            rel="icon"
+            type="image/x-icon"
+            href="resources/scomodissima_icona.ico"
+        />
+
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"
+        />
+        <link rel="stylesheet" href="styles/base.css" />
+        <link rel="stylesheet" href="styles/map.css" />
+        <link rel="stylesheet" href="styles/panel.css" />
+        <link rel="stylesheet" href="styles/buttons.css" />
+        <link rel="stylesheet" href="styles/heatmapControls.css" />
+        <link rel="stylesheet" href="styles/toggleButton.css" />
+        <link rel="stylesheet" href="styles/controls.css" />
+    </head>
+    <body>
+        <div id="map"></div>
+
+        <div class="filters-container">
+            <!-- Controls will be dynamically generated here -->
+
+            <!-- Toggle UI Button at the bottom -->
+        </div>
+
+        <div class="info-panel" id="infoPanel">
+            <div class="info-panel-header">
+                <button class="close-panel" id="closePanelBtn">×</button>
+                <h2 id="locationName"></h2>
+                <span class="category-badge" id="locationCategory"></span>
+            </div>
+            <div class="info-panel-content" id="infoPanelContent"></div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+        <script type="module" src="script.js"></script>
+    </body>
+</html>

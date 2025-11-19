@@ -1,0 +1,3744 @@
+[
+    {
+        "Spazio": "Aula Studio “Andrea Maggio”",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Biblioteca Centrale della scuola di Medicina, terzo piano",
+        "Funzionalità": "Accessibile tramite un ascensore. Prese a tavolo",
+        "Capienza": 59,
+        "Link": "Aula Studio \"Andrea Maggio\" — Scuola di Medicina",
+        "Note": "",
+        "Latitudine": 41.11198525216712,
+        "Longitudine": 16.86040901474208,
+        "Indirizzo_URL": "https://maps.app.goo.gl/scJYguCBMsxg9Ke9A",
+        "Link_URL": "https://www.uniba.it/it/scuole/medicina/aule/aula-studio",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "7:30"
+                ],
+                "chiusura": [
+                    "22:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "7:30"
+                ],
+                "chiusura": [
+                    "22:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "7:30"
+                ],
+                "chiusura": [
+                    "22:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "7:30"
+                ],
+                "chiusura": [
+                    "22:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "7:30"
+                ],
+                "chiusura": [
+                    "22:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Centrale Polo Medico-Veterinario “Claudio Malaguzzi Valeri”",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Biblioteca Centrale della scuola di Medicina, piano terra e primo piano",
+        "Funzionalità": "Accesso via scale. E' possibile accedere tramite un percorso alternativo per portatori di handicap, ma è complesso e non facilmente raggiungibile. ",
+        "Capienza": 186,
+        "Link": "Biblioteca Centrale Polo Medico-Veterinario \"Claudio Malaguzzi Valeri\"",
+        "Note": "",
+        "Latitudine": 41.11186237012392,
+        "Longitudine": 16.86014453046411,
+        "Indirizzo_URL": "https://maps.app.goo.gl/scJYguCBMsxg9Ke9A",
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/biblioteca-facolta-medicina",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "13:30"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura presso Nuovi Istituti Biologici",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Nuovi Istituti Biologici",
+        "Funzionalità": "Piano terra, facilmente accessibile per persone con disabilità. Prese a parete, sono poche. ",
+        "Capienza": 70,
+        "Link": "",
+        "Note": "https://www.instagram.com/ops_uniba/p/DBwH5BFN0vx/?img_index=4",
+        "Latitudine": 41.1135293794519,
+        "Longitudine": 16.860396379257505,
+        "Note_URL": "https://www.instagram.com/ops_uniba/p/DBwH5BFN0vx/?img_index=4",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Centrale del Polo Umanistico e di Comunità",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Ateneo, piano terra",
+        "Funzionalità": "Tre sale, di cui una interdetta per ora. Possibilità di consultazione dei testi. Diverse prese per postazione. Piano terra",
+        "Capienza": 82,
+        "Link": "Biblioteca dell'Ateneo: Biblioteca Centrale del Polo Umanistico e di Comunità",
+        "Note": "",
+        "Latitudine": 41.12012060661234,
+        "Longitudine": 16.869652074300653,
+        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/biblioteca-ateneo",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca For.Psi.Com.",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Università degli Studi di Bari - Dipartimento di Scienze della Formazione, Psicologia, Comunicazione, piano terra",
+        "Funzionalità": "Possibilità di consultazione dei testi.",
+        "Capienza": 92,
+        "Link": "Biblioteca For.Psi.Com.",
+        "Note": "",
+        "Latitudine": 41.11971803045592,
+        "Longitudine": 16.867496649687354,
+        "Indirizzo_URL": "https://maps.app.goo.gl/3cEQxS5FzH4xyUZB9",
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/forpsicom/biblioteca/biblioteca-dip",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "7:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "7:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "7:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "7:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "7:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Lingue e Letterature straniere",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Lingue",
+        "Funzionalità": "Ci sono le scale all'ingresso, senza apparecchio per sedia a rotelle. quindi, accedere per una persona con disabilità è impossibile. Senza prese elettriche.",
+        "Capienza": 10,
+        "Link": "Lingue e Letterature Straniere",
+        "Note": "",
+        "Latitudine": 41.12056222905006,
+        "Longitudine": 16.866512187797493,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "20:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "20:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "20:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "20:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "20:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Lingue e Tradizioni culturali europee",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Ateneo",
+        "Funzionalità": "Prese concentrate solo in un punto dell'aula, accesso tramite ascensore ",
+        "Capienza": 40,
+        "Link": "Biblioteca di Lingua e Tradizioni Culturali Europee",
+        "Note": "",
+        "Latitudine": 41.12099654902456,
+        "Longitudine": 16.868401915085155,
+        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Scienze Filosofiche",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Ateneo",
+        "Funzionalità": "Prese concentrate solo in un punto dell'aula, accesso tramite ascensore ",
+        "Capienza": 20,
+        "Link": "Storia e Filosofia",
+        "Note": "",
+        "Latitudine": 41.12035315658549,
+        "Longitudine": 16.868791900900348,
+        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/storia_filosofia",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Corsano",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Ateneo",
+        "Funzionalità": "Hanno una bassa capienza e bisogna autenticarsi tramite una firma su un elenco prima di entrare. Solo alcuni tavoli hanno le prese, tutte concentrate in un punto dell'aula",
+        "Capienza": 82,
+        "Link": "Biblioteca Corsano",
+        "Note": "",
+        "Latitudine": 41.12024151707262,
+        "Longitudine": 16.868218621752014,
+        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
+        "orari apertura": {
+            "\"sala lettura\" lun-ven --> 08": {
+                "apertura": [
+                    "30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Archeologia e cristianistica",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento ricerca e innovazione umanistica",
+        "Funzionalità": "Piano Terra ",
+        "Capienza": 50,
+        "Link": "Archeologia e Cristianistica - Bari",
+        "Note": "Sede meravigliosa, io l'ho vista qualche volta ma non ci sono mai entrato. Si trova proprio dentro Barivecchia, splendido.",
+        "Latitudine": 41.12753541937561,
+        "Longitudine": 16.870487873672367,
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/archeologia",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Scienze dell'Antichità",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Ateneo",
+        "Funzionalità": "Prese concentrate solo in un punto dell'aula, accesso tramite ascensore ",
+        "Capienza": 36,
+        "Link": "Lettere — Portale SiBA",
+        "Note": "",
+        "Latitudine": 41.12062344093548,
+        "Longitudine": 16.868183523028648,
+        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/lettere",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "17:15"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "17:15"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "17:15"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "17:15"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala studio \"Benedetto Petrone\"",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Centro Polifunzionale Studenti",
+        "Funzionalità": "Una delle più frequentate da quel che mi risulta. Prese a tavolo. Ingresso accessibile in sedia a rotelle",
+        "Capienza": 50,
+        "Link": "Orari di apertura delle biblioteche e sale studio che fruiscono del servizio di portierato",
+        "Note": "",
+        "Latitudine": 41.12124830390445,
+        "Longitudine": 16.867590795736216,
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/uniba-orari-biblio-e-sale-con-portierato.pdf",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "21:15"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "21:15"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "21:15"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "21:15"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "21:15"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "18:15"
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:45"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura Palazzo Chiaia-Napolitano (1)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Chiaia-Napolitano",
+        "Funzionalità": "Prese al banco",
+        "Capienza": 48,
+        "Link": "Aule del For.Psi.Com",
+        "Note": "",
+        "Latitudine": 41.11977243037357,
+        "Longitudine": 16.868026958954452,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "07:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "07:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "07:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "07:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "07:45"
+                ],
+                "chiusura": [
+                    "19:15"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "07:45"
+                ],
+                "chiusura": [
+                    "13:15"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura Palazzo Chiaia-Napolitano (2)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Chiaia-Napolitano",
+        "Funzionalità": "Prese al banco",
+        "Capienza": 28,
+        "Link": "Aule del For.Psi.Com",
+        "Note": "",
+        "Latitudine": 41.11977243037358,
+        "Longitudine": 16.868026958954452,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "07:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "07:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "07:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "07:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "07:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "08:00"
+                ],
+                "chiusura": [
+                    "13:15"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Palazzo Ex Fiat (lingue)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Lingue",
+        "Funzionalità": "Ci sono le scale all'ingresso, senza apparecchio per sedia a rotelle. quindi, accedere per una persona con disabilità è impossibile. Senza prese elettriche.",
+        "Capienza": 75,
+        "Link": "",
+        "Note": "Devo chiedere a un'amica in questi giorni per maggiori info",
+        "Latitudine": 41.12038867792904,
+        "Longitudine": 16.866044011696342,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Seminario Giuridico",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": 70,
+        "Link": "Seminario giuridico — Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.867074565584655,
+        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/lex/strutture-e-servizi/seminario-giuridico",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00",
+                    "14:30"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "17:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00",
+                    "14:30"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "17:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00",
+                    "14:30"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "17:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00",
+                    "14:30"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "17:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "13:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula Vittime Innocenti di tutte le Mafie",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": 60,
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.867074565584655,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aree studio ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese al muro",
+        "Capienza": 40,
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.867074565584655,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura di Diritto Privato",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": 50,
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.86707456558466,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula di Informatica",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza, Piazza Cesare Battisti 1",
+        "Funzionalità": "Prese al banco",
+        "Capienza": 20,
+        "Link": "Sta sul file di Link che mi hai mandato, ma non ne trovo traccia",
+        "Note": "",
+        "Latitudine": 41.11989680050723,
+        "Longitudine": 16.868028045455446,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura di diritto Romano",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": 28,
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.86707456558466,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura di diritto Pubblico",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese al banco",
+        "Capienza": 48,
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.86707456558466,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura di diritto Penale",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": 24,
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.86707456558466,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura di diritto del Lavoro",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": "Non segnalata, sarà sulla 20ina come le altre",
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.86707456558466,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura diritto Tributario e Finanza Pubblica",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza",
+        "Funzionalità": "Prese in aula",
+        "Capienza": "",
+        "Link": "Sale studio di Giurisprudenza",
+        "Note": "",
+        "Latitudine": 41.12023464213191,
+        "Longitudine": 16.86707456558466,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "17:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula diritto di Unione",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza, Piazza Cesare Battisti 1",
+        "Funzionalità": "?",
+        "Capienza": 40,
+        "Link": "Sta sul file di Link che mi hai mandato, ma non ne trovo traccia",
+        "Note": "",
+        "Latitudine": 41.11989680050723,
+        "Longitudine": 16.868028045455446,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula diritto internazionale",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Giurisprudenza, Piazza Cesare Battisti 1",
+        "Funzionalità": "?",
+        "Capienza": 20,
+        "Link": "Sta sul file di Link che mi hai mandato, ma non ne trovo traccia",
+        "Note": "",
+        "Latitudine": 41.11989680050723,
+        "Longitudine": 16.868028045455446,
+        "orari apertura": {
+            "08": {
+                "apertura": [
+                    "30"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Michele Brucoli",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Biblioteca Michele Brucoli",
+        "Funzionalità": "Si può usufruire di un'aula informatica (con computer), basta chiedere al personale. Prese a banco. Si accede tramite ascensore.\nSi possono anche chiedere libri in prestito: ci sono libri praticamente per qualsiasi materia e richiedere è facilissimo, basta chiedere al personale. Il prestito richiede di firmare un registro. Il prestito ha durata di 30 giorni (proprogabili)\n",
+        "Capienza": "2 aule: una da 48 e una da 88; tot: 136",
+        "Link": "https://www.poliba.it/it/sba/sba-sistema-bibliotecario-di-ateneo",
+        "Note": "Occorre prenotarsi la postazione dal portale di registrazione. Bisogna poi fare il check-in all'ingresso. la prenotazione ha durata massima (prorogabile) di 4 ore.",
+        "Latitudine": 41.109022,
+        "Longitudine": 16.879245,
+        "Link_URL": "https://www.poliba.it/it/sba/sba-sistema-bibliotecario-di-ateneo",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Student Center - 1° piano",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Student Center",
+        "Funzionalità": "Tavoli e prese di corrente. Si accede con ascensore. Prese a banco",
+        "Capienza": 148,
+        "Link": "STUDENT CENTER | Politecnico di Bari",
+        "Note": "Non è necessaria la prenotazione. ",
+        "Latitudine": 41.10794180177907,
+        "Longitudine": 16.879580195104655,
+        "Link_URL": "https://www.poliba.it/it/node/86/",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Student Center - 2° piano",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Student Center",
+        "Funzionalità": "Tavoli e prese di corrente. Si accede con ascensore. Prese a banco",
+        "Capienza": 96,
+        "Link": "STUDENT CENTER | Politecnico di Bari",
+        "Note": "Non è necessaria la prenotazione. ",
+        "Latitudine": 41.10794180177908,
+        "Longitudine": 16.879580195104655,
+        "Link_URL": "https://www.poliba.it/it/node/86/",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Atrio coperto del Politecnico",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Politecnico (corpo grandi aule), Via E. Orabona 4",
+        "Funzionalità": "Panchine, tavoli di bar",
+        "Capienza": "",
+        "Link": "",
+        "Note": "Boh, arrivati a questo punto, eliminerei questa riga.",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lun-ven--> 07": {
+                "apertura": [
+                    "00"
+                ],
+                "chiusura": [
+                    "22:00"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca poli-library",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Poli-Library",
+        "Funzionalità": "Tavoli e prese di corrente, prestito e consultazione, postazioni internet. Si accede tramite prenotazione.",
+        "Capienza": "128+16 postazioni internet",
+        "Link": "Biblioteca PoliLibrary | Politecnico di Bari",
+        "Note": "Unica aperta il sabato. Prevista prenotazione come \"Aula Brucoli\"",
+        "Latitudine": 41.10885138339526,
+        "Longitudine": 16.878513086003583,
+        "Link_URL": "https://www.poliba.it/it/sba/biblioteca-polilibrary",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "21:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:30"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Centrale del Polo Economico",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Sede di Economia",
+        "Funzionalità": "Prese al banco.",
+        "Capienza": 50,
+        "Link": "Biblioteca Centrale Economia",
+        "Note": "",
+        "Latitudine": 41.095086794134936,
+        "Longitudine": 16.85342823331601,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Matematica ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Matematica",
+        "Funzionalità": "tavoli e prese di corrente ",
+        "Capienza": 100,
+        "Link": "U. O. Biblioteca di Matematica — Italiano",
+        "Note": "c'è rampa di accesso per persone con disabilità ",
+        "Latitudine": 41.10855922245521,
+        "Longitudine": 16.88062304609063,
+        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/matematica",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala Lettura \"Montaruli\"",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Farmacia",
+        "Funzionalità": "in aula",
+        "Capienza": 85,
+        "Link": "https://www.uniba.it/it/ricerca/dipartimenti/farmacia/dipartimento/ubicazione-aule",
+        "Note": "",
+        "Latitudine": 41.10892880374176,
+        "Longitudine": 16.88340047986904,
+        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/farmacia/dipartimento/ubicazione-aule",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala Studio di Scienze della Terra e Bioambientali",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Scienze della Terra",
+        "Funzionalità": "tavoli e prese di corrente. c'è rampa di accesso per persone con disabilità e ascensore ",
+        "Capienza": 30,
+        "Link": "Università di Bari - Home Biblioteca Dipartimento",
+        "Note": "",
+        "Latitudine": 41.10957262704633,
+        "Longitudine": 16.880650122072247,
+        "Link_URL": "http://www.geo.uniba.it/biblioteca.html",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula studenti del Dipartimento di Scienze della Terra ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Scienze della Terra",
+        "Funzionalità": "Accessibile a persone con disbailità (piano terra con rampa). Le prese sono poce",
+        "Capienza": 20,
+        "Link": "",
+        "Note": "c'è rampa di accesso per persone con disabilità e ascensore ",
+        "Latitudine": 41.10956858520625,
+        "Longitudine": 16.880703766249063,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Agraria ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Facoltà di Agraria",
+        "Funzionalità": "L'accesso ai disabili è attrezzato tramite rampa, vi sono disponibili prese.",
+        "Capienza": 40,
+        "Link": "Biblioteca di Agraria",
+        "Note": "",
+        "Latitudine": 41.11038481796455,
+        "Longitudine": 16.882870251582766,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula studio del Dipartimento di Agraria ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Facoltà di Agraria",
+        "Funzionalità": "tavoli e prese di corrente. L'accesso ai disabili è attrezzato tramite una rampa.",
+        "Capienza": 30,
+        "Link": "",
+        "Note": "Collocata accanto alla portineria esterna, da fuori è segnalata, dall'interno no, però per le persone con disabilità accessibile solo dall'interno, perché le rampe sono lontane ",
+        "Latitudine": 41.11033429557337,
+        "Longitudine": 16.88280587856772,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula multimediale",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Facoltà di Agraria",
+        "Funzionalità": "Accessibile alle persone con disabilità. Prese disponibili.",
+        "Capienza": 10,
+        "Link": "",
+        "Note": "",
+        "Latitudine": 41.110350462742765,
+        "Longitudine": 16.88283270065732,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "21:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala lettura della Biblioteca del Nuovo Palazzo dei Dipartimenti Biologici ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Nuovo Palazzo dei Dipartimenti Biologici",
+        "Funzionalità": "tavoli e prese di corrente",
+        "Capienza": "Non Segnalata ",
+        "Link": "Biblioteca Dipartimento di Bioscienze, Biotecnologie e Biofarmaceutica",
+        "Note": "",
+        "Latitudine": 41.11025231800215,
+        "Longitudine": 16.882363763968268,
+        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/bioscienze-biotecnologie/dipartimento/biblioteca",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aule studio C e D del Vecchio Palazzo Dipartimenti Biologici ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Vecchi istituti Biologici",
+        "Funzionalità": "tavoli e prese di corrente ",
+        "Capienza": "Non Segnalata ",
+        "Link": "Biblioteche e Sale Studio — Scienze Biologiche",
+        "Note": "",
+        "Latitudine": 41.11011109453616,
+        "Longitudine": 16.88549059633585,
+        "Link_URL": "https://www.uniba.it/it/corsi/scienze-biologiche/studiare/aule-laboratori-biblioteche/biblioteche-e-sale-studio",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala Lettura della Biblioteca di Fisica (primo piano)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Fisica",
+        "Funzionalità": "tavoli e prese di corrente. Accessibile alle persone con disabilità (ascensore).",
+        "Capienza": 86,
+        "Link": "Biblioteca di Fisica",
+        "Note": "",
+        "Latitudine": 41.10843422117664,
+        "Longitudine": 16.8841747154039,
+        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/fisica/biblioteca",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Sala Lettura della Biblioteca di Fisica (piano terra)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Dipartimento di Fisica",
+        "Funzionalità": "tavoli e prese di corrente. Accessibile alle persone con disabilità (rampa al piano terra).",
+        "Capienza": 44,
+        "Link": "Biblioteca di Fisica",
+        "Note": "",
+        "Latitudine": 41.10782411543911,
+        "Longitudine": 16.884483127664858,
+        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/fisica/biblioteca",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "19:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "8:30"
+                ],
+                "chiusura": [
+                    "13:30"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula studio del Dipartimento di Chimica ",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Campus E. Quagliariello - Via E. Orabona 4",
+        "Funzionalità": "tavoli e prese di corrente ",
+        "Capienza": "Non Segnalata ",
+        "Link": "",
+        "Note": "c'è rampa di accesso per persone con disabilità. Qualche porta accanto all'aula studio c'è la porta della biblioteca, ma a quanto pare in quella sala lettura non si va a studiare perché stanno i dottorandi.",
+        "Latitudine": 41.10896773570354,
+        "Longitudine": 16.88378843902864,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula studio del Dipartimento di Informatica (piano terra)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Campus E. Quagliariello - Via E. Orabona 4",
+        "Funzionalità": "tavoli e prese di corrente ",
+        "Capienza": 40,
+        "Link": "",
+        "Note": "c'è rampa di accesso per persone con disabilità ",
+        "Latitudine": 41.10970964158545,
+        "Longitudine": 16.88156167155953,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aula studio del Dipartimento di Informatica (piano interrato)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Campus E. Quagliariello - Via E. Orabona 4",
+        "Funzionalità": "tavoli e prese di corrente ",
+        "Capienza": 30,
+        "Link": "",
+        "Note": "da quello che ho visto non è accessibile a persone con disabilità ",
+        "Latitudine": 41.10970964158546,
+        "Longitudine": 16.88156167155954,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Nazionale \"Sagarriga Visconti Volpi\"",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "via Pietro Oreste, 45",
+        "Funzionalità": "",
+        "Capienza": "",
+        "Link": "",
+        "Note": "",
+        "Latitudine": 41.12890564155939,
+        "Longitudine": 16.84630208461801,
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "8:15"
+                ],
+                "chiusura": [
+                    "13:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Nome",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Indirizzo",
+        "Funzionalità": "Funzionalità principali",
+        "Capienza": "Capienza",
+        "Link": "Fonte ufficiale",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {}
+    },
+    {
+        "Spazio": "Biblioteca della Soprintendenza ABAP – Bari (Ministero della Cultura)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Pier l'Eremita 25/B, 70122 Bari",
+        "Funzionalità": "Archivio specialistico, consultazione su appuntamento",
+        "Capienza": "–",
+        "Link": "Sabap BA",
+        "Note": "",
+        "Latitudine": 41.13092435202318,
+        "Longitudine": 16.868803628438346,
+        "Link_URL": "https://sabapba.cultura.gov.it/",
+        "orari apertura": {}
+    },
+    {
+        "Spazio": "Biblioteca d’Arte “Michele D’Elia” (Pinacoteca Corrado Giaquinto) (Città Metropolitana di Bari)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Spalato 19 / Lungomare Nazario Sauro 27, 70121 Bari",
+        "Funzionalità": "Biblioteca d’arte con collezione specializzata; consultazione e postazioni PC catalogo",
+        "Capienza": "–",
+        "Link": "Pinacoteca Bari",
+        "Note": "",
+        "Latitudine": 41.12144061997153,
+        "Longitudine": 16.88165520462701,
+        "Link_URL": "https://www.pinacotecabari.it/servizi-al-pubblico",
+        "orari apertura": {
+            "lun–ven 9": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Provinciale dei Padri Cappuccini (Provincia delle Puglie) (Frati Minori Cappuccini)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Gen. N. Bellomo 94, 70124 Bari",
+        "Funzionalità": "Biblioteca teologica con prestito gratuito; limitato a 2 opere per prestito",
+        "Capienza": "–",
+        "Link": "Biblioteche Facoltà Teologica Pugliese",
+        "Note": "",
+        "Latitudine": 41.10078912574911,
+        "Longitudine": 16.848335454270284,
+        "Link_URL": "https://www.fondazionebbcc.it/",
+        "orari apertura": {
+            "lun, mer, ven 9": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca della Società di Storia Patria per la Puglia (Società culturale)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Palazzo Ateneo, Piazza Umberto I 1, 70121 Bari",
+        "Funzionalità": "Biblioteca storica locale; sale lettura e consultazione volumi d’archivio",
+        "Capienza": "–",
+        "Link": "Società di Storia Patria Puglia",
+        "Note": "",
+        "Latitudine": 41.12060816540131,
+        "Longitudine": 16.868527167763183,
+        "Link_URL": "https://www.storiapatriapuglia.it/",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca del Conservatorio di Musica “Niccolò Piccinni” (Conservatorio statale)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Michele Cifarelli 26, 70124 Bari",
+        "Funzionalità": "Biblioteca musicale con cataloghi informatici; PC consultazione cataloghi e database (OpenAthens)",
+        "Capienza": "–",
+        "Link": "Conservatorio Piccinni",
+        "Note": "",
+        "Latitudine": 41.11585902018102,
+        "Longitudine": 16.856712910090973,
+        "Link_URL": "https://www.conservatoriopiccinni.ba.it/i-servizi/servizi-biblioteca",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "09:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca della Camera di Commercio di Bari (Ente camerale)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Corso Cavour 2, 70121 Bari",
+        "Funzionalità": "Specializzata in economia, statistica e normativa; consultazione Gazzetta Ufficiale, documentazione legislativa, testi storia locale; catalogo informatizzato e assistenza alla ricerca",
+        "Capienza": "–",
+        "Link": "Camera di Commercio Bari",
+        "Note": "",
+        "Latitudine": 41.12492387119966,
+        "Longitudine": 16.872702763795473,
+        "Link_URL": "https://www.ba.camcom.it/bari/pubblicazioni/biblioteca",
+        "orari apertura": {}
+    },
+    {
+        "Spazio": "Biblioteca della Fondazione Giuseppe Tatarella (Fondazione culturale)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Nicolò Piccinni 97, 70122 Bari",
+        "Funzionalità": "Sale lettura, Wi-Fi, postazioni PC; archivi storici e sale riunioni; area bambini e sala video-proiezioni",
+        "Capienza": "–",
+        "Link": "Fondazione Tatarella",
+        "Note": "",
+        "Latitudine": 41.12550607906539,
+        "Longitudine": 16.868314838927418,
+        "Link_URL": "http://www.fondazionegiuseppetatarella.it/biblioteca/",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca dei Ragazzi[e] (Parco 2 Giugno) (Servizio comunale)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Parco Largo 2 Giugno, ingresso Viale della Resistenza, 70125 Bari",
+        "Funzionalità": "Biblioteca per infanzia e famiglie: aree morbide e sale lettura con scaffali aperti, book-sharing; prestito libri, laboratori, narrazioni, eventi; collegata a rete #Barisocialbook",
+        "Capienza": "–",
+        "Link": "Progetto Città (Biblioteca Ragazzi)",
+        "Note": "",
+        "Latitudine": 41.102069763708506,
+        "Longitudine": 16.87547706961436,
+        "Link_URL": "http://www.progettocitta.org/i-servizi/biblioteca-ragazzi-e.html",
+        "orari apertura": {
+            "set–mag": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca della Fondazione Puglia (Fondazione Cassa)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Venezia 13, 70122 Bari",
+        "Funzionalità": "Biblioteca d’arte e cultura (≈7.000 volumi di arte, economia, storia locale, collezione Castorani); aree di lettura con postazioni; consultazione OPAC online",
+        "Capienza": "–",
+        "Link": "Fondazione Puglia",
+        "Note": "",
+        "Latitudine": 41.128057165089245,
+        "Longitudine": 16.872569662106905,
+        "Link_URL": "https://www.fondazionepuglia.it/la-biblioteca/",
+        "orari apertura": {
+            "mer e ven 10": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca della Soprintendenza Archivistica e Bibliografica della Puglia",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Strada Sagges 3, 70122 Bari",
+        "Funzionalità": "Consultazione archivistica gratuita (no prestito); sola modalità di ricerca in sede, su richiesta preventiva",
+        "Capienza": "–",
+        "Link": "SAPuglia – Soprintendenza Archivistica Puglia",
+        "Note": "",
+        "Latitudine": 41.1273676419004,
+        "Longitudine": 16.869681896599516,
+        "Link_URL": "https://sapuglia.it/la-biblioteca/",
+        "orari apertura": {
+            "lun–ven mattina 9": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca dell’Archivio di Stato di Bari",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Pietro Oreste 45, 70123 Bari",
+        "Funzionalità": "Sala di studio libera e gratuita per ricerca storico-documentaria; necessaria prenotazione via email",
+        "Capienza": "–",
+        "Link": "Archivio di Stato Bari",
+        "Note": "",
+        "Latitudine": 41.12885994061356,
+        "Longitudine": 16.84688499659959,
+        "Link_URL": "https://archiviodistatodibari.cultura.gov.it/sala-studio/modalita-di-accesso",
+        "orari apertura": {
+            "lun–mer–ven 9": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Nazionale “Sagarriga Visconti Volpi” di Bari",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Pietro Oreste 45, 70123 Bari",
+        "Funzionalità": "Sala di consultazione con Wi-Fi; quotidiani e periodici, prestito locale (2 volumi), distribuzione Gazzetta del Mezzogiorno",
+        "Capienza": "–",
+        "Link": "Bibl. Nazionale Bari",
+        "Note": "",
+        "Latitudine": 41.12889349107415,
+        "Longitudine": 16.846334267763524,
+        "Link_URL": "https://bibliotecanazionalebari.cultura.gov.it/",
+        "orari apertura": {
+            "lun–gio 8": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Bari Social Book (luoghi sociali per leggere)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Parco Largo 2 Giugno (ingr. Viale della Resistenza), 70125 Bari",
+        "Funzionalità": "“Biblioteche diffuse” all’aperto con scaffali, book-sharing, eventi culturali; lettura e prestito informale di libri",
+        "Capienza": "–",
+        "Link": "Comune di Bari (rete Bari Social Book)",
+        "Note": "",
+        "Latitudine": 41.10295724714482,
+        "Longitudine": 16.875283389420368,
+        "Link_URL": "https://www.comune.bari.it/web/servizi-alla-persona/bari-social-book",
+        "orari apertura": {}
+    },
+    {
+        "Spazio": "Biblioteca Santa Teresa dei Maschi – De Gemmis (già Prov. di Bari)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Strada Lamberti 34, 70122 Bari",
+        "Funzionalità": "Biblioteca storica con fondo antico (70.000 volumi): libri, periodici d’epoca, archivio locale; ingresso gratuito",
+        "Capienza": "–",
+        "Link": "Bari Metropolitana (Cultura)",
+        "Note": "",
+        "Latitudine": 41.12780310440995,
+        "Longitudine": 16.86987026776357,
+        "Link_URL": "https://www.comune.bari.it/servizi/biblioteche",
+        "orari apertura": {
+            "lun–gio 9": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Gaetano Ricchetti (Fondazione G. Ricchetti)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Sparano 145, 70121 Bari",
+        "Funzionalità": "Biblioteca storico-culturale con collezioni di diritto e storia; ambienti di lettura; servizio prestito gratuito",
+        "Capienza": "–",
+        "Link": "Fondazione G. Ricchetti",
+        "Note": "",
+        "Latitudine": 41.11950226621863,
+        "Longitudine": 16.869775781255143,
+        "Link_URL": "https://www.bibliotecaricchetti.it/",
+        "orari apertura": {
+            "lun–gio 8": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Cagnazzi",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Colella, 13 (Municipio 2)",
+        "Funzionalità": "Sale tematiche con postazioni multimediali (digital room); sala polifunzionale (sala studio) con proiettore a scomparsa e dispositivi audio/video; spazio bambini (angolo morbido con tavolo touch, TV); giardino esterno con arredi modulari.",
+        "Capienza": 60,
+        "Link": "Biblioteca Cagnazzi",
+        "Note": "",
+        "Latitudine": 41.10427655579373,
+        "Longitudine": 16.868800583106488,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Cagnazzi/PUG84",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Catino",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via dei Narcisi (quartiere Catino)",
+        "Funzionalità": "Sala di consultazione dotata di PC e attrezzature tecnologiche per laboratori/proiezioni; spazio esterno attrezzato con arredi modulari; biblioteca in struttura “pluriuso” di quartiere.",
+        "Capienza": 20,
+        "Link": "Biblioteca Catino",
+        "Note": "Attualmente segnata come chiusa",
+        "Latitudine": 41.16021131018477,
+        "Longitudine": 16.739382628114807,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Catino/PUG80",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "12:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "12:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "12:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "12:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "12:00"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Duse",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via San Girolamo, 38\n",
+        "Funzionalità": "Sala di lettura con materiale cartaceo; sala di consultazione digitale con 8 postazioni PC cablate; ampio cortile e giardino con aree verdi e giochi; spazio per laboratori.",
+        "Capienza": 30,
+        "Link": "Biblioteca Duse",
+        "Note": "Attualmente segnata come chiusa",
+        "Latitudine": 41.13632525975827,
+        "Longitudine": 16.815697313795972,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Duse/PUG76",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "14:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    "17:30"
+                ],
+                "chiusura": [
+                    "22:30"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Iurlo",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via L. Gurakuqi, 2",
+        "Funzionalità": "Sala lettura dotata di postazioni con dispositivi per consultazione digitale; spazio all’aperto “Outdoor education” (parco pubblico attrezzato).",
+        "Capienza": 15,
+        "Link": "Biblioteca Iurlo",
+        "Note": "",
+        "Latitudine": 41.107347975199545,
+        "Longitudine": 16.894889623582536,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Iurlo/PUG79",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "12:00"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Lombardi",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Lombardia, 2",
+        "Funzionalità": "Vari spazi di consultazione con postazioni PC e schermi per presentazioni; sala comune centrale con dispositivi informatici; sale riunioni e laboratori artico-culturali; sala danza (piano seminterrato); archivi tematici; servizi igienici su ogni piano.",
+        "Capienza": 100,
+        "Link": "Biblioteca Lombardi",
+        "Note": "",
+        "Latitudine": 41.11979798903981,
+        "Longitudine": 16.789964306387,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Lombardi/PUG75",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "15:30"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "15:30"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca “G. Marconi” (Galassia)",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Skanderbeg, 35 ",
+        "Funzionalità": "Sala consultazione con possibilità di laboratori; sala digitale con PC e attrezzature tecnologiche; uso di ampio cortile e giardino della scuola Marconi per attività all’aperto; area bambini con giochi.",
+        "Capienza": 30,
+        "Link": "Biblioteca Galassia Marconi",
+        "Note": "Ogni primo sabato del mese, la biblioteca Marconi sarà aperta al pubblico in orario serale (dalle 20:00 alle 22:00).",
+        "Latitudine": 41.13734565042882,
+        "Longitudine": 16.843865367763957,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20%E2%80%9CG.%20Marconi%E2%80%9D/PUG77",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "16:00"
+                ],
+                "chiusura": [
+                    "18:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "16:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "16:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "16:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "9:30"
+                ],
+                "chiusura": [
+                    "12:30"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Maurogiovanni",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Nicola Colonna, 1 (Carbonara)",
+        "Funzionalità": "Sala lettura con dotazioni multimediali: PC, tablet, TV a schermo piatto, totem per consultazione; piccolo spazio esterno dedicato; arredi per attività all’aperto.",
+        "Capienza": "15 (interni), 30 (esterni)",
+        "Link": "Biblioteca Maurogiovanni",
+        "Note": "",
+        "Latitudine": 41.07813604700224,
+        "Longitudine": 16.872391511941267,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Maurogiovanni/PUG78",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "15:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "15:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "15:30"
+                ],
+                "chiusura": [
+                    "19:30"
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca Don Bosco",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Martiri d’Otranto, 69",
+        "Funzionalità": "Sala Don Bosco (piano terra) ampia (50 posti) con reference; 8 PC per consultazione digitale; sezione ragazzi con libri bambini e bisogni speciali; sala Florio per conferenze (piano interrato); varie sale studio e emeroteca (primo piano); spazio esterno con arredi modulari e giardino/orto didattico.",
+        "Capienza": 80,
+        "Link": "Biblioteca Don Bosco",
+        "Note": "Attualmente segnata come chiusa",
+        "Latitudine": 41.11809510152403,
+        "Longitudine": 16.85523558086353,
+        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Don%20Bosco/PUG82",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "9:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            }
+        }
+    }
+]

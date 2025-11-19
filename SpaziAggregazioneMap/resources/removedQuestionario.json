@@ -1,0 +1,78 @@
+[
+    // elementi trovati in SpaziDiAggregazione.json
+    {
+        "latitude": 41.1235748,
+        "longitudine": 16.8580636,
+        "name": "Libertà",
+        "value": 3
+    },
+    {
+        "latitude": 41.1024695,
+        "longitudine": 16.8747617,
+        "name": "Parco 2 giugno",
+        "value": 22
+    },
+    {
+        "latitude": 41.1337709,
+        "longitudine": 16.8200141,
+        "name": "San Girolamo",
+        "value": 1
+    },
+    {
+        "latitude": 41.1225756,
+        "longitudine": 16.8480295,
+        "name": "Skatepark",
+        "value": 1
+    },
+    {
+        "latitude": 41.115612,
+        "longitudine": 16.9005706,
+        "name": "Parco Perotti",
+        "value": 1
+    },
+    // elementi generici
+    {
+        "latitude": 41.12335141826763,
+        "longitudine": 16.8696648691402,
+        "name": "(G) Centro",
+        "value": 9
+    },
+    // spazi non meglio specificati
+    {
+        "latitude": 41.123238063420665,
+        "longitudine": 16.878373032360013,
+        "name": "Lungomare",
+        "value": 5
+    },
+    {
+        "latitude": 41.0988416,
+        "longitudine": 16.8586321,
+        "name": "Poggiofranco",
+        "value": 1
+    },
+    //vie
+    {
+        "latitude": 41.1027426,
+        "longitudine": 16.8582992,
+        "name": "Via Amoruso",
+        "value": 1
+    },
+    {
+        "latitude": 41.11231751287967,
+        "longitudine": 16.873432792425476,
+        "name": "Via de Amiciis",
+        "value": 1
+    },
+    {
+        "latitude": 41.10433266778997,
+        "longitudine": 16.85397046117845,
+        "name": "Via mazzitelli",
+        "value": 1
+    },
+    {
+        "latitude": 41.1236852,
+        "longitudine": 16.8695372,
+        "name": "Via sparano",
+        "value": 1
+    }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Social Struggle Spaces</title>
+        <link
+            rel="icon"
+            type="image/x-icon"
+            href="resources/scomodissima_icona.ico"
+        />
+
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"
+        />
+        <link rel="stylesheet" href="styles/base.css" />
+        <link rel="stylesheet" href="styles/map.css" />
+        <link rel="stylesheet" href="styles/panel.css" />
+        <link rel="stylesheet" href="styles/alert.css" />
+        <link rel="stylesheet" href="styles/button.css" />
+    </head>
+    <body>
+        <div id="map"></div>
+
+        <!-- Multi-spotlight button -->
+        <button
+            id="multiSpotlightBtn"
+            class="multi-spotlight-btn"
+            title="Attiva tutti gli spotlight"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+            >
+                <circle cx="12" cy="12" r="10"></circle>
+                <circle cx="12" cy="12" r="6"></circle>
+                <circle cx="12" cy="12" r="2"></circle>
+            </svg>
+            <span>Tutti gli Spazi</span>
+        </button>
+
+        <div class="info-panel" id="infoPanel">
+            <div class="info-panel-header">
+                <button class="close-panel" id="closePanelBtn">×</button>
+                <h2 id="locationName"></h2>
+                <span class="category-badge" id="locationCategory"></span>
+            </div>
+            <div class="info-panel-content" id="infoPanelContent"></div>
+        </div>
+
+        <div class="custom-alert-overlay" id="customAlertOverlay">
+            <div class="custom-alert-box">
+                <div class="custom-alert-icon" id="customAlertIcon"></div>
+                <div class="custom-alert-message" id="customAlertMessage"></div>
+                <button class="custom-alert-btn" id="customAlertBtn">OK</button>
+            </div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+        <script type="module" src="script.js"></script>
+    </body>
+</html>

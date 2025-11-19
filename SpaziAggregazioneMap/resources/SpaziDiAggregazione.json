@@ -1,0 +1,1709 @@
+[
+    {
+        "Spazio": "Libertà: giardini Piazza Umberto",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Giardini di Piazza Umberto I, Piazza Umberto I, 27, 70121 Bari BA",
+        "Funzionalità": "Area giochi bambini, passeggio, luogo di passaggio poichè vicino stazione e uni",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/oQZt92jWadbGoJvW6",
+        "Note": "",
+        "Latitudine": 41.120762765048255,
+        "Longitudine": 16.86995201385369,
+        "Link_URL": "https://maps.app.goo.gl/oQZt92jWadbGoJvW6",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Madonella: Giardini Baden Powell",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Giardini Baden Powell, Piazza Antonio Gramsci, 3, 70126 Bari BA",
+        "Funzionalità": "Area giochi bambini, passeggio, luogo di incontro",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/M1VhwvMaxYpcvmE39",
+        "Note": "",
+        "Latitudine": 41.11893557894624,
+        "Longitudine": 16.888659723203848,
+        "Link_URL": "https://maps.app.goo.gl/M1VhwvMaxYpcvmE39",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Torre a Mare",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Parco per tutti, Via di Torre a mare Mazzini Giuseppe, 70126 Bari BA",
+        "Funzionalità": "Area giochi, passeggio, possibile luogo per eventi",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/W4S6zUtmNviN9ziPA",
+        "Note": "",
+        "Latitudine": 41.08725394470384,
+        "Longitudine": 16.997912951213927,
+        "Link_URL": "https://maps.app.goo.gl/W4S6zUtmNviN9ziPA",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Libertà: Giardino Garibaldi",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Giardino Garibaldi, Piazza G. Garibaldi, 70122 Bari BA",
+        "Funzionalità": "Passeggio, ritrovo ",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/kjByWuGpku9KLU9H7",
+        "Note": "",
+        "Latitudine": 41.12565508450279,
+        "Longitudine": 16.86187643322809,
+        "Link_URL": "https://maps.app.goo.gl/kjByWuGpku9KLU9H7",
+        "orari apertura": {}
+    },
+    {
+        "Spazio": "Parco 2 Giugno",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Viale della Resistenza",
+        "Funzionalità": "bar, aree cani, percorsi sportivi, pattinaggio",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=12721404774673949505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.10257730318133,
+        "Longitudine": 16.874796522091003,
+        "Link_URL": "https://maps.google.com/?cid=12721404774673949505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Giovanni Paolo II (o Parco della Rinascita)",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Viale Europa",
+        "Funzionalità": "Campi sportivi (basket, calcetto). area giochi; pista pattinaggio; anfiteatro",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=16101383816348396796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.12400279729843,
+        "Longitudine": 16.797903220266967,
+        "Link_URL": "https://maps.google.com/?cid=16101383816348396796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Pineta di San Francesco",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Viale Ottorino Respighi",
+        "Funzionalità": "area picnic",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=8410945282691483378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.133818947347415,
+        "Longitudine": 16.83123874909271,
+        "Link_URL": "https://maps.google.com/?cid=8410945282691483378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Naturale Regionale Lama Balice",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Accesso da Via Burgese / SP54",
+        "Funzionalità": "osservazione flora e fauna. masserie storiche.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=11128455437848677266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.123040220974346,
+        "Longitudine": 16.76556503468207,
+        "Link_URL": "https://maps.google.com/?cid=11128455437848677266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino De Bellis",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Piazza Risorgimento",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=15995961425467749851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.11298690702432,
+        "Longitudine": 16.873372193269454,
+        "Link_URL": "https://maps.google.com/?cid=15995961425467749851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Campetto Oratorio Redentore (Don Bosco)",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Martiri D'Otranto",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=11783196006490824121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.119112601328425,
+        "Longitudine": 16.855222308610756,
+        "Link_URL": "https://maps.google.com/?cid=11783196006490824121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Don Tonino Bello",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via G. Petroni / Via Martin L. King",
+        "Funzionalità": "attrezzature fitness e panchine.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=14366176422774870344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.09972519712747,
+        "Longitudine": 16.866203689303063,
+        "Link_URL": "https://maps.google.com/?cid=14366176422774870344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino Giacomo Princigalli",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Ignazio Lojacono",
+        "Funzionalità": "panchine e giochi per bambini.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=14147160645530922865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.09022178977358,
+        "Longitudine": 16.888259906757558,
+        "Link_URL": "https://maps.google.com/?cid=14147160645530922865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Sabino Annoscia",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Tenente Cesare Suglia",
+        "Funzionalità": "panchine e percorso pedonale",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=9727678549361169649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.101353432412,
+        "Longitudine": 16.916867586668296,
+        "Link_URL": "https://maps.google.com/?cid=9727678549361169649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Troisi",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Michele Troisi",
+        "Funzionalità": "spazi verdi",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=8672478905160561591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.10492079489471,
+        "Longitudine": 16.915450379777646,
+        "Link_URL": "https://maps.google.com/?cid=8672478905160561591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino Riccardo Cucciolla",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Caldarola",
+        "Funzionalità": "area giochi.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=8853850623400526909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.10540486253061,
+        "Longitudine": 16.899606264412455,
+        "Link_URL": "https://maps.google.com/?cid=8853850623400526909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Campetto Ipercoop Japigia",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Natale Loiacono",
+        "Funzionalità": "campo da calcio vicino la chiesa e attrezzi sopra l'ipercoop",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/AuM5BnPHbqzB6uPN9",
+        "Note": "",
+        "Latitudine": 41.104036732894265,
+        "Longitudine": 16.910887152679148,
+        "Link_URL": "https://maps.app.goo.gl/AuM5BnPHbqzB6uPN9",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Waterfront di San Girolamo - Fesca",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Lungomare IX Maggio",
+        "Funzionalità": "aree verdi. accesso spiaggia e attrezzature fitness.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=1824953619132730227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.13917066037607,
+        "Longitudine": 16.818010479779016,
+        "Link_URL": "https://maps.google.com/?cid=1824953619132730227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Parco della Legalità",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Antonio Lanave",
+        "Funzionalità": "piccolo anfiteatro.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=13125054945060631636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.12364282137116,
+        "Longitudine": 16.79064509219313,
+        "Link_URL": "https://maps.google.com/?cid=13125054945060631636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Lungomare di Santo Spirito",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Lungomare Cristoforo Colombo",
+        "Funzionalità": "piccole aiuole e accesso al porticciolo.",
+        "Capienza": "/",
+        "Link": "https://maps.google.com/?cid=9325357928700172195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "Note": "",
+        "Latitudine": 41.16349485485067,
+        "Longitudine": 16.750269179762707,
+        "Link_URL": "https://maps.google.com/?cid=9325357928700172195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Campo Sportivo Comunale \"G. Lovero\"",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Tenente Leonardo Ranieri",
+        "Funzionalità": "campo da calcio comunale",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/NdEKEe18dNzPn6FBA",
+        "Note": "",
+        "Latitudine": 41.1547090297604,
+        "Longitudine": 16.762751013977812,
+        "Link_URL": "https://maps.app.goo.gl/NdEKEe18dNzPn6FBA",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Piazza di Carbonara Umberto I",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Ospedale di Venere",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/m2Mi8J66wLJhymbD6",
+        "Note": "",
+        "Latitudine": 41.07402175232416,
+        "Longitudine": 16.870432630039385,
+        "Link_URL": "https://maps.app.goo.gl/m2Mi8J66wLJhymbD6",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino Monica Dal Maso",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "V.le John F. Kennedy, 85",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/wGzMSd1jP3rvuYhd6",
+        "Note": "",
+        "Latitudine": 41.10101626558121,
+        "Longitudine": 16.86231108465588,
+        "Link_URL": "https://maps.app.goo.gl/wGzMSd1jP3rvuYhd6",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino Rita Levi Montalcini",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via G. Petroni, 134",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/2vdug8MnauTUuuKd8",
+        "Note": "",
+        "Latitudine": 41.0851020497208,
+        "Longitudine": 16.864466411946925,
+        "Link_URL": "https://maps.app.goo.gl/2vdug8MnauTUuuKd8",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino \"Fabrizio de André\"",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Molo S. Nicola, 6",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/4bkS8M9jsG8dNNNs6",
+        "Note": "",
+        "Latitudine": 41.125335911771536,
+        "Longitudine": 16.87414652074216,
+        "Link_URL": "https://maps.app.goo.gl/4bkS8M9jsG8dNNNs6",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Piazzetta dei Papi",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "V.le del Concilio Vaticano II",
+        "Funzionalità": "Giochi per bambini e panchine",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/cbJ6uWqpcpXed8Hk7",
+        "Note": "",
+        "Latitudine": 41.10395290624592,
+        "Longitudine": 16.864953857672056,
+        "Link_URL": "https://maps.app.goo.gl/cbJ6uWqpcpXed8Hk7",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Tombstoned skatepark",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Nazariantz Hrand",
+        "Funzionalità": "Campo da basket e skatepark",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/fXhR5tg52L9StZsu5",
+        "Note": "",
+        "Latitudine": 41.12106130440258,
+        "Longitudine": 16.84814237057563,
+        "Link_URL": "https://maps.app.goo.gl/fXhR5tg52L9StZsu5",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Maria Maugeri",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Michele Fiorino, 40C",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/46fZAUowafNstUbb9",
+        "Note": "",
+        "Latitudine": 41.126239306273725,
+        "Longitudine": 16.854813325279213,
+        "Link_URL": "https://maps.app.goo.gl/46fZAUowafNstUbb9",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Giardini Isabella d'Aragona",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Piazza Giuseppe Massari",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/VbqVz432BNGvR2oD9",
+        "Note": "",
+        "Latitudine": 41.128143259533104,
+        "Longitudine": 16.865493726164466,
+        "Link_URL": "https://maps.app.goo.gl/VbqVz432BNGvR2oD9",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Giardino Ciccio Mucciaccia",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Piazza Armando Diaz, 51",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/thiUp2xQkcAE6HFAA",
+        "Note": "",
+        "Latitudine": 41.12224731187762,
+        "Longitudine": 16.87916480299017,
+        "Link_URL": "https://maps.app.goo.gl/thiUp2xQkcAE6HFAA",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Perotti",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Lungomare Trieste, 1",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/jFLW6qBZGu19ohD18",
+        "Note": "",
+        "Latitudine": 41.1155211830888,
+        "Longitudine": 16.900064109836265,
+        "Link_URL": "https://maps.app.goo.gl/jFLW6qBZGu19ohD18",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Gentile",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Via Giovanni Gentile, 63",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/mnuxoejFzz1kC6gB6",
+        "Note": "",
+        "Latitudine": 41.10417781219541,
+        "Longitudine": 16.920571728836073,
+        "Link_URL": "https://maps.app.goo.gl/mnuxoejFzz1kC6gB6",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    },
+    {
+        "Spazio": "Parco Green Mission - Quartiere Santa Rita",
+        "Categoria": "Spazi del gioco",
+        "Indirizzo": "Ceglie",
+        "Funzionalità": "",
+        "Capienza": "/",
+        "Link": "https://maps.app.goo.gl/Ka8NRUo21huVwFvn7",
+        "Note": "",
+        "Latitudine": 41.06798433789674,
+        "Longitudine": 16.856929522257648,
+        "Link_URL": "https://maps.app.goo.gl/Ka8NRUo21huVwFvn7",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    0
+                ],
+                "chiusura": [
+                    24
+                ]
+            }
+        }
+    }
+]

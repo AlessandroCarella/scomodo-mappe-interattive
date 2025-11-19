@@ -1,0 +1,569 @@
+[
+    {
+        "Latitudine": 41.1246725,
+        "Longitudine": 16.8560676,
+        "name": "Spazio 13",
+        "value": 42,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.121894044267925,
+        "Longitudine": 16.87564816174823,
+        "name": "Prinz zaum",
+        "value": 33,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1252592,
+        "Longitudine": 16.8601813,
+        "name": "Officina degli esordi",
+        "value": 26,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.10658030286168,
+        "Longitudine": 16.886579137545002,
+        "name": "Bread and roses",
+        "value": 23,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.114737,
+        "Longitudine": 16.8716544,
+        "name": "Ex caserma Rossani",
+        "value": 17,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12341513470912,
+        "Longitudine": 16.875530177823432,
+        "name": "Piccolo Bar",
+        "value": 12,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1211898952258,
+        "Longitudine": 16.87582101575211,
+        "name": "MiXED lgbtqia+",
+        "value": 10,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12144658472404,
+        "Longitudine": 16.880246328657993,
+        "name": "Zona franka",
+        "value": 10,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.10967263119022,
+        "Longitudine": 16.87983793330308,
+        "name": "Campus",
+        "value": 8,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1158968,
+        "Longitudine": 16.8704457,
+        "name": "Parco Rossani",
+        "value": 8,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.126522,
+        "Longitudine": 16.8716853,
+        "name": "Spazio Murat",
+        "value": 8,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1131195,
+        "Longitudine": 16.8706468,
+        "name": "Storie del vecchio sud",
+        "value": 8,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1245731777968,
+        "Longitudine": 16.868377949327428,
+        "name": "Cafè portineria",
+        "value": 7,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1077125,
+        "Longitudine": 16.8637537,
+        "name": "Ekoinè",
+        "value": 7,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12234892256071,
+        "Longitudine": 16.86225969274399,
+        "name": "Zampə Mostruosə",
+        "value": 7,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1295686,
+        "Longitudine": 16.869599,
+        "name": "Bari vecchia",
+        "value": 6,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12615843543517,
+        "Longitudine": 16.86591651967947,
+        "name": "Circolo Arci",
+        "value": 6,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12720155341268,
+        "Longitudine": 16.852415030617234,
+        "name": "ExPost Moderno",
+        "value": 5,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.125427038765764,
+        "Longitudine": 16.86030337578236,
+        "name": "ODE",
+        "value": 5,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1095339,
+        "Longitudine": 16.8385175,
+        "name": "Teatro Kismet",
+        "value": 5,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1219291,
+        "Longitudine": 16.8742368,
+        "name": "Umbertino",
+        "value": 5,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1081053,
+        "Longitudine": 16.8836911,
+        "name": "Dipartimento di fisica",
+        "value": 4,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1225422,
+        "Longitudine": 16.8712829,
+        "name": "Feltrinelli",
+        "value": 4,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1237074,
+        "Longitudine": 16.8755875,
+        "name": "Kursaal Santalucia",
+        "value": 4,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11271924653431,
+        "Longitudine": 16.914471444773646,
+        "name": "Torre quetta",
+        "value": 4,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1210943,
+        "Longitudine": 16.8690626,
+        "name": "Ateneo",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1258931,
+        "Longitudine": 16.8742226,
+        "name": "El Chiringuito",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1087106,
+        "Longitudine": 16.8796868,
+        "name": "Frequenza libera",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.124051,
+        "Longitudine": 16.8717065,
+        "name": "Liberrima",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12337751728451,
+        "Longitudine": 16.876027865731942,
+        "name": "Norcineria",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.09702120821604,
+        "Longitudine": 16.88562208844041,
+        "name": "Orto sociale Campagneros",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.118344,
+        "Longitudine": 16.891917,
+        "name": "Pane e pomodoro",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1263619,
+        "Longitudine": 16.872861,
+        "name": "Teatro Margherita",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12646226774262,
+        "Longitudine": 16.84874204640919,
+        "name": "Voga Art Project",
+        "value": 3,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1631624,
+        "Longitudine": 16.7473564,
+        "name": "Arcimboldo",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.123855288361646,
+        "Longitudine": 16.875569564445904,
+        "name": "Biglietteria",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1124195,
+        "Longitudine": 16.8731886,
+        "name": "Cabaret voltaire",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1195282,
+        "Longitudine": 16.8536371,
+        "name": "Giardino Mimmo Bucci",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.125872162836615,
+        "Longitudine": 16.859796792469893,
+        "name": "Libreria Spine",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12341852475953,
+        "Longitudine": 16.876750033114963,
+        "name": "Organic",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.128336,
+        "Longitudine": 16.8722057,
+        "name": "Piazza del Ferrarese",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.121434540268744,
+        "Longitudine": 16.88158619512904,
+        "name": "Pinacoteca Corrado Giacquinto",
+        "value": 2,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1478573,
+        "Longitudine": 16.7405872,
+        "name": "Accademia del Cinema di Enziteto",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11136372509544,
+        "Longitudine": 16.87640159697652,
+        "name": "Accademia di belle arti",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1179704,
+        "Longitudine": 16.8642494,
+        "name": "AncheCinema",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11336613442185,
+        "Longitudine": 16.87291289986268,
+        "name": "Bari Ludens",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11993828740921,
+        "Longitudine": 16.86990448452394,
+        "name": "Biblioteca Gaetano Richetti",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.120516890488155,
+        "Longitudine": 16.78997499246642,
+        "name": "Biblioteca Lombardi",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.10265950709727,
+        "Longitudine": 16.87502641574076,
+        "name": "Biblioteca dei ragazzi",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.0987991,
+        "Longitudine": 16.8687698,
+        "name": "Bosco di cancello rotto",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12703266373722,
+        "Longitudine": 16.871737674143223,
+        "name": "Caffè noir",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.06873134965177,
+        "Longitudine": 16.86430261968942,
+        "name": "Calamandrei",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.128111516922296,
+        "Longitudine": 16.866466311632706,
+        "name": "Castello Svevo",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12860055150233,
+        "Longitudine": 16.871057061785486,
+        "name": "Cicchetteria",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11928927430121,
+        "Longitudine": 16.867967155223145,
+        "name": "Cinema Galleria",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1370541,
+        "Longitudine": 16.8387754,
+        "name": "Cineporto",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12659449793266,
+        "Longitudine": 16.86730490781312,
+        "name": "Corso vittorio emanuele",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.120425087437454,
+        "Longitudine": 16.87674114478415,
+        "name": "Finibus Terrae",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1515082,
+        "Longitudine": 16.7666684,
+        "name": "Fuori binaria",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1079652646532,
+        "Longitudine": 16.862681672970787,
+        "name": "Ianus",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1154101,
+        "Longitudine": 16.8727067,
+        "name": "Largo Ciaia",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1237316,
+        "Longitudine": 16.8760275,
+        "name": "Largo adua",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1227851,
+        "Longitudine": 16.8671358,
+        "name": "Libreria 101",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12277120894988,
+        "Longitudine": 16.87010121521149,
+        "name": "Libreria Laterza",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.09916397769848,
+        "Longitudine": 16.86665306308122,
+        "name": "Luoghi comuni",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11753875342157,
+        "Longitudine": 16.876604322652483,
+        "name": "Millelibri liberia",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12804373185526,
+        "Longitudine": 16.873160636207857,
+        "name": "Muraglia",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.103593002260304,
+        "Longitudine": 16.85870724642707,
+        "name": "Nevermind club",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1106541,
+        "Longitudine": 16.8699432,
+        "name": "Nuovo Splendor",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.10772150069555,
+        "Longitudine": 16.86206086432247,
+        "name": "OKAY",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.111298921410004,
+        "Longitudine": 16.875358607766483,
+        "name": "Officine clandestine",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1140003,
+        "Longitudine": 16.8711249,
+        "name": "Parco gargasole",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1235649,
+        "Longitudine": 16.873158,
+        "name": "Petruzzelli",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1278569,
+        "Longitudine": 16.8725188,
+        "name": "Piazza Mercantile",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.12109759298002,
+        "Longitudine": 16.87077116913902,
+        "name": "Piazza umberto",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1255127,
+        "Longitudine": 16.8674783,
+        "name": "Piccinni",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.112726,
+        "Longitudine": 16.8620525,
+        "name": "Policlinico",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.0984624,
+        "Longitudine": 16.8517052,
+        "name": "Punto X",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1179496,
+        "Longitudine": 16.8702402,
+        "name": "Stazione",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.11734764424779,
+        "Longitudine": 16.87657784894823,
+        "name": "The magic spot",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    },
+    {
+        "Latitudine": 41.1271214,
+        "Longitudine": 16.8714034,
+        "name": "Vallisa",
+        "value": 1,
+        "Categoria":"Spazio di aggregazione"
+    }
+]
