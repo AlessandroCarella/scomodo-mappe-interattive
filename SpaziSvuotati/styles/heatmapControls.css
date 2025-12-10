@@ -1,0 +1,90 @@
+/* Heatmap Controls Styling */
+.heatmap-controls {
+    position: relative;
+    top: auto;
+    left: auto;
+    background: #ffffff;
+    padding: 20px;
+    border: 2px solid #000000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 280px;
+}
+
+.heatmap-controls h3 {
+    margin: 0 0 15px 0;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000000;
+}
+
+.heatmap-controls .control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.view-option {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border: 2px solid #000000;
+    background: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    user-select: none;
+}
+
+.view-option:hover {
+    background: #f5f5f5;
+}
+
+.view-option input[type="checkbox"] {
+    margin-right: 12px;
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+    accent-color: #000000;
+}
+
+.view-option input[type="checkbox"]:checked + .option-text {
+    font-weight: 700;
+}
+
+.view-option:has(input[type="checkbox"]:checked) {
+    background: #000000;
+    color: white;
+}
+
+.option-text {
+    flex: 1;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .heatmap-controls {
+        padding: 20px;
+        max-width: 280px;
+        width: calc(100% - 40px);
+    }
+
+    .heatmap-controls h3 {
+        font-size: 14px;
+    }
+
+    .view-option {
+        padding: 10px;
+    }
+
+    .option-text {
+        font-size: 13px;
+    }
+}

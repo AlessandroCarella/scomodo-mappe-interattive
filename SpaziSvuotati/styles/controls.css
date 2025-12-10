@@ -1,0 +1,405 @@
+/* Data Source Controls Styling */
+.heatmap-controls {
+    position: relative;
+    top: auto;
+    left: auto;
+    background: #ffffff;
+    padding: 20px;
+    border: 2px solid #000000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 280px;
+}
+
+.heatmap-controls h3 {
+    margin: 0 0 15px 0;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000000;
+}
+
+/* Control Group (for each data source) */
+.control-group {
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid #000000;
+    width: 100%;
+}
+
+.control-group:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+/* Source Header */
+.source-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+}
+
+.color-indicator {
+    width: 16px;
+    height: 16px;
+    border-radius: 0;
+    border: 2px solid #000000;
+    box-shadow: none;
+    flex-shrink: 0;
+}
+
+.source-name {
+    font-weight: 700;
+    font-size: 13px;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    flex: 1;
+}
+
+/* Radio Options Container */
+.radio-options {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+}
+
+/* Radio Option */
+.radio-option {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border: 2px solid #000000;
+    background: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    user-select: none;
+}
+
+.radio-option:hover {
+    background: #f5f5f5;
+}
+
+.radio-option input[type="radio"] {
+    margin: 0;
+    margin-right: 12px;
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+    accent-color: #000000;
+    flex-shrink: 0;
+}
+
+.radio-option input[type="radio"]:checked + .option-text {
+    font-weight: 700;
+}
+
+.radio-option:has(input[type="radio"]:checked) {
+    background: #000000;
+    color: white;
+}
+
+.option-text {
+    flex: 1;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+}
+
+/* Mobile Toggle Button */
+.mobile-toggle-btn {
+    display: none; /* Hidden on desktop */
+}
+
+/* Tablet Responsive (768px - 1024px) */
+@media (max-width: 1024px) {
+    .heatmap-controls {
+        width: 260px;
+        padding: 18px;
+    }
+
+    .heatmap-controls h3 {
+        font-size: 15px;
+    }
+
+    .source-name {
+        font-size: 12px;
+    }
+
+    .radio-option {
+        padding: 10px;
+    }
+
+    .option-text {
+        font-size: 12px;
+    }
+}
+
+/* Mobile Landscape and Tablets (481px - 768px) */
+@media (max-width: 768px) {
+    .heatmap-controls {
+        width: 100%;
+        max-width: none;
+        padding: 10px 0;
+        box-shadow: none;
+        border: none;
+        border-bottom: 2px solid #000000;
+        margin: 0;
+    }
+
+    .heatmap-controls:last-of-type {
+        border-bottom: none;
+    }
+
+    .heatmap-controls h3 {
+        font-size: 12px;
+        margin-bottom: 8px;
+        padding-bottom: 6px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .control-group {
+        margin-bottom: 10px;
+        padding-bottom: 8px;
+        padding-left: 8px;
+        padding-right: 8px;
+        width: 100%;
+    }
+
+    .source-header {
+        margin-bottom: 6px;
+        padding-bottom: 4px;
+        gap: 8px;
+    }
+
+    .color-indicator {
+        width: 12px;
+        height: 12px;
+    }
+
+    .source-name {
+        font-size: 11px;
+    }
+
+    .radio-options {
+        flex-direction: row;
+        gap: 6px;
+        width: 100%;
+    }
+
+    .radio-option {
+        padding: 8px 4px;
+        flex: 1;
+        justify-content: center;
+        min-width: 0;
+    }
+
+    .radio-option input[type="radio"] {
+        display: none; /* Hide radio buttons on mobile */
+    }
+
+    .option-text {
+        font-size: 10px;
+        text-align: center;
+        margin-right: 0;
+    }
+
+    /* Mobile Toggle Button */
+    .mobile-toggle-btn {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 50px;
+        background: #000000;
+        color: white;
+        border: none;
+        border-top: 3px solid #ffffff;
+        font-size: 11px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        cursor: pointer;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        z-index: 1001;
+        transition: all 0.2s ease;
+    }
+
+    .mobile-toggle-btn:active {
+        background: #333;
+    }
+
+    .mobile-toggle-btn .caret {
+        font-size: 16px;
+        transition: transform 0.3s ease;
+        line-height: 1;
+    }
+
+    /* When menu is closed (no menu-open class), rotate arrow to point up */
+    .mobile-toggle-btn:not(.menu-open) .caret {
+        transform: rotate(180deg);
+    }
+}
+
+/* Mobile Portrait (320px - 480px) */
+@media (max-width: 480px) {
+    .heatmap-controls {
+        padding: 8px 0;
+    }
+
+    .heatmap-controls h3 {
+        font-size: 11px;
+        margin-bottom: 6px;
+        padding-bottom: 5px;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    .control-group {
+        margin-bottom: 8px;
+        padding-bottom: 6px;
+        padding-left: 6px;
+        padding-right: 6px;
+        width: 100%;
+    }
+
+    .source-header {
+        gap: 6px;
+        margin-bottom: 5px;
+        padding-bottom: 3px;
+    }
+
+    .color-indicator {
+        width: 10px;
+        height: 10px;
+    }
+
+    .source-name {
+        font-size: 10px;
+    }
+
+    .radio-options {
+        gap: 4px;
+        width: 100%;
+    }
+
+    .radio-option {
+        padding: 6px 4px;
+    }
+
+    .option-text {
+        font-size: 9px;
+    }
+
+    .mobile-toggle-btn {
+        height: 45px;
+        font-size: 10px;
+    }
+
+    .mobile-toggle-btn .caret {
+        font-size: 14px;
+    }
+}
+
+/* Very small screens */
+@media (max-width: 360px) {
+    .heatmap-controls {
+        padding: 6px 0;
+    }
+
+    .heatmap-controls h3 {
+        font-size: 10px;
+        margin-bottom: 5px;
+        padding-bottom: 4px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .control-group {
+        margin-bottom: 6px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 100%;
+    }
+
+    .source-header {
+        gap: 5px;
+        margin-bottom: 4px;
+    }
+
+    .color-indicator {
+        width: 8px;
+        height: 8px;
+    }
+
+    .source-name {
+        font-size: 9px;
+    }
+
+    .radio-option {
+        padding: 5px 3px;
+    }
+
+    .option-text {
+        font-size: 8px;
+    }
+
+    .mobile-toggle-btn {
+        height: 40px;
+        font-size: 9px;
+    }
+
+    .mobile-toggle-btn .caret {
+        font-size: 12px;
+    }
+}
+
+/* Landscape orientation on mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+    .heatmap-controls {
+        padding: 6px 0;
+    }
+
+    .heatmap-controls h3 {
+        font-size: 10px;
+        margin-bottom: 5px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .control-group {
+        margin-bottom: 6px;
+        padding-bottom: 5px;
+        padding-left: 8px;
+        padding-right: 8px;
+        width: 100%;
+    }
+
+    .radio-options {
+        gap: 4px;
+        width: 100%;
+    }
+
+    .radio-option {
+        padding: 5px 4px;
+    }
+
+    .mobile-toggle-btn {
+        height: 40px;
+    }
+}
