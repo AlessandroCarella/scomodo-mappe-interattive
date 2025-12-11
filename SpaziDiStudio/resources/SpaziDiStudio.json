@@ -217,7 +217,7 @@
                     "9:00"
                 ],
                 "chiusura": [
-                    "19:00"
+                    "19:45"
                 ]
             },
             "martedì": {
@@ -225,7 +225,7 @@
                     "9:00"
                 ],
                 "chiusura": [
-                    "19:00"
+                    "19:45"
                 ]
             },
             "mercoledì": {
@@ -233,7 +233,7 @@
                     "9:00"
                 ],
                 "chiusura": [
-                    "19:00"
+                    "19:45"
                 ]
             },
             "giovedì": {
@@ -241,7 +241,7 @@
                     "9:00"
                 ],
                 "chiusura": [
-                    "19:00"
+                    "19:45"
                 ]
             },
             "venerdì": {
@@ -249,7 +249,7 @@
                     "9:00"
                 ],
                 "chiusura": [
-                    "14:00"
+                    "19:45"
                 ]
             },
             "sabato": {
@@ -1610,13 +1610,53 @@
         "Latitudine": 41.11989680050723,
         "Longitudine": 16.868028045455446,
         "orari apertura": {
-            "08": {
+            "lunedì": {
                 "apertura": [
-                    "30"
+                    "09:00"
                 ],
                 "chiusura": [
                     "19:00"
                 ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
@@ -1803,27 +1843,6 @@
             "domenica": {
                 "apertura": [],
                 "chiusura": []
-            }
-        }
-    },
-    {
-        "Spazio": "Atrio coperto del Politecnico",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Politecnico (corpo grandi aule), Via E. Orabona 4",
-        "Funzionalità": "Panchine, tavoli di bar",
-        "Capienza": "",
-        "Link": "",
-        "Note": "Boh, arrivati a questo punto, eliminerei questa riga.",
-        "Latitudine": "",
-        "Longitudine": "",
-        "orari apertura": {
-            "lun-ven--> 07": {
-                "apertura": [
-                    "00"
-                ],
-                "chiusura": [
-                    "22:00"
-                ]
             }
         }
     },
@@ -2820,146 +2839,20 @@
         }
     },
     {
-        "Spazio": "Biblioteca Nazionale \"Sagarriga Visconti Volpi\"",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "via Pietro Oreste, 45",
-        "Funzionalità": "",
-        "Capienza": "",
-        "Link": "",
-        "Note": "",
-        "Latitudine": 41.12890564155939,
-        "Longitudine": 16.84630208461801,
-        "orari apertura": {
-            "lunedì": {
-                "apertura": [
-                    "8:15"
-                ],
-                "chiusura": [
-                    "18:45"
-                ]
-            },
-            "martedì": {
-                "apertura": [
-                    "8:15"
-                ],
-                "chiusura": [
-                    "18:45"
-                ]
-            },
-            "mercoledì": {
-                "apertura": [
-                    "8:15"
-                ],
-                "chiusura": [
-                    "18:45"
-                ]
-            },
-            "giovedì": {
-                "apertura": [
-                    "8:15"
-                ],
-                "chiusura": [
-                    "18:45"
-                ]
-            },
-            "venerdì": {
-                "apertura": [
-                    "8:15"
-                ],
-                "chiusura": [
-                    "13:45"
-                ]
-            },
-            "sabato": {
-                "apertura": [],
-                "chiusura": []
-            },
-            "domenica": {
-                "apertura": [],
-                "chiusura": []
-            }
-        }
-    },
-    {
-        "Spazio": "Nome",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Indirizzo",
-        "Funzionalità": "Funzionalità principali",
-        "Capienza": "Capienza",
-        "Link": "Fonte ufficiale",
-        "Note": "",
-        "Latitudine": "",
-        "Longitudine": "",
-        "orari apertura": {}
-    },
-    {
-        "Spazio": "Biblioteca della Soprintendenza ABAP – Bari (Ministero della Cultura)",
+        "Spazio": "Biblioteca della Soprintendenza ABAP – Bari",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Pier l'Eremita 25/B, 70122 Bari",
-        "Funzionalità": "Archivio specialistico, consultazione su appuntamento",
-        "Capienza": "–",
-        "Link": "Sabap BA",
+        "Funzionalità": "Archivio specialistico, consultazione solo su appuntamento",
+        "Capienza": 30,
+        "Link": "Biblioteca - Soprintendenza Archeologia, Belle Arti e Paesaggio",
         "Note": "",
         "Latitudine": 41.13092435202318,
         "Longitudine": 16.868803628438346,
-        "Link_URL": "https://sabapba.cultura.gov.it/",
-        "orari apertura": {}
-    },
-    {
-        "Spazio": "Biblioteca d’Arte “Michele D’Elia” (Pinacoteca Corrado Giaquinto) (Città Metropolitana di Bari)",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Via Spalato 19 / Lungomare Nazario Sauro 27, 70121 Bari",
-        "Funzionalità": "Biblioteca d’arte con collezione specializzata; consultazione e postazioni PC catalogo",
-        "Capienza": "–",
-        "Link": "Pinacoteca Bari",
-        "Note": "",
-        "Latitudine": 41.12144061997153,
-        "Longitudine": 16.88165520462701,
-        "Link_URL": "https://www.pinacotecabari.it/servizi-al-pubblico",
-        "orari apertura": {
-            "lun–ven 9": {
-                "apertura": [],
-                "chiusura": []
-            }
-        }
-    },
-    {
-        "Spazio": "Biblioteca Provinciale dei Padri Cappuccini (Provincia delle Puglie) (Frati Minori Cappuccini)",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Via Gen. N. Bellomo 94, 70124 Bari",
-        "Funzionalità": "Biblioteca teologica con prestito gratuito; limitato a 2 opere per prestito",
-        "Capienza": "–",
-        "Link": "Biblioteche Facoltà Teologica Pugliese",
-        "Note": "",
-        "Latitudine": 41.10078912574911,
-        "Longitudine": 16.848335454270284,
-        "Link_URL": "https://www.fondazionebbcc.it/",
-        "orari apertura": {
-            "lun, mer, ven 9": {
-                "apertura": [],
-                "chiusura": []
-            }
-        }
-    },
-    {
-        "Spazio": "Biblioteca della Società di Storia Patria per la Puglia (Società culturale)",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Palazzo Ateneo, Piazza Umberto I 1, 70121 Bari",
-        "Funzionalità": "Biblioteca storica locale; sale lettura e consultazione volumi d’archivio",
-        "Capienza": "–",
-        "Link": "Società di Storia Patria Puglia",
-        "Note": "",
-        "Latitudine": 41.12060816540131,
-        "Longitudine": 16.868527167763183,
-        "Link_URL": "https://www.storiapatriapuglia.it/",
+        "Link_URL": "https://sabapba.cultura.gov.it/servizi-allutenza/biblioteca/",
         "orari apertura": {
             "lunedì": {
-                "apertura": [
-                    "09:00"
-                ],
-                "chiusura": [
-                    "13:00"
-                ]
+                "apertura": [],
+                "chiusura": []
             },
             "martedì": {
                 "apertura": [
@@ -3004,16 +2897,82 @@
         }
     },
     {
-        "Spazio": "Biblioteca del Conservatorio di Musica “Niccolò Piccinni” (Conservatorio statale)",
+        "Spazio": "Biblioteca della Provincia delle Puglie dei Frati minori cappuccini",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Gen. N. Bellomo 94, 70124 Bari",
+        "Funzionalità": "Biblioteca teologica con prestito gratuito.",
+        "Capienza": 30,
+        "Link": "Biblioteca della Provincia delle Puglie dei Frati minori cappuccini ",
+        "Note": "",
+        "Latitudine": 41.10078912574911,
+        "Longitudine": 16.848335454270284,
+        "Link_URL": "https://www.beweb.chiesacattolica.it/istituticulturali/istituto/1279/Biblioteca+della+Provincia+delle+Puglie+dei+Frati+minori+cappuccini",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "18:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "18:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca del Conservatorio di Musica “Niccolò Piccinni”",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Michele Cifarelli 26, 70124 Bari",
-        "Funzionalità": "Biblioteca musicale con cataloghi informatici; PC consultazione cataloghi e database (OpenAthens)",
+        "Funzionalità": "Biblioteca musicale con cataloghi informatici; PC consultazione cataloghi e database",
         "Capienza": "–",
-        "Link": "Conservatorio Piccinni",
+        "Link": "Biblioteca - Conservatorio di Musica Bari",
         "Note": "",
         "Latitudine": 41.11585902018102,
         "Longitudine": 16.856712910090973,
-        "Link_URL": "https://www.conservatoriopiccinni.ba.it/i-servizi/servizi-biblioteca",
+        "Link_URL": "https://www.consba.it/it/63/biblioteca",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3080,24 +3039,11 @@
         }
     },
     {
-        "Spazio": "Biblioteca della Camera di Commercio di Bari (Ente camerale)",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Corso Cavour 2, 70121 Bari",
-        "Funzionalità": "Specializzata in economia, statistica e normativa; consultazione Gazzetta Ufficiale, documentazione legislativa, testi storia locale; catalogo informatizzato e assistenza alla ricerca",
-        "Capienza": "–",
-        "Link": "Camera di Commercio Bari",
-        "Note": "",
-        "Latitudine": 41.12492387119966,
-        "Longitudine": 16.872702763795473,
-        "Link_URL": "https://www.ba.camcom.it/bari/pubblicazioni/biblioteca",
-        "orari apertura": {}
-    },
-    {
-        "Spazio": "Biblioteca della Fondazione Giuseppe Tatarella (Fondazione culturale)",
+        "Spazio": "Biblioteca della Fondazione Giuseppe Tatarella",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Nicolò Piccinni 97, 70122 Bari",
         "Funzionalità": "Sale lettura, Wi-Fi, postazioni PC; archivi storici e sale riunioni; area bambini e sala video-proiezioni",
-        "Capienza": "–",
+        "Capienza": 20,
         "Link": "Fondazione Tatarella",
         "Note": "",
         "Latitudine": 41.12550607906539,
@@ -3155,36 +3101,114 @@
         }
     },
     {
-        "Spazio": "Biblioteca dei Ragazzi[e] (Parco 2 Giugno) (Servizio comunale)",
+        "Spazio": "Biblioteca dei Ragazzi[e]",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Parco Largo 2 Giugno, ingresso Viale della Resistenza, 70125 Bari",
-        "Funzionalità": "Biblioteca per infanzia e famiglie: aree morbide e sale lettura con scaffali aperti, book-sharing; prestito libri, laboratori, narrazioni, eventi; collegata a rete #Barisocialbook",
-        "Capienza": "–",
+        "Funzionalità": "Biblioteca per infanzia e famiglie: aree morbide e sale lettura con scaffali aperti, book-sharing; prestito libri, laboratori, narrazioni, eventi; collegata a rete #Barisocialbook.",
+        "Capienza": 25,
         "Link": "Progetto Città (Biblioteca Ragazzi)",
         "Note": "",
         "Latitudine": 41.102069763708506,
         "Longitudine": 16.87547706961436,
         "Link_URL": "http://www.progettocitta.org/i-servizi/biblioteca-ragazzi-e.html",
         "orari apertura": {
-            "set–mag": {
+            "lunedì": {
                 "apertura": [],
                 "chiusura": []
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [
+                    "09:00",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "domenica": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
             }
         }
     },
     {
-        "Spazio": "Biblioteca della Fondazione Puglia (Fondazione Cassa)",
+        "Spazio": "Biblioteca della Fondazione Puglia",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Venezia 13, 70122 Bari",
-        "Funzionalità": "Biblioteca d’arte e cultura (≈7.000 volumi di arte, economia, storia locale, collezione Castorani); aree di lettura con postazioni; consultazione OPAC online",
-        "Capienza": "–",
+        "Funzionalità": "Biblioteca d’arte e cultura, economia, storia locale; aree di lettura con postazioni; consultazione OPAC online.",
+        "Capienza": 30,
         "Link": "Fondazione Puglia",
         "Note": "",
         "Latitudine": 41.128057165089245,
         "Longitudine": 16.872569662106905,
         "Link_URL": "https://www.fondazionepuglia.it/la-biblioteca/",
         "orari apertura": {
-            "mer e ven 10": {
+            "lunedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "mercoledì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "venerdì": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
                 "apertura": [],
                 "chiusura": []
             }
@@ -3194,15 +3218,59 @@
         "Spazio": "Biblioteca della Soprintendenza Archivistica e Bibliografica della Puglia",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Strada Sagges 3, 70122 Bari",
-        "Funzionalità": "Consultazione archivistica gratuita (no prestito); sola modalità di ricerca in sede, su richiesta preventiva",
-        "Capienza": "–",
-        "Link": "SAPuglia – Soprintendenza Archivistica Puglia",
+        "Funzionalità": "Consultazione archivistica gratuita (no prestito) solo su appuntamento",
+        "Capienza": 15,
+        "Link": "Soprintendenza Archivistica e Bibliografica della Puglia: La Biblioteca",
         "Note": "",
         "Latitudine": 41.1273676419004,
         "Longitudine": 16.869681896599516,
-        "Link_URL": "https://sapuglia.it/la-biblioteca/",
+        "Link_URL": "https://sab-puglia.cultura.gov.it/sorprintendeza/la-biblioteca",
         "orari apertura": {
-            "lun–ven mattina 9": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
                 "apertura": [],
                 "chiusura": []
             }
@@ -3213,81 +3281,260 @@
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Pietro Oreste 45, 70123 Bari",
         "Funzionalità": "Sala di studio libera e gratuita per ricerca storico-documentaria; necessaria prenotazione via email",
-        "Capienza": "–",
+        "Capienza": 40,
         "Link": "Archivio di Stato Bari",
         "Note": "",
         "Latitudine": 41.12885994061356,
         "Longitudine": 16.84688499659959,
         "Link_URL": "https://archiviodistatodibari.cultura.gov.it/sala-studio/modalita-di-accesso",
         "orari apertura": {
-            "lun–mer–ven 9": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:15"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:15"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:15"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
                 "apertura": [],
                 "chiusura": []
             }
         }
     },
     {
-        "Spazio": "Biblioteca Nazionale “Sagarriga Visconti Volpi” di Bari",
+        "Spazio": "Biblioteca Nazionale “Sagarriga Visconti Volpi”",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Pietro Oreste 45, 70123 Bari",
-        "Funzionalità": "Sala di consultazione con Wi-Fi; quotidiani e periodici, prestito locale (2 volumi), distribuzione Gazzetta del Mezzogiorno",
-        "Capienza": "–",
+        "Funzionalità": "Sala di consultazione con Wi-Fi; quotidiani e periodici, mediateca",
+        "Capienza": 155,
         "Link": "Bibl. Nazionale Bari",
         "Note": "",
         "Latitudine": 41.12889349107415,
         "Longitudine": 16.846334267763524,
         "Link_URL": "https://bibliotecanazionalebari.cultura.gov.it/",
         "orari apertura": {
-            "lun–gio 8": {
+            "lunedì": {
+                "apertura": [
+                    "08:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:15"
+                ],
+                "chiusura": [
+                    "18:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:15"
+                ],
+                "chiusura": [
+                    "13:45"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
                 "apertura": [],
                 "chiusura": []
             }
         }
     },
     {
-        "Spazio": "Bari Social Book (luoghi sociali per leggere)",
+        "Spazio": "Biblioteca Santa Teresa dei Maschi – De Gemmis",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Parco Largo 2 Giugno (ingr. Viale della Resistenza), 70125 Bari",
-        "Funzionalità": "“Biblioteche diffuse” all’aperto con scaffali, book-sharing, eventi culturali; lettura e prestito informale di libri",
-        "Capienza": "–",
-        "Link": "Comune di Bari (rete Bari Social Book)",
-        "Note": "",
-        "Latitudine": 41.10295724714482,
-        "Longitudine": 16.875283389420368,
-        "Link_URL": "https://www.comune.bari.it/web/servizi-alla-persona/bari-social-book",
-        "orari apertura": {}
-    },
-    {
-        "Spazio": "Biblioteca Santa Teresa dei Maschi – De Gemmis (già Prov. di Bari)",
-        "Categoria": "Spazi di studio",
-        "Indirizzo": "Strada Lamberti 34, 70122 Bari",
-        "Funzionalità": "Biblioteca storica con fondo antico (70.000 volumi): libri, periodici d’epoca, archivio locale; ingresso gratuito",
-        "Capienza": "–",
-        "Link": "Bari Metropolitana (Cultura)",
+        "Indirizzo": "Strada Lamberti 3, 70122 Bari",
+        "Funzionalità": "Biblioteca storica con fondo antico (70.000 volumi). 2 sale letture (piano terra e primo piano), più un'aula multifunzionale (secondo piano)",
+        "Capienza": 60,
+        "Link": "Città metropolitana di Bari - Biblioteca de Gemmis",
         "Note": "",
         "Latitudine": 41.12780310440995,
         "Longitudine": 16.86987026776357,
-        "Link_URL": "https://www.comune.bari.it/servizi/biblioteche",
+        "Link_URL": "https://www.cittametropolitana.ba.it/vivere_il_comune/luoghi/luogo_6.html",
         "orari apertura": {
-            "lun–gio 9": {
+            "lunedì": {
+                "apertura": [
+                    "08:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "14:00",
+                    "18:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "14:00",
+                    "18:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "14:00",
+                    "18:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "14:00",
+                    "18:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "14:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
                 "apertura": [],
                 "chiusura": []
             }
         }
     },
     {
-        "Spazio": "Biblioteca Gaetano Ricchetti (Fondazione G. Ricchetti)",
+        "Spazio": "Biblioteca Gaetano Ricchetti",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Sparano 145, 70121 Bari",
         "Funzionalità": "Biblioteca storico-culturale con collezioni di diritto e storia; ambienti di lettura; servizio prestito gratuito",
-        "Capienza": "–",
+        "Capienza": 60,
         "Link": "Fondazione G. Ricchetti",
         "Note": "",
         "Latitudine": 41.11950226621863,
         "Longitudine": 16.869775781255143,
         "Link_URL": "https://www.bibliotecaricchetti.it/",
         "orari apertura": {
-            "lun–gio 8": {
+            "lunedì": {
+                "apertura": [
+                    "08:30",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "18:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "08:30",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "18:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "08:30",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "18:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "08:30",
+                    "16:00"
+                ],
+                "chiusura": [
+                    "13:30",
+                    "18:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "08:30"
+                ],
+                "chiusura": [
+                    "13:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
                 "apertura": [],
                 "chiusura": []
             }
@@ -3307,43 +3554,61 @@
         "orari apertura": {
             "lunedì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "martedì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "mercoledì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "giovedì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "venerdì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
@@ -3361,43 +3626,61 @@
         "orari apertura": {
             "lunedì": {
                 "apertura": [
-                    "10:00"
+                    "10:00",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "12:00"
+                    "12:00",
+                    "19:00"
                 ]
             },
             "martedì": {
                 "apertura": [
-                    "10:00"
+                    "10:00",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "12:00"
+                    "12:00",
+                    "19:00"
                 ]
             },
             "mercoledì": {
                 "apertura": [
-                    "10:00"
+                    "10:00",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "12:00"
+                    "12:00",
+                    "19:00"
                 ]
             },
             "giovedì": {
                 "apertura": [
-                    "10:00"
+                    "10:00",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "12:00"
+                    "12:00",
+                    "19:00"
                 ]
             },
             "venerdì": {
                 "apertura": [
-                    "10:00"
+                    "10:00",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "12:00"
+                    "12:00",
+                    "19:00"
                 ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
@@ -3415,15 +3698,19 @@
         "orari apertura": {
             "lunedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "14:00"
                 ]
             },
+            "martedì": {
+                "apertura": [],
+                "chiusura": []
+            },
             "mercoledì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "14:00"
@@ -3439,11 +3726,15 @@
             },
             "venerdì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "14:00"
                 ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
             },
             "domenica": {
                 "apertura": [
@@ -3469,7 +3760,7 @@
         "orari apertura": {
             "lunedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3477,7 +3768,7 @@
             },
             "martedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3485,15 +3776,17 @@
             },
             "mercoledì": {
                 "apertura": [
-                    "9:00"
+                    "09:00",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "13:00"
+                    "13:00",
+                    "18:00"
                 ]
             },
             "giovedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3501,11 +3794,19 @@
             },
             "venerdì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "12:00"
                 ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
@@ -3531,26 +3832,32 @@
             },
             "martedì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "mercoledì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "giovedì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "15:30"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "18:30"
                 ]
             },
             "venerdì": {
@@ -3560,11 +3867,19 @@
                 "chiusura": [
                     "18:30"
                 ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
     {
-        "Spazio": "Biblioteca “G. Marconi” (Galassia)",
+        "Spazio": "Biblioteca “G. Marconi”",
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Skanderbeg, 35 ",
         "Funzionalità": "Sala consultazione con possibilità di laboratori; sala digitale con PC e attrezzature tecnologiche; uso di ampio cortile e giardino della scuola Marconi per attività all’aperto; area bambini con giochi.",
@@ -3601,10 +3916,12 @@
             },
             "giovedì": {
                 "apertura": [
-                    "9:30"
+                    "09:30",
+                    "16:00"
                 ],
                 "chiusura": [
-                    "12:30"
+                    "12:30",
+                    "19:00"
                 ]
             },
             "venerdì": {
@@ -3617,11 +3934,15 @@
             },
             "sabato": {
                 "apertura": [
-                    "9:30"
+                    "09:30"
                 ],
                 "chiusura": [
                     "12:30"
                 ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
@@ -3630,7 +3951,7 @@
         "Categoria": "Spazi di studio",
         "Indirizzo": "Via Nicola Colonna, 1 (Carbonara)",
         "Funzionalità": "Sala lettura con dotazioni multimediali: PC, tablet, TV a schermo piatto, totem per consultazione; piccolo spazio esterno dedicato; arredi per attività all’aperto.",
-        "Capienza": "15 (interni), 30 (esterni)",
+        "Capienza": 45,
         "Link": "Biblioteca Maurogiovanni",
         "Note": "",
         "Latitudine": 41.07813604700224,
@@ -3647,7 +3968,7 @@
             },
             "martedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3663,11 +3984,15 @@
             },
             "giovedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
                 ]
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
             },
             "sabato": {
                 "apertura": [
@@ -3676,6 +4001,10 @@
                 "chiusura": [
                     "19:30"
                 ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     },
@@ -3693,7 +4022,281 @@
         "orari apertura": {
             "lunedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Teca del Mediterraneo",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Via Gentile, 52, 70126 - Bari",
+        "Funzionalità": "E' dotata di un patrimonio di circa 47.000 documenti; specializzata nei profili tematici della pubblica amministrazione, diritto, economia e finanza, politiche pubbliche, organizzazione e management. È possibile navigare gratuitamente per un’ora al giorno.",
+        "Capienza": 100,
+        "Link": "Teca del Mediterraneo",
+        "Note": "Per poter usufruire dei servizi occorre iscriversi compilando un modulo di iscrizione accompagnato da un documento  d’identità in corso di validità.",
+        "Latitudine": "",
+        "Longitudine": "",
+        "Link_URL": "https://biblioteca.consiglio.puglia.it/home",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "18:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Aquarius Biblioteca di comunità",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Giardino Via Siponto, Bari",
+        "Funzionalità": "Organizza eventi per tutte le età",
+        "Capienza": 15,
+        "Link": "Aquarius - Biblioteca di Comunità | Bari",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "Link_URL": "https://www.facebook.com/p/Aquarius-Biblioteca-di-Comunit%C3%A0-61558051497837/?locale=it_IT",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "13:00",
+                    "19:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:30",
+                    "15:00"
+                ],
+                "chiusura": [
+                    "12:30",
+                    "18:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [
+                    "10:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Scienze Statistiche",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "",
+        "Capienza": "",
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:45"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:45"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:45"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:45"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Diritto Privato",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "La sala lettura della Biblioteca di Diritto Privato è temporaneamente chiusa. Per i servizi di consultazione, prestito e informazioni bibliografiche scrivere all'indirizzo; biblioteca.economia2@uniba.it",
+        "Capienza": 20,
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3701,7 +4304,7 @@
             },
             "martedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3709,7 +4312,7 @@
             },
             "mercoledì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3717,7 +4320,7 @@
             },
             "giovedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
@@ -3725,19 +4328,377 @@
             },
             "venerdì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
                 ]
             },
             "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Scienze Geografiche",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "2° piano",
+        "Capienza": 12,
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
                 "apertura": [
-                    "9:00"
+                    "09:00"
                 ],
                 "chiusura": [
                     "13:00"
                 ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Storia Economica",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "6° piano",
+        "Capienza": 32,
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Studi Aziendali",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "",
+        "Capienza": "",
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Studi Merceologici",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "",
+        "Capienza": "",
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Diritto Pubblico “Carlo Lavagna”",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "6° piano",
+        "Capienza": 12,
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "13:00"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
+            }
+        }
+    },
+    {
+        "Spazio": "Biblioteca di Scienze Economiche e Metodi Matematici",
+        "Categoria": "Spazi di studio",
+        "Indirizzo": "Largo Abbazia Santa Scolastica, 53",
+        "Funzionalità": "",
+        "Capienza": "",
+        "Link": "",
+        "Note": "",
+        "Latitudine": "",
+        "Longitudine": "",
+        "orari apertura": {
+            "lunedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "martedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "mercoledì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "giovedì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "venerdì": {
+                "apertura": [
+                    "09:00"
+                ],
+                "chiusura": [
+                    "16:30"
+                ]
+            },
+            "sabato": {
+                "apertura": [],
+                "chiusura": []
+            },
+            "domenica": {
+                "apertura": [],
+                "chiusura": []
             }
         }
     }
