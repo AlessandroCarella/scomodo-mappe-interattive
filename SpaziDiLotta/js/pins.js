@@ -86,12 +86,24 @@ function createPin(data, source) {
     const marker = L.marker([lat, lng], {
         icon: icon,
         zIndexOffset: source.zIndexOffset || 0,
-    })
-        .bindTooltip(`<strong>${name}</strong><br>${category}`, {
+    });
+
+    // Only add interactive features if enabled
+    if (source.interactiveHover) {
+        // Add tooltip on hover
+        marker.bindTooltip(`<strong>${name}</strong><br>${category}`, {
             direction: "top",
             offset: [0, -20],
-        })
-        .on("click", () => handlePinClick(data, source));
+        });
+    }
+    if (source.interactivePanel) {
+        marker.on("click", () => {
+            showLocationInfo(data);
+            if (source.spotlightEnabled) {
+                toggleSpotlight(data);
+            }
+        });
+    }
 
     // Store metadata on marker
     marker._pinData = data;

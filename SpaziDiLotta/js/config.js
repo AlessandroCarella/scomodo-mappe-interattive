@@ -43,6 +43,8 @@ export const dataSources = [
             lat: "Latitudine",
             lng: "Longitudine",
         },
+        interactiveHover: true, // Enable hover tooltip behavior
+        interactivePanel: true, // Enable click behavior
     },
     {
         id: "SpaziDiConsumo",
@@ -60,6 +62,8 @@ export const dataSources = [
             lat: ["Latitudine", "latitudine"], // Can handle multiple field names
             lng: ["Longitudine", "longitudine"],
         },
+        interactiveHover: false, // Enable hover tooltip behavior
+        interactivePanel: false, // Enable click behavior
     },
 ];
 
