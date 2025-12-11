@@ -11,7 +11,8 @@ export const dataSources = [
         categoryField: "Categoria",
         latField: "Latitudine",
         lngField: "Longitudine",
-        interactive: true, // Enable hover tooltip and click behavior
+        interactiveHover: true, // Enable hover tooltip behavior
+        interactivePanel: false, // Enable click behavior
     },
     // {
     //     id: "questionario",
@@ -24,7 +25,8 @@ export const dataSources = [
     //     categoryField: "Categoria",
     //     latField: "Latitudine",
     //     lngField: "Longitudine",
-    //     interactive: true,
+    //     interactiveHover: false, // Enable hover tooltip behavior
+    //     interactivePanel: false, // Enable click behavior
     // },
     {
         id: "SpaziDiConsumo",
@@ -37,7 +39,8 @@ export const dataSources = [
         categoryField: "Categoria",
         latField: "latitudine",
         lngField: "longitudine",
-        interactive: false, // Enable hover tooltip and click behavior
+        interactiveHover: false, // Enable hover tooltip behavior
+        interactivePanel: false, // Enable click behavior
     }
 ];
 

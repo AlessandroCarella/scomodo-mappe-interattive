@@ -43,13 +43,14 @@ export class PinLayer {
             });
 
             // Only add interactive features if enabled
-            if (this.config.interactive !== false) {
+            if (this.config.interactiveHover !== false) {
                 // Add tooltip on hover
                 marker.bindTooltip(`<strong>${name}</strong><br>${category}`, {
                     direction: "top",
                     offset: [0, -20],
                 });
-
+            }
+            if (this.config.interactivePanel !== false) {
                 // Add click event to show info panel
                 marker.on("click", () => {
                     showLocationInfo(item, this.config);

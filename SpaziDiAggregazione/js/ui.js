@@ -61,20 +61,20 @@ export function showLocationInfo(location, config) {
         }
     });
 
-    // Add coordinates
-    const lat = location[config.latField];
-    const lng = location[config.lngField];
+    // // Add coordinates
+    // const lat = location[config.latField];
+    // const lng = location[config.lngField];
 
-    if (lat && lng) {
-        content += `
-            <div class="info-row">
-                <div class="info-label">Coordinate</div>
-                <div class="info-value">${Number(lat).toFixed(6)}, ${Number(
-            lng
-        ).toFixed(6)}</div>
-            </div>
-        `;
-    }
+    // if (lat && lng) {
+    //     content += `
+    //         <div class="info-row">
+    //             <div class="info-label">Coordinate</div>
+    //             <div class="info-value">${Number(lat).toFixed(6)}, ${Number(
+    //         lng
+    //     ).toFixed(6)}</div>
+    //         </div>
+    //     `;
+    // }
 
     contentEl.innerHTML =
         content ||
