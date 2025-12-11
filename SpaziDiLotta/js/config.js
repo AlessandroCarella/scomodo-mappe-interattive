@@ -29,7 +29,7 @@ export const mapConfig = {
 export const dataSources = [
     {
         id: "spazi",
-        name: "Spazi di Aggregazione",
+        name: "Spazi slegati da logiche di consumo",
         file: "resources/SpaziDiLotta.json",
         color: "#9b3642",
         opacity: 1.0,
@@ -48,7 +48,7 @@ export const dataSources = [
     },
     {
         id: "SpaziDiConsumo",
-        name: "Spazi di Consumo",
+        name: "Spazi legati a logiche di Consumo",
         file: "resources/SpaziDiConsumo.json",
         color: "#808080",
         opacity: 0.7,

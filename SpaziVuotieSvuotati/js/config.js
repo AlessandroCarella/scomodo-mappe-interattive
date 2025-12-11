@@ -2,7 +2,7 @@
 export const dataSources = [
     {
         id: "spazi",
-        name: "Spazi Svuotati",
+        name: "Spazi Vuoti e Svuotati",
         file: "resources/BandBbari.json",
         color: "#bababa",
         defaultView: "heatmap", // 'pins', 'heatmap', or 'none'

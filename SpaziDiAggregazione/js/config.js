@@ -2,7 +2,7 @@
 export const dataSources = [
     {
         id: "spazi",
-        name: "Spazi di Aggregazione",
+        name: "Spazi slegati da logiche di consumo",
         file: "resources/SpaziDiAggregazione.json",
         color: "#356854",
         defaultView: "pins", // 'pins', 'heatmap', or 'none'
@@ -30,7 +30,7 @@ export const dataSources = [
     // },
     {
         id: "SpaziDiConsumo",
-        name: "Spazi di Consumo",
+        name: "Spazi legati a logiche di Consumo",
         file: "resources/SpaziDiConsumo.json",
         color: "#fb8072",
         defaultView: "heatmap", // 'pins', 'heatmap', or 'none'

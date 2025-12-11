@@ -2,15 +2,13 @@
     {
         "Spazio": "Aula Studio “Andrea Maggio”",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Biblioteca Centrale della scuola di Medicina, terzo piano",
+        "Indirizzo": "https://maps.app.goo.gl/scJYguCBMsxg9Ke9A",
         "Funzionalità": "Accessibile tramite un ascensore. Prese a tavolo",
         "Capienza": 59,
-        "Link": "Aula Studio \"Andrea Maggio\" — Scuola di Medicina",
+        "Link": "https://www.uniba.it/it/scuole/medicina/aule/aula-studio",
         "Note": "",
         "Latitudine": 41.11198525216712,
         "Longitudine": 16.86040901474208,
-        "Indirizzo_URL": "https://maps.app.goo.gl/scJYguCBMsxg9Ke9A",
-        "Link_URL": "https://www.uniba.it/it/scuole/medicina/aule/aula-studio",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -73,15 +71,13 @@
     {
         "Spazio": "Biblioteca Centrale Polo Medico-Veterinario “Claudio Malaguzzi Valeri”",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Biblioteca Centrale della scuola di Medicina, piano terra e primo piano",
+        "Indirizzo": "https://maps.app.goo.gl/scJYguCBMsxg9Ke9A",
         "Funzionalità": "Accesso via scale. E' possibile accedere tramite un percorso alternativo per portatori di handicap, ma è complesso e non facilmente raggiungibile. ",
         "Capienza": 186,
-        "Link": "Biblioteca Centrale Polo Medico-Veterinario \"Claudio Malaguzzi Valeri\"",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/biblioteca-facolta-medicina",
         "Note": "",
         "Latitudine": 41.11186237012392,
         "Longitudine": 16.86014453046411,
-        "Indirizzo_URL": "https://maps.app.goo.gl/scJYguCBMsxg9Ke9A",
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/biblioteca-facolta-medicina",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -147,7 +143,6 @@
         "Note": "https://www.instagram.com/ops_uniba/p/DBwH5BFN0vx/?img_index=4",
         "Latitudine": 41.1135293794519,
         "Longitudine": 16.860396379257505,
-        "Note_URL": "https://www.instagram.com/ops_uniba/p/DBwH5BFN0vx/?img_index=4",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -202,15 +197,13 @@
     {
         "Spazio": "Biblioteca Centrale del Polo Umanistico e di Comunità",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Palazzo Ateneo, piano terra",
+        "Indirizzo": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "Funzionalità": "Tre sale, di cui una interdetta per ora. Possibilità di consultazione dei testi. Diverse prese per postazione. Piano terra",
         "Capienza": 82,
-        "Link": "Biblioteca dell'Ateneo: Biblioteca Centrale del Polo Umanistico e di Comunità",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/biblioteca-ateneo",
         "Note": "",
         "Latitudine": 41.12012060661234,
         "Longitudine": 16.869652074300653,
-        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/biblioteca-ateneo",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -265,15 +258,13 @@
     {
         "Spazio": "Biblioteca For.Psi.Com.",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Università degli Studi di Bari - Dipartimento di Scienze della Formazione, Psicologia, Comunicazione, piano terra",
+        "Indirizzo": "https://maps.app.goo.gl/3cEQxS5FzH4xyUZB9",
         "Funzionalità": "Possibilità di consultazione dei testi.",
         "Capienza": 92,
-        "Link": "Biblioteca For.Psi.Com.",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/forpsicom/biblioteca/biblioteca-dip",
         "Note": "",
         "Latitudine": 41.11971803045592,
         "Longitudine": 16.867496649687354,
-        "Indirizzo_URL": "https://maps.app.goo.gl/3cEQxS5FzH4xyUZB9",
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/forpsicom/biblioteca/biblioteca-dip",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -393,14 +384,13 @@
     {
         "Spazio": "Biblioteca di Lingue e Tradizioni culturali europee",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Palazzo Ateneo",
+        "Indirizzo": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "Funzionalità": "Prese concentrate solo in un punto dell'aula, accesso tramite ascensore ",
         "Capienza": 40,
         "Link": "Biblioteca di Lingua e Tradizioni Culturali Europee",
         "Note": "",
         "Latitudine": 41.12099654902456,
         "Longitudine": 16.868401915085155,
-        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -451,15 +441,13 @@
     {
         "Spazio": "Biblioteca di Scienze Filosofiche",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Palazzo Ateneo",
+        "Indirizzo": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "Funzionalità": "Prese concentrate solo in un punto dell'aula, accesso tramite ascensore ",
         "Capienza": 20,
-        "Link": "Storia e Filosofia",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/storia_filosofia",
         "Note": "",
         "Latitudine": 41.12035315658549,
         "Longitudine": 16.868791900900348,
-        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/storia_filosofia",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -514,14 +502,13 @@
     {
         "Spazio": "Biblioteca Corsano",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Palazzo Ateneo",
+        "Indirizzo": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "Funzionalità": "Hanno una bassa capienza e bisogna autenticarsi tramite una firma su un elenco prima di entrare. Solo alcuni tavoli hanno le prese, tutte concentrate in un punto dell'aula",
         "Capienza": 82,
         "Link": "Biblioteca Corsano",
         "Note": "",
         "Latitudine": 41.12024151707262,
         "Longitudine": 16.868218621752014,
-        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "orari apertura": {
             "\"sala lettura\" lun-ven --> 08": {
                 "apertura": [
@@ -539,11 +526,10 @@
         "Indirizzo": "Dipartimento ricerca e innovazione umanistica",
         "Funzionalità": "Piano Terra ",
         "Capienza": 50,
-        "Link": "Archeologia e Cristianistica - Bari",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/archeologia",
         "Note": "Sede meravigliosa, io l'ho vista qualche volta ma non ci sono mai entrato. Si trova proprio dentro Barivecchia, splendido.",
         "Latitudine": 41.12753541937561,
         "Longitudine": 16.870487873672367,
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/archeologia",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -598,15 +584,13 @@
     {
         "Spazio": "Biblioteca di Scienze dell'Antichità",
         "Categoria": "Spazi di studio",
-        "Indirizzo": "Palazzo Ateneo",
+        "Indirizzo": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
         "Funzionalità": "Prese concentrate solo in un punto dell'aula, accesso tramite ascensore ",
         "Capienza": 36,
-        "Link": "Lettere — Portale SiBA",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/lettere",
         "Note": "",
         "Latitudine": 41.12062344093548,
         "Longitudine": 16.868183523028648,
-        "Indirizzo_URL": "https://maps.app.goo.gl/wjR6iR6puApny67KA",
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/polo-umanistico/lettere",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -664,11 +648,10 @@
         "Indirizzo": "Centro Polifunzionale Studenti",
         "Funzionalità": "Una delle più frequentate da quel che mi risulta. Prese a tavolo. Ingresso accessibile in sedia a rotelle",
         "Capienza": 50,
-        "Link": "Orari di apertura delle biblioteche e sale studio che fruiscono del servizio di portierato",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/uniba-orari-biblio-e-sale-con-portierato.pdf",
         "Note": "",
         "Latitudine": 41.12124830390445,
         "Longitudine": 16.867590795736216,
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/sistema-bibliotecario/biblioteche-1/uniba-orari-biblio-e-sale-con-portierato.pdf",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -925,11 +908,10 @@
         "Indirizzo": "Dipartimento di Giurisprudenza",
         "Funzionalità": "Prese in aula",
         "Capienza": 70,
-        "Link": "Seminario giuridico — Giurisprudenza",
+        "Link": "https://www.uniba.it/it/ricerca/dipartimenti/lex/strutture-e-servizi/seminario-giuridico",
         "Note": "",
         "Latitudine": 41.12023464213191,
         "Longitudine": 16.867074565584655,
-        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/lex/strutture-e-servizi/seminario-giuridico",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -1670,7 +1652,6 @@
         "Note": "Occorre prenotarsi la postazione dal portale di registrazione. Bisogna poi fare il check-in all'ingresso. la prenotazione ha durata massima (prorogabile) di 4 ore.",
         "Latitudine": 41.109022,
         "Longitudine": 16.879245,
-        "Link_URL": "https://www.poliba.it/it/sba/sba-sistema-bibliotecario-di-ateneo",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -1728,11 +1709,10 @@
         "Indirizzo": "Student Center",
         "Funzionalità": "Tavoli e prese di corrente. Si accede con ascensore. Prese a banco",
         "Capienza": 148,
-        "Link": "STUDENT CENTER | Politecnico di Bari",
+        "Link": "https://www.poliba.it/it/node/86/",
         "Note": "Non è necessaria la prenotazione. ",
         "Latitudine": 41.10794180177907,
         "Longitudine": 16.879580195104655,
-        "Link_URL": "https://www.poliba.it/it/node/86/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -1790,11 +1770,10 @@
         "Indirizzo": "Student Center",
         "Funzionalità": "Tavoli e prese di corrente. Si accede con ascensore. Prese a banco",
         "Capienza": 96,
-        "Link": "STUDENT CENTER | Politecnico di Bari",
+        "Link": "https://www.poliba.it/it/node/86/",
         "Note": "Non è necessaria la prenotazione. ",
         "Latitudine": 41.10794180177908,
         "Longitudine": 16.879580195104655,
-        "Link_URL": "https://www.poliba.it/it/node/86/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -1852,11 +1831,10 @@
         "Indirizzo": "Poli-Library",
         "Funzionalità": "Tavoli e prese di corrente, prestito e consultazione, postazioni internet. Si accede tramite prenotazione.",
         "Capienza": "128+16 postazioni internet",
-        "Link": "Biblioteca PoliLibrary | Politecnico di Bari",
+        "Link": "https://www.poliba.it/it/sba/biblioteca-polilibrary",
         "Note": "Unica aperta il sabato. Prevista prenotazione come \"Aula Brucoli\"",
         "Latitudine": 41.10885138339526,
         "Longitudine": 16.878513086003583,
-        "Link_URL": "https://www.poliba.it/it/sba/biblioteca-polilibrary",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -1979,11 +1957,10 @@
         "Indirizzo": "Dipartimento di Matematica",
         "Funzionalità": "tavoli e prese di corrente ",
         "Capienza": 100,
-        "Link": "U. O. Biblioteca di Matematica — Italiano",
+        "Link": "https://www.uniba.it/it/bibliotechecentri/matematica",
         "Note": "c'è rampa di accesso per persone con disabilità ",
         "Latitudine": 41.10855922245521,
         "Longitudine": 16.88062304609063,
-        "Link_URL": "https://www.uniba.it/it/bibliotechecentri/matematica",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2045,7 +2022,6 @@
         "Note": "",
         "Latitudine": 41.10892880374176,
         "Longitudine": 16.88340047986904,
-        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/farmacia/dipartimento/ubicazione-aule",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2103,11 +2079,10 @@
         "Indirizzo": "Dipartimento di Scienze della Terra",
         "Funzionalità": "tavoli e prese di corrente. c'è rampa di accesso per persone con disabilità e ascensore ",
         "Capienza": 30,
-        "Link": "Università di Bari - Home Biblioteca Dipartimento",
+        "Link": "http://www.geo.uniba.it/biblioteca.html",
         "Note": "",
         "Latitudine": 41.10957262704633,
         "Longitudine": 16.880650122072247,
-        "Link_URL": "http://www.geo.uniba.it/biblioteca.html",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2409,11 +2384,10 @@
         "Indirizzo": "Nuovo Palazzo dei Dipartimenti Biologici",
         "Funzionalità": "tavoli e prese di corrente",
         "Capienza": "Non Segnalata ",
-        "Link": "Biblioteca Dipartimento di Bioscienze, Biotecnologie e Biofarmaceutica",
+        "Link": "https://www.uniba.it/it/ricerca/dipartimenti/bioscienze-biotecnologie/dipartimento/biblioteca",
         "Note": "",
         "Latitudine": 41.11025231800215,
         "Longitudine": 16.882363763968268,
-        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/bioscienze-biotecnologie/dipartimento/biblioteca",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2471,11 +2445,10 @@
         "Indirizzo": "Vecchi istituti Biologici",
         "Funzionalità": "tavoli e prese di corrente ",
         "Capienza": "Non Segnalata ",
-        "Link": "Biblioteche e Sale Studio — Scienze Biologiche",
+        "Link": "https://www.uniba.it/it/corsi/scienze-biologiche/studiare/aule-laboratori-biblioteche/biblioteche-e-sale-studio",
         "Note": "",
         "Latitudine": 41.11011109453616,
         "Longitudine": 16.88549059633585,
-        "Link_URL": "https://www.uniba.it/it/corsi/scienze-biologiche/studiare/aule-laboratori-biblioteche/biblioteche-e-sale-studio",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2533,11 +2506,10 @@
         "Indirizzo": "Dipartimento di Fisica",
         "Funzionalità": "tavoli e prese di corrente. Accessibile alle persone con disabilità (ascensore).",
         "Capienza": 86,
-        "Link": "Biblioteca di Fisica",
+        "Link": "https://www.uniba.it/it/ricerca/dipartimenti/fisica/biblioteca",
         "Note": "",
         "Latitudine": 41.10843422117664,
         "Longitudine": 16.8841747154039,
-        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/fisica/biblioteca",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2595,11 +2567,10 @@
         "Indirizzo": "Dipartimento di Fisica",
         "Funzionalità": "tavoli e prese di corrente. Accessibile alle persone con disabilità (rampa al piano terra).",
         "Capienza": 44,
-        "Link": "Biblioteca di Fisica",
+        "Link": "https://www.uniba.it/it/ricerca/dipartimenti/fisica/biblioteca",
         "Note": "",
         "Latitudine": 41.10782411543911,
         "Longitudine": 16.884483127664858,
-        "Link_URL": "https://www.uniba.it/it/ricerca/dipartimenti/fisica/biblioteca",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2844,11 +2815,10 @@
         "Indirizzo": "Via Pier l'Eremita 25/B, 70122 Bari",
         "Funzionalità": "Archivio specialistico, consultazione solo su appuntamento",
         "Capienza": 30,
-        "Link": "Biblioteca - Soprintendenza Archeologia, Belle Arti e Paesaggio",
+        "Link": "https://sabapba.cultura.gov.it/servizi-allutenza/biblioteca/",
         "Note": "",
         "Latitudine": 41.13092435202318,
         "Longitudine": 16.868803628438346,
-        "Link_URL": "https://sabapba.cultura.gov.it/servizi-allutenza/biblioteca/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [],
@@ -2902,11 +2872,10 @@
         "Indirizzo": "Via Gen. N. Bellomo 94, 70124 Bari",
         "Funzionalità": "Biblioteca teologica con prestito gratuito.",
         "Capienza": 30,
-        "Link": "Biblioteca della Provincia delle Puglie dei Frati minori cappuccini ",
+        "Link": "https://www.beweb.chiesacattolica.it/istituticulturali/istituto/1279/Biblioteca+della+Provincia+delle+Puglie+dei+Frati+minori+cappuccini",
         "Note": "",
         "Latitudine": 41.10078912574911,
         "Longitudine": 16.848335454270284,
-        "Link_URL": "https://www.beweb.chiesacattolica.it/istituticulturali/istituto/1279/Biblioteca+della+Provincia+delle+Puglie+dei+Frati+minori+cappuccini",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -2968,11 +2937,10 @@
         "Indirizzo": "Via Michele Cifarelli 26, 70124 Bari",
         "Funzionalità": "Biblioteca musicale con cataloghi informatici; PC consultazione cataloghi e database",
         "Capienza": "–",
-        "Link": "Biblioteca - Conservatorio di Musica Bari",
+        "Link": "https://www.consba.it/it/63/biblioteca",
         "Note": "",
         "Latitudine": 41.11585902018102,
         "Longitudine": 16.856712910090973,
-        "Link_URL": "https://www.consba.it/it/63/biblioteca",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3044,11 +3012,10 @@
         "Indirizzo": "Via Nicolò Piccinni 97, 70122 Bari",
         "Funzionalità": "Sale lettura, Wi-Fi, postazioni PC; archivi storici e sale riunioni; area bambini e sala video-proiezioni",
         "Capienza": 20,
-        "Link": "Fondazione Tatarella",
+        "Link": "http://www.fondazionegiuseppetatarella.it/biblioteca/",
         "Note": "",
         "Latitudine": 41.12550607906539,
         "Longitudine": 16.868314838927418,
-        "Link_URL": "http://www.fondazionegiuseppetatarella.it/biblioteca/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3106,11 +3073,10 @@
         "Indirizzo": "Parco Largo 2 Giugno, ingresso Viale della Resistenza, 70125 Bari",
         "Funzionalità": "Biblioteca per infanzia e famiglie: aree morbide e sale lettura con scaffali aperti, book-sharing; prestito libri, laboratori, narrazioni, eventi; collegata a rete #Barisocialbook.",
         "Capienza": 25,
-        "Link": "Progetto Città (Biblioteca Ragazzi)",
+        "Link": "http://www.progettocitta.org/i-servizi/biblioteca-ragazzi-e.html",
         "Note": "",
         "Latitudine": 41.102069763708506,
         "Longitudine": 16.87547706961436,
-        "Link_URL": "http://www.progettocitta.org/i-servizi/biblioteca-ragazzi-e.html",
         "orari apertura": {
             "lunedì": {
                 "apertura": [],
@@ -3170,11 +3136,10 @@
         "Indirizzo": "Via Venezia 13, 70122 Bari",
         "Funzionalità": "Biblioteca d’arte e cultura, economia, storia locale; aree di lettura con postazioni; consultazione OPAC online.",
         "Capienza": 30,
-        "Link": "Fondazione Puglia",
+        "Link": "https://www.fondazionepuglia.it/la-biblioteca/",
         "Note": "",
         "Latitudine": 41.128057165089245,
         "Longitudine": 16.872569662106905,
-        "Link_URL": "https://www.fondazionepuglia.it/la-biblioteca/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [],
@@ -3220,11 +3185,10 @@
         "Indirizzo": "Strada Sagges 3, 70122 Bari",
         "Funzionalità": "Consultazione archivistica gratuita (no prestito) solo su appuntamento",
         "Capienza": 15,
-        "Link": "Soprintendenza Archivistica e Bibliografica della Puglia: La Biblioteca",
+        "Link": "https://sab-puglia.cultura.gov.it/sorprintendeza/la-biblioteca",
         "Note": "",
         "Latitudine": 41.1273676419004,
         "Longitudine": 16.869681896599516,
-        "Link_URL": "https://sab-puglia.cultura.gov.it/sorprintendeza/la-biblioteca",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3282,11 +3246,10 @@
         "Indirizzo": "Via Pietro Oreste 45, 70123 Bari",
         "Funzionalità": "Sala di studio libera e gratuita per ricerca storico-documentaria; necessaria prenotazione via email",
         "Capienza": 40,
-        "Link": "Archivio di Stato Bari",
+        "Link": "https://archiviodistatodibari.cultura.gov.it/sala-studio/modalita-di-accesso",
         "Note": "",
         "Latitudine": 41.12885994061356,
         "Longitudine": 16.84688499659959,
-        "Link_URL": "https://archiviodistatodibari.cultura.gov.it/sala-studio/modalita-di-accesso",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3344,11 +3307,10 @@
         "Indirizzo": "Via Pietro Oreste 45, 70123 Bari",
         "Funzionalità": "Sala di consultazione con Wi-Fi; quotidiani e periodici, mediateca",
         "Capienza": 155,
-        "Link": "Bibl. Nazionale Bari",
+        "Link": "https://bibliotecanazionalebari.cultura.gov.it/",
         "Note": "",
         "Latitudine": 41.12889349107415,
         "Longitudine": 16.846334267763524,
-        "Link_URL": "https://bibliotecanazionalebari.cultura.gov.it/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3406,11 +3368,10 @@
         "Indirizzo": "Strada Lamberti 3, 70122 Bari",
         "Funzionalità": "Biblioteca storica con fondo antico (70.000 volumi). 2 sale letture (piano terra e primo piano), più un'aula multifunzionale (secondo piano)",
         "Capienza": 60,
-        "Link": "Città metropolitana di Bari - Biblioteca de Gemmis",
+        "Link": "https://www.cittametropolitana.ba.it/vivere_il_comune/luoghi/luogo_6.html",
         "Note": "",
         "Latitudine": 41.12780310440995,
         "Longitudine": 16.86987026776357,
-        "Link_URL": "https://www.cittametropolitana.ba.it/vivere_il_comune/luoghi/luogo_6.html",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3476,11 +3437,10 @@
         "Indirizzo": "Via Sparano 145, 70121 Bari",
         "Funzionalità": "Biblioteca storico-culturale con collezioni di diritto e storia; ambienti di lettura; servizio prestito gratuito",
         "Capienza": 60,
-        "Link": "Fondazione G. Ricchetti",
+        "Link": "https://www.bibliotecaricchetti.it/",
         "Note": "",
         "Latitudine": 41.11950226621863,
         "Longitudine": 16.869775781255143,
-        "Link_URL": "https://www.bibliotecaricchetti.it/",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3546,11 +3506,10 @@
         "Indirizzo": "Via Colella, 13 (Municipio 2)",
         "Funzionalità": "Sale tematiche con postazioni multimediali (digital room); sala polifunzionale (sala studio) con proiettore a scomparsa e dispositivi audio/video; spazio bambini (angolo morbido con tavolo touch, TV); giardino esterno con arredi modulari.",
         "Capienza": 60,
-        "Link": "Biblioteca Cagnazzi",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Cagnazzi/PUG84",
         "Note": "",
         "Latitudine": 41.10427655579373,
         "Longitudine": 16.868800583106488,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Cagnazzi/PUG84",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3618,11 +3577,10 @@
         "Indirizzo": "Via dei Narcisi (quartiere Catino)",
         "Funzionalità": "Sala di consultazione dotata di PC e attrezzature tecnologiche per laboratori/proiezioni; spazio esterno attrezzato con arredi modulari; biblioteca in struttura “pluriuso” di quartiere.",
         "Capienza": 20,
-        "Link": "Biblioteca Catino",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Catino/PUG80",
         "Note": "Attualmente segnata come chiusa",
         "Latitudine": 41.16021131018477,
         "Longitudine": 16.739382628114807,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Catino/PUG80",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3690,11 +3648,10 @@
         "Indirizzo": "Via San Girolamo, 38\n",
         "Funzionalità": "Sala di lettura con materiale cartaceo; sala di consultazione digitale con 8 postazioni PC cablate; ampio cortile e giardino con aree verdi e giochi; spazio per laboratori.",
         "Capienza": 30,
-        "Link": "Biblioteca Duse",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Duse/PUG76",
         "Note": "Attualmente segnata come chiusa",
         "Latitudine": 41.13632525975827,
         "Longitudine": 16.815697313795972,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Duse/PUG76",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3752,11 +3709,10 @@
         "Indirizzo": "Via L. Gurakuqi, 2",
         "Funzionalità": "Sala lettura dotata di postazioni con dispositivi per consultazione digitale; spazio all’aperto “Outdoor education” (parco pubblico attrezzato).",
         "Capienza": 15,
-        "Link": "Biblioteca Iurlo",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Iurlo/PUG79",
         "Note": "",
         "Latitudine": 41.107347975199545,
         "Longitudine": 16.894889623582536,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Iurlo/PUG79",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3816,11 +3772,10 @@
         "Indirizzo": "Via Lombardia, 2",
         "Funzionalità": "Vari spazi di consultazione con postazioni PC e schermi per presentazioni; sala comune centrale con dispositivi informatici; sale riunioni e laboratori artico-culturali; sala danza (piano seminterrato); archivi tematici; servizi igienici su ogni piano.",
         "Capienza": 100,
-        "Link": "Biblioteca Lombardi",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Lombardi/PUG75",
         "Note": "",
         "Latitudine": 41.11979798903981,
         "Longitudine": 16.789964306387,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Lombardi/PUG75",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3884,11 +3839,10 @@
         "Indirizzo": "Via Skanderbeg, 35 ",
         "Funzionalità": "Sala consultazione con possibilità di laboratori; sala digitale con PC e attrezzature tecnologiche; uso di ampio cortile e giardino della scuola Marconi per attività all’aperto; area bambini con giochi.",
         "Capienza": 30,
-        "Link": "Biblioteca Galassia Marconi",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20%E2%80%9CG.%20Marconi%E2%80%9D/PUG77",
         "Note": "Ogni primo sabato del mese, la biblioteca Marconi sarà aperta al pubblico in orario serale (dalle 20:00 alle 22:00).",
         "Latitudine": 41.13734565042882,
         "Longitudine": 16.843865367763957,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20%E2%80%9CG.%20Marconi%E2%80%9D/PUG77",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -3952,11 +3906,10 @@
         "Indirizzo": "Via Nicola Colonna, 1 (Carbonara)",
         "Funzionalità": "Sala lettura con dotazioni multimediali: PC, tablet, TV a schermo piatto, totem per consultazione; piccolo spazio esterno dedicato; arredi per attività all’aperto.",
         "Capienza": 45,
-        "Link": "Biblioteca Maurogiovanni",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Maurogiovanni/PUG78",
         "Note": "",
         "Latitudine": 41.07813604700224,
         "Longitudine": 16.872391511941267,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Maurogiovanni/PUG78",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -4014,11 +3967,10 @@
         "Indirizzo": "Via Martiri d’Otranto, 69",
         "Funzionalità": "Sala Don Bosco (piano terra) ampia (50 posti) con reference; 8 PC per consultazione digitale; sezione ragazzi con libri bambini e bisogni speciali; sala Florio per conferenze (piano interrato); varie sale studio e emeroteca (primo piano); spazio esterno con arredi modulari e giardino/orto didattico.",
         "Capienza": 80,
-        "Link": "Biblioteca Don Bosco",
+        "Link": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Don%20Bosco/PUG82",
         "Note": "Attualmente segnata come chiusa",
         "Latitudine": 41.11809510152403,
         "Longitudine": 16.85523558086353,
-        "Link_URL": "https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Don%20Bosco/PUG82",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -4090,11 +4042,10 @@
         "Indirizzo": "Via Gentile, 52, 70126 - Bari",
         "Funzionalità": "E' dotata di un patrimonio di circa 47.000 documenti; specializzata nei profili tematici della pubblica amministrazione, diritto, economia e finanza, politiche pubbliche, organizzazione e management. È possibile navigare gratuitamente per un’ora al giorno.",
         "Capienza": 100,
-        "Link": "Teca del Mediterraneo",
+        "Link": "https://biblioteca.consiglio.puglia.it/home",
         "Note": "Per poter usufruire dei servizi occorre iscriversi compilando un modulo di iscrizione accompagnato da un documento  d’identità in corso di validità.",
         "Latitudine": "",
         "Longitudine": "",
-        "Link_URL": "https://biblioteca.consiglio.puglia.it/home",
         "orari apertura": {
             "lunedì": {
                 "apertura": [
@@ -4152,11 +4103,10 @@
         "Indirizzo": "Giardino Via Siponto, Bari",
         "Funzionalità": "Organizza eventi per tutte le età",
         "Capienza": 15,
-        "Link": "Aquarius - Biblioteca di Comunità | Bari",
+        "Link": "https://www.facebook.com/p/Aquarius-Biblioteca-di-Comunit%C3%A0-61558051497837/?locale=it_IT",
         "Note": "",
         "Latitudine": "",
         "Longitudine": "",
-        "Link_URL": "https://www.facebook.com/p/Aquarius-Biblioteca-di-Comunit%C3%A0-61558051497837/?locale=it_IT",
         "orari apertura": {
             "lunedì": {
                 "apertura": [

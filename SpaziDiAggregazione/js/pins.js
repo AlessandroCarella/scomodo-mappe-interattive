@@ -45,7 +45,7 @@ export class PinLayer {
             // Only add interactive features if enabled
             if (this.config.interactiveHover) {
                 // Add tooltip on hover
-                marker.bindTooltip(`<strong>${name}</strong><br>${category}`, {
+                marker.bindTooltip(`<strong>${name}</strong>`/*<br>${category}`*/, {
                     direction: "top",
                     offset: [0, -20],
                 });

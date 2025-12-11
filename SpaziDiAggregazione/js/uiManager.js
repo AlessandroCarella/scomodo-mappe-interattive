@@ -20,9 +20,9 @@ export function createControls() {
     const controlsWrapper = document.createElement("div");
     controlsWrapper.className = "heatmap-controls";
 
-    const title = document.createElement("h3");
-    title.textContent = "Visualizzazione Dati";
-    controlsWrapper.appendChild(title);
+    // const title = document.createElement("h3");
+    // title.textContent = "Visualizzazione Dati";
+    // controlsWrapper.appendChild(title);
 
     // Create controls for each data source
     dataSources.forEach((source) => {
