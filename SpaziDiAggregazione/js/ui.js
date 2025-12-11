@@ -68,7 +68,7 @@ export function showLocationInfo(location, config) {
     if (lat && lng) {
         content += `
             <div class="info-row">
-                <div class="info-label">Coordinates</div>
+                <div class="info-label">Coordinate</div>
                 <div class="info-value">${Number(lat).toFixed(6)}, ${Number(
             lng
         ).toFixed(6)}</div>

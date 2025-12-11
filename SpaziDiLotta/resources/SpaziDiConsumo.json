@@ -4,7 +4,7 @@
         "Categoria": "Centro culturale",
         "latitudine": 41.1282103,
         "longitudine": 16.8728567,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": "BLUorg",
@@ -17,45 +17,45 @@
         "Categoria": "Centro culturale",
         "latitudine": 41.1246725,
         "longitudine": 16.8560676,
-        "address": "Via Colonello de Cristoforis 8 70123 Bari",
-        "contact": "https://spazio13.org",
-        "business_info": "Mo-Fr 10:00-20:00",
-        "accessibility": "yes"
+        "indirizzo": "Via Colonello de Cristoforis 8 70123 Bari",
+        "contatto": "https://spazio13.org",
+        "informazioni_attivita": "Mo-Fr 10:00-20:00",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Ipogeo Dell'Arte",
         "Categoria": "Centro culturale",
         "latitudine": 41.1626943,
         "longitudine": 16.7482118,
-        "address": "Via Pisa 4 70127 Santo Spirito",
-        "contact": "https://www.leonardobasile.it/index.htm",
-        "accessibility": "no -1",
-        "location_info": "-1"
+        "indirizzo": "Via Pisa 4 70127 Santo Spirito",
+        "contatto": "https://www.leonardobasile.it/index.htm",
+        "accessibilita": "no -1",
+        "informazioni_posto": "-1"
     },
     {
         "Spazio": "Spazio Murat",
         "Categoria": "Centro culturale",
         "latitudine": 41.1264879,
         "longitudine": 16.8717015,
-        "address": "Piazza del Ferrarese 70121 Bari",
-        "contact": "https://www.spaziomurat.it/",
-        "accessibility": "yes",
-        "location_info": "yes"
+        "indirizzo": "Piazza del Ferrarese 70121 Bari",
+        "contatto": "https://www.spaziomurat.it/",
+        "accessibilita": "yes",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.1150636,
         "longitudine": 16.8729563,
-        "address": "Largo Ignazio Ciaia Bari"
+        "indirizzo": "Largo Ignazio Ciaia Bari"
     },
     {
         "Spazio": "Nineli Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1157215,
         "longitudine": 16.8724899,
-        "contact": "+39 389 1904207",
-        "business_info": "Biscardi Tommaso"
+        "contatto": "+39 389 1904207",
+        "informazioni_attivita": "Biscardi Tommaso"
     },
     {
         "Spazio": "Brasserie",
@@ -68,7 +68,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1167908,
         "longitudine": 16.8719666,
-        "business_info": "Mo-Fr 05:00-18:30; Sa 05:00-13:30"
+        "informazioni_attivita": "Mo-Fr 05:00-18:30; Sa 05:00-13:30"
     },
     {
         "Spazio": "Bar Gambrinus",
@@ -81,9 +81,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1179176,
         "longitudine": 16.8697059,
-        "address": "Piazza Aldo Moro",
-        "business_info": "Mo-Sa 06:00-19:00; Su 07:00-19:00 C House",
-        "accessibility": "yes"
+        "indirizzo": "Piazza Aldo Moro",
+        "informazioni_attivita": "Mo-Sa 06:00-19:00; Su 07:00-19:00 C House",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Bar Bari Nord",
@@ -102,17 +102,17 @@
         "Categoria": "Caffè",
         "latitudine": 41.1190185,
         "longitudine": 16.871027,
-        "address": "24 70122 Bari Piazza Aldo Moro",
-        "business_info": "Catullo Services s.r.l."
+        "indirizzo": "24 70122 Bari Piazza Aldo Moro",
+        "informazioni_attivita": "Catullo Services s.r.l."
     },
     {
         "Spazio": "Caffè Barucchelli",
         "Categoria": "Caffè",
         "latitudine": 41.1268934,
         "longitudine": 16.8717079,
-        "address": "Piazza del Ferrarese 3 70122 Bari",
-        "business_info": "Roberto Vergari survey",
-        "accessibility": "yes",
+        "indirizzo": "Piazza del Ferrarese 3 70122 Bari",
+        "informazioni_attivita": "Roberto Vergari survey",
+        "accessibilita": "yes",
         "services": "yes"
     },
     {
@@ -138,7 +138,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.073593,
         "longitudine": 16.8573504,
-        "business_info": "closed",
+        "informazioni_attivita": "closed",
         "services": "no"
     },
     {
@@ -146,9 +146,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1147165,
         "longitudine": 16.8730931,
-        "address": "Viale Unità d'Italia 51,53 70124",
-        "contact": "+39 080 5565766",
-        "business_info": "GEPA s.r.l."
+        "indirizzo": "Viale Unità d'Italia 51,53 70124",
+        "contatto": "+39 080 5565766",
+        "informazioni_attivita": "GEPA s.r.l."
     },
     {
         "Spazio": "Millennium Cafè",
@@ -161,14 +161,14 @@
         "Categoria": "Caffè",
         "latitudine": 41.1031238,
         "longitudine": 16.8605107,
-        "address": "Via Arcidiacono Giovanni"
+        "indirizzo": "Via Arcidiacono Giovanni"
     },
     {
         "Spazio": "Bar Moderno",
         "Categoria": "Caffè",
         "latitudine": 41.1036764,
         "longitudine": 16.859842,
-        "business_info": "Vito Scalera"
+        "informazioni_attivita": "Vito Scalera"
     },
     {
         "Spazio": "Bar",
@@ -188,7 +188,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.121313,
         "longitudine": 16.8672357,
-        "accessibility": "yes"
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Bar Fly",
@@ -208,15 +208,15 @@
         "Categoria": "Caffè",
         "latitudine": 41.1053341,
         "longitudine": 16.8596273,
-        "address": "Viale Papa Pio Dodicesimo 1A 70124 Bari"
+        "indirizzo": "Viale Papa Pio Dodicesimo 1A 70124 Bari"
     },
     {
         "Spazio": "Bar Campus",
         "Categoria": "Caffè",
         "latitudine": 41.1102972,
         "longitudine": 16.8798752,
-        "contact": "+39 080 5520722",
-        "business_info": "Gestioni Sud s.r.l.",
+        "contatto": "+39 080 5520722",
+        "informazioni_attivita": "Gestioni Sud s.r.l.",
         "services": "no"
     },
     {
@@ -224,17 +224,17 @@
         "Categoria": "Caffè",
         "latitudine": 41.119508,
         "longitudine": 16.882098,
-        "business_info": "Mo-Fr 06:30-20:00; Sa,Su 06:30-13:30"
+        "informazioni_attivita": "Mo-Fr 06:30-20:00; Sa,Su 06:30-13:30"
     },
     {
         "Spazio": "Qui si gode",
         "Categoria": "Caffè",
         "latitudine": 41.1642128,
         "longitudine": 16.7484709,
-        "address": "Lungomare Cristoforo Colombo 172/A 70127 Bari",
-        "contact": "+39 080 5337267",
-        "business_info": "Florio Michele",
-        "accessibility": "no",
+        "indirizzo": "Lungomare Cristoforo Colombo 172/A 70127 Bari",
+        "contatto": "+39 080 5337267",
+        "informazioni_attivita": "Florio Michele",
+        "accessibilita": "no",
         "services": "yes"
     },
     {
@@ -243,9 +243,9 @@
         "latitudine": 41.111209,
         "longitudine": 16.8528645,
         "alt_name": "Bikers Cafè",
-        "address": "Viale Louis Pasteur 12/14 70124 Bari",
-        "contact": "https://www.facebook.com/pages/Parkway-Bikers-Caf%C3%A8-Bari/232259998286",
-        "business_info": "https://www.facebook.com/pages/Parkway-Bikers-Caf%C3%A8-Bari/232259998286"
+        "indirizzo": "Viale Louis Pasteur 12/14 70124 Bari",
+        "contatto": "https://www.facebook.com/pages/Parkway-Bikers-Caf%C3%A8-Bari/232259998286",
+        "informazioni_attivita": "https://www.facebook.com/pages/Parkway-Bikers-Caf%C3%A8-Bari/232259998286"
     },
     {
         "Spazio": "Caffè Luna",
@@ -253,7 +253,7 @@
         "latitudine": 41.1046604,
         "longitudine": 16.8784428,
         "alt_name": "Cristian",
-        "address": "Via Stefano Jacini",
+        "indirizzo": "Via Stefano Jacini",
         "services": "no"
     },
     {
@@ -279,7 +279,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1000219,
         "longitudine": 16.8675662,
-        "address": "Via Giulio Petroni"
+        "indirizzo": "Via Giulio Petroni"
     },
     {
         "Spazio": "Nuviani",
@@ -298,7 +298,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1057023,
         "longitudine": 16.9192843,
-        "address": "Via Salvatore Quasimodo 1 70126 Bari"
+        "indirizzo": "Via Salvatore Quasimodo 1 70126 Bari"
     },
     {
         "Spazio": "Bar Luciana",
@@ -347,17 +347,17 @@
         "Categoria": "Caffè",
         "latitudine": 41.1211126,
         "longitudine": 16.8684867,
-        "business_info": "Angelo Alizzi",
-        "accessibility": "yes"
+        "informazioni_attivita": "Angelo Alizzi",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Hagakure Momi",
         "Categoria": "Caffè",
         "latitudine": 41.1216734,
         "longitudine": 16.8684744,
-        "address": "Via Roberto da Bari 146 70121 Bari",
-        "contact": "https://hagakuremomi.com/",
-        "business_info": "Mo-Sa 12:00-23:00; Su 12:00-15:00, 19:00-23:00"
+        "indirizzo": "Via Roberto da Bari 146 70121 Bari",
+        "contatto": "https://hagakuremomi.com/",
+        "informazioni_attivita": "Mo-Sa 12:00-23:00; Su 12:00-15:00, 19:00-23:00"
     },
     {
         "Spazio": "Bar MAX CAFE",
@@ -370,17 +370,17 @@
         "Categoria": "Caffè",
         "latitudine": 41.1266395,
         "longitudine": 16.8474268,
-        "address": "Via Tommaso Fiore 25 Bari",
-        "contact": "+39 080 5793582",
-        "business_info": "Francesco Del Carmelo survey"
+        "indirizzo": "Via Tommaso Fiore 25 Bari",
+        "contatto": "+39 080 5793582",
+        "informazioni_attivita": "Francesco Del Carmelo survey"
     },
     {
         "Spazio": "Gelateria Caffetteria Re Vittorio",
         "Categoria": "Caffè",
         "latitudine": 41.1263307,
         "longitudine": 16.8691548,
-        "address": "Corso Vittorio Emanuele Secondo 89 70122 Bari",
-        "accessibility": "no"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 89 70122 Bari",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Bar degli Amici",
@@ -394,7 +394,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.131696,
         "longitudine": 16.8088181,
-        "address": "Viale Giuseppe Degennaro 1 70132 Bari"
+        "indirizzo": "Viale Giuseppe Degennaro 1 70132 Bari"
     },
     {
         "Spazio": "Caffè Greco",
@@ -407,15 +407,15 @@
         "Categoria": "Caffè",
         "latitudine": 41.1043526,
         "longitudine": 16.8787953,
-        "address": "Via Giuseppe Fanelli 221c",
-        "business_info": "Scaramuzzi S.A.S."
+        "indirizzo": "Via Giuseppe Fanelli 221c",
+        "informazioni_attivita": "Scaramuzzi S.A.S."
     },
     {
         "Spazio": "Diamond's",
         "Categoria": "Caffè",
         "latitudine": 41.1150733,
         "longitudine": 16.8750577,
-        "address": "Via Giuseppe Re David"
+        "indirizzo": "Via Giuseppe Re David"
     },
     {
         "Spazio": "Bar Lucy",
@@ -428,31 +428,31 @@
         "Categoria": "Caffè",
         "latitudine": 41.1167342,
         "longitudine": 16.8538589,
-        "contact": "+39 0802021632",
-        "business_info": "F.lli Stramaglia s.n.c."
+        "contatto": "+39 0802021632",
+        "informazioni_attivita": "F.lli Stramaglia s.n.c."
     },
     {
         "Spazio": "Bar Isabella",
         "Categoria": "Caffè",
         "latitudine": 41.1125622,
         "longitudine": 16.8706217,
-        "address": "Via Buccari 105",
-        "business_info": "Cosimo De Lucia",
-        "accessibility": "yes"
+        "indirizzo": "Via Buccari 105",
+        "informazioni_attivita": "Cosimo De Lucia",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Caffé Fortunato",
         "Categoria": "Caffè",
         "latitudine": 41.1196555,
         "longitudine": 16.8676128,
-        "address": "Via Scipione Crisanzio 40 70122 Bari"
+        "indirizzo": "Via Scipione Crisanzio 40 70122 Bari"
     },
     {
         "Spazio": "Caricola",
         "Categoria": "Caffè",
         "latitudine": 41.1197417,
         "longitudine": 16.8690281,
-        "address": "Via Scipione Crisanzio 2 70122 Bari"
+        "indirizzo": "Via Scipione Crisanzio 2 70122 Bari"
     },
     {
         "Spazio": null,
@@ -495,8 +495,8 @@
         "Categoria": "Caffè",
         "latitudine": 41.107279,
         "longitudine": 16.8750414,
-        "address": "Viale Giuseppe di Vittorio 61 70125 Bari",
-        "business_info": "Mo-Sa 03:40-18:40"
+        "indirizzo": "Viale Giuseppe di Vittorio 61 70125 Bari",
+        "informazioni_attivita": "Mo-Sa 03:40-18:40"
     },
     {
         "Spazio": null,
@@ -509,7 +509,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1239691,
         "longitudine": 16.8573512,
-        "address": "Via Francesco Crispi"
+        "indirizzo": "Via Francesco Crispi"
     },
     {
         "Spazio": null,
@@ -522,9 +522,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1256098,
         "longitudine": 16.8678681,
-        "address": "Corso Vittorio Emanuele 84 Palazzo di Cittá 70122 Bari",
-        "business_info": "Matteo Laraspata",
-        "accessibility": "limited",
+        "indirizzo": "Corso Vittorio Emanuele 84 Palazzo di Cittá 70122 Bari",
+        "informazioni_attivita": "Matteo Laraspata",
+        "accessibilita": "limited",
         "services": "no no no yes"
     },
     {
@@ -532,9 +532,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1258183,
         "longitudine": 16.8680951,
-        "address": "Corso Vittorio Emanuele Secondo 80 70122 Bari",
-        "contact": "info@tamtambar.it https://www.tamtambar.it/",
-        "business_info": "Arcangelo Filograno"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 80 70122 Bari",
+        "contatto": "info@tamtambar.it https://www.tamtambar.it/",
+        "informazioni_attivita": "Arcangelo Filograno"
     },
     {
         "Spazio": null,
@@ -547,50 +547,50 @@
         "Categoria": "Caffè",
         "latitudine": 41.1185007,
         "longitudine": 16.8846091,
-        "address": "Corso Sidney Sonnino 140e 70121 Bari"
+        "indirizzo": "Corso Sidney Sonnino 140e 70121 Bari"
     },
     {
         "Spazio": "Il Faraone Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1011157,
         "longitudine": 16.8885925,
-        "address": "Via Giovanni Amendola 172b Bari",
-        "contact": "+39 080 9909346",
-        "business_info": "Anaclerio Nicola"
+        "indirizzo": "Via Giovanni Amendola 172b Bari",
+        "contatto": "+39 080 9909346",
+        "informazioni_attivita": "Anaclerio Nicola"
     },
     {
         "Spazio": "Caffé Cognetti",
         "Categoria": "Caffè",
         "latitudine": 41.1231035,
         "longitudine": 16.8731996,
-        "address": "Via Salvatore Cognetti 19 70121 Bari",
-        "contact": "https://www.caffecognetti.com/"
+        "indirizzo": "Via Salvatore Cognetti 19 70121 Bari",
+        "contatto": "https://www.caffecognetti.com/"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.1253011,
         "longitudine": 16.8595567,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": "deCanto",
         "Categoria": "Caffè",
         "latitudine": 41.1341134,
         "longitudine": 16.7634552,
-        "business_info": "Lagardére Food Services srl",
-        "accessibility": "1",
-        "location_info": "1"
+        "informazioni_attivita": "Lagardére Food Services srl",
+        "accessibilita": "1",
+        "informazioni_posto": "1"
     },
     {
         "Spazio": "Brown Café",
         "Categoria": "Caffè",
         "latitudine": 41.0426052,
         "longitudine": 16.8517022,
-        "address": "Via Umberto Minervini 17 70129 Bari",
-        "contact": "+39 328 55 41107",
-        "business_info": "Dominique Cioce survey",
-        "accessibility": "yes",
+        "indirizzo": "Via Umberto Minervini 17 70129 Bari",
+        "contatto": "+39 328 55 41107",
+        "informazioni_attivita": "Dominique Cioce survey",
+        "accessibilita": "yes",
         "services": "yes"
     },
     {
@@ -604,24 +604,24 @@
         "Categoria": "Caffè",
         "latitudine": 41.1164573,
         "longitudine": 16.8625482,
-        "address": "Viale Ennio Quinto 1",
-        "contact": "3299222043"
+        "indirizzo": "Viale Ennio Quinto 1",
+        "contatto": "3299222043"
     },
     {
         "Spazio": "FAL Café",
         "Categoria": "Caffè",
         "latitudine": 41.1185568,
         "longitudine": 16.8690464,
-        "address": "Piazza Aldo Moro Bari"
+        "indirizzo": "Piazza Aldo Moro Bari"
     },
     {
         "Spazio": "Gaudì Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1186722,
         "longitudine": 16.8678322,
-        "address": "Corso Italia 19D 70123 Bari",
-        "contact": "+39 3476224264",
-        "business_info": "Mario De Carolis"
+        "indirizzo": "Corso Italia 19D 70123 Bari",
+        "contatto": "+39 3476224264",
+        "informazioni_attivita": "Mario De Carolis"
     },
     {
         "Spazio": null,
@@ -640,14 +640,14 @@
         "Categoria": "Caffè",
         "latitudine": 41.1185418,
         "longitudine": 16.8875544,
-        "business_info": "Mo-Fr 06:00-22:00"
+        "informazioni_attivita": "Mo-Fr 06:00-22:00"
     },
     {
         "Spazio": "Vintage Cafè",
         "Categoria": "Caffè",
         "latitudine": 41.1203157,
         "longitudine": 16.8655783,
-        "address": "Via de Rossi 189 70122 Bari"
+        "indirizzo": "Via de Rossi 189 70122 Bari"
     },
     {
         "Spazio": "Caffetteria dell'angolo",
@@ -672,21 +672,21 @@
         "Categoria": "Caffè",
         "latitudine": 41.1213153,
         "longitudine": 16.8657304,
-        "address": "Via de Rossi"
+        "indirizzo": "Via de Rossi"
     },
     {
         "Spazio": "Caffetteria Vanny e Mary",
         "Categoria": "Caffè",
         "latitudine": 41.1285419,
         "longitudine": 16.8679317,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": "Tavli Cafe",
         "Categoria": "Caffè",
         "latitudine": 41.1270854,
         "longitudine": 16.8695879,
-        "accessibility": "limited"
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Caffetteria Cervezeria De La Plaza",
@@ -699,15 +699,15 @@
         "Categoria": "Caffè",
         "latitudine": 41.1305886,
         "longitudine": 16.8694066,
-        "accessibility": "limited"
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Avamposto",
         "Categoria": "Caffè",
         "latitudine": 41.119595,
         "longitudine": 16.8692962,
-        "address": "Via Raffaele de Cesare 8A 70122 Bari",
-        "contact": "http://www.avamposto.net",
+        "indirizzo": "Via Raffaele de Cesare 8A 70122 Bari",
+        "contatto": "http://www.avamposto.net",
         "services": "wlan"
     },
     {
@@ -715,7 +715,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1290735,
         "longitudine": 16.8721362,
-        "accessibility": "yes"
+        "accessibilita": "yes"
     },
     {
         "Spazio": null,
@@ -728,21 +728,21 @@
         "Categoria": "Caffè",
         "latitudine": 41.1135953,
         "longitudine": 16.8795487,
-        "address": "Via Gaetano Postiglione 17 70126 Bari"
+        "indirizzo": "Via Gaetano Postiglione 17 70126 Bari"
     },
     {
         "Spazio": "bar 900",
         "Categoria": "Caffè",
         "latitudine": 41.1209668,
         "longitudine": 16.8613267,
-        "address": "Via Alessandro Manzoni 158"
+        "indirizzo": "Via Alessandro Manzoni 158"
     },
     {
         "Spazio": "Gocce di Caffé",
         "Categoria": "Caffè",
         "latitudine": 41.1512892,
         "longitudine": 16.7584409,
-        "contact": "https://www.facebook.com/Gocce-Di-Caff%C3%A8-1728496227425363/"
+        "contatto": "https://www.facebook.com/Gocce-Di-Caff%C3%A8-1728496227425363/"
     },
     {
         "Spazio": "Kimera",
@@ -755,16 +755,16 @@
         "Categoria": "Caffè",
         "latitudine": 41.126713,
         "longitudine": 16.8605637,
-        "business_info": "name, etc.",
-        "accessibility": "no"
+        "informazioni_attivita": "name, etc.",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Sidney Caffe",
         "Categoria": "Caffè",
         "latitudine": 41.1213433,
         "longitudine": 16.8677512,
-        "address": "Via Domenico Nicolai 31",
-        "contact": "https://www.facebook.com/sidneycaffebari/"
+        "indirizzo": "Via Domenico Nicolai 31",
+        "contatto": "https://www.facebook.com/sidneycaffebari/"
     },
     {
         "Spazio": null,
@@ -795,101 +795,101 @@
         "Categoria": "Caffè",
         "latitudine": 41.1268116,
         "longitudine": 16.8596326,
-        "accessibility": "limited"
+        "accessibilita": "limited"
     },
     {
         "Spazio": "New Bar",
         "Categoria": "Caffè",
         "latitudine": 41.1261274,
         "longitudine": 16.8608235,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": "Antica Pasticceria del Liceo",
         "Categoria": "Caffè",
         "latitudine": 41.126822,
         "longitudine": 16.860589,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": "Carducci Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1273968,
         "longitudine": 16.8640095,
-        "address": "Via Giosuè Carducci 27 70122 Bari",
-        "contact": "+39 0805235396",
-        "accessibility": "no"
+        "indirizzo": "Via Giosuè Carducci 27 70122 Bari",
+        "contatto": "+39 0805235396",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Gran Caffè IN",
         "Categoria": "Caffè",
         "latitudine": 41.1242864,
         "longitudine": 16.8614077,
-        "address": "Via Abate Giacinto Gimma 259 70122 Bari",
-        "accessibility": "no"
+        "indirizzo": "Via Abate Giacinto Gimma 259 70122 Bari",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Visconti 25",
         "Categoria": "Caffè",
         "latitudine": 41.1241845,
         "longitudine": 16.8629372,
-        "address": "Via Sagarriga Visconti 25 70122 Bari",
-        "accessibility": "yes"
+        "indirizzo": "Via Sagarriga Visconti 25 70122 Bari",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "B-5 Caffè & bistrot",
         "Categoria": "Caffè",
         "latitudine": 41.1254079,
         "longitudine": 16.8650865,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": "Caffè Cavour",
         "Categoria": "Caffè",
         "latitudine": 41.1218206,
         "longitudine": 16.8722731,
-        "address": "Corso Cavour 135 70121 Bari"
+        "indirizzo": "Corso Cavour 135 70121 Bari"
     },
     {
         "Spazio": "La Madia - Gran Caffè Saicaf",
         "Categoria": "Caffè",
         "latitudine": 41.1222636,
         "longitudine": 16.8722248,
-        "address": "Corso Cavour 121 70121 Bari",
-        "contact": "+39 0808178414",
-        "accessibility": "yes"
+        "indirizzo": "Corso Cavour 121 70121 Bari",
+        "contatto": "+39 0808178414",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Café Lucarelli",
         "Categoria": "Caffè",
         "latitudine": 41.1245577,
         "longitudine": 16.8719584,
-        "address": "Corso Cavour 49 70121 Bari",
-        "contact": "+39 0805232874 https://cafelucarelli.it/cafe-lucarelli-corso-cavour/"
+        "indirizzo": "Corso Cavour 49 70121 Bari",
+        "contatto": "+39 0805232874 https://cafelucarelli.it/cafe-lucarelli-corso-cavour/"
     },
     {
         "Spazio": "Caffetteria Cavour",
         "Categoria": "Caffè",
         "latitudine": 41.1198823,
         "longitudine": 16.8728425,
-        "address": "Corso Cavour 138 70121 Bari IT Bari",
-        "business_info": "4:00-19:30"
+        "indirizzo": "Corso Cavour 138 70121 Bari IT Bari",
+        "informazioni_attivita": "4:00-19:30"
     },
     {
         "Spazio": "Caffetteria Medici",
         "Categoria": "Caffè",
         "latitudine": 41.1182672,
         "longitudine": 16.8730296,
-        "address": "Corso Cavour 206 70121 Bari IT Bari",
-        "accessibility": "no"
+        "indirizzo": "Corso Cavour 206 70121 Bari IT Bari",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Caffè D'Arte",
         "Categoria": "Caffè",
         "latitudine": 41.1272394,
         "longitudine": 16.865289,
-        "address": "Via San Francesco d'Assisi 11 70122 Bari",
-        "contact": "+39 0805289368 https://caffedarte.eatbu.com/",
+        "indirizzo": "Via San Francesco d'Assisi 11 70122 Bari",
+        "contatto": "+39 0805289368 https://caffedarte.eatbu.com/",
         "services": "yes"
     },
     {
@@ -897,15 +897,15 @@
         "Categoria": "Caffè",
         "latitudine": 41.1259817,
         "longitudine": 16.8660311,
-        "address": "Corso Vittorio Emanuele Secondo 135 70122 Bari"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 135 70122 Bari"
     },
     {
         "Spazio": "Caffè Borghese",
         "Categoria": "Caffè",
         "latitudine": 41.1256327,
         "longitudine": 16.8650654,
-        "address": "Corso Vittorio Emanuele Secondo 122 70122 Bari",
-        "business_info": "Tu-Su 08:00-24:00"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 122 70122 Bari",
+        "informazioni_attivita": "Tu-Su 08:00-24:00"
     },
     {
         "Spazio": "Osteria Cafe",
@@ -918,34 +918,34 @@
         "Categoria": "Caffè",
         "latitudine": 41.1642436,
         "longitudine": 16.7526402,
-        "address": "Largo Cristoforo Colombo 15 70127 Santo Spirito",
-        "accessibility": "0",
-        "location_info": "0"
+        "indirizzo": "Largo Cristoforo Colombo 15 70127 Santo Spirito",
+        "accessibilita": "0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "Coffee Morning",
         "Categoria": "Caffè",
         "latitudine": 41.1088861,
         "longitudine": 16.8676226,
-        "address": "Via Giulio Petroni 63/d 70124 Bari",
-        "accessibility": "0",
-        "location_info": "0"
+        "indirizzo": "Via Giulio Petroni 63/d 70124 Bari",
+        "accessibilita": "0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "Caffetteria Umberto",
         "Categoria": "Caffè",
         "latitudine": 41.1485115,
         "longitudine": 16.7372369,
-        "address": "Via della Lealtà 42/1 70127 Bari",
-        "contact": "080 533 5125"
+        "indirizzo": "Via della Lealtà 42/1 70127 Bari",
+        "contatto": "080 533 5125"
     },
     {
         "Spazio": "Martinucci",
         "Categoria": "Caffè",
         "latitudine": 41.1279116,
         "longitudine": 16.871926,
-        "address": "Piazza Mercantile",
-        "accessibility": "limited",
+        "indirizzo": "Piazza Mercantile",
+        "accessibilita": "limited",
         "services": "yes yes"
     },
     {
@@ -960,9 +960,9 @@
         "latitudine": 41.1311431,
         "longitudine": 16.8688994,
         "brand": "Veronero",
-        "contact": "+39 080 9147879",
-        "business_info": "2011",
-        "accessibility": "no",
+        "contatto": "+39 080 9147879",
+        "informazioni_attivita": "2011",
+        "accessibilita": "no",
         "services": "wlan no"
     },
     {
@@ -982,7 +982,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1368246,
         "longitudine": 16.8662944,
-        "accessibility": "no",
+        "accessibilita": "no",
         "services": "no"
     },
     {
@@ -996,15 +996,15 @@
         "Categoria": "Caffè",
         "latitudine": 41.1233298,
         "longitudine": 16.8768208,
-        "address": "Lungomare Araldo di Crollalanza 5 70121"
+        "indirizzo": "Lungomare Araldo di Crollalanza 5 70121"
     },
     {
         "Spazio": "Caffè dell'Accademia",
         "Categoria": "Caffè",
         "latitudine": 41.1308671,
         "longitudine": 16.8705533,
-        "address": "Strada Vanese 70122 Bari",
-        "accessibility": "limited",
+        "indirizzo": "Strada Vanese 70122 Bari",
+        "accessibilita": "limited",
         "services": "wlan"
     },
     {
@@ -1024,24 +1024,24 @@
         "Categoria": "Caffè",
         "latitudine": 41.1182912,
         "longitudine": 16.8690093,
-        "accessibility": "-1",
-        "location_info": "-1"
+        "accessibilita": "-1",
+        "informazioni_posto": "-1"
     },
     {
         "Spazio": "Peroni",
         "Categoria": "Caffè",
         "latitudine": 41.1180402,
         "longitudine": 16.8708743,
-        "accessibility": "yes"
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Jérôme Chocolat",
         "Categoria": "Caffè",
         "latitudine": 41.1201313,
         "longitudine": 16.872464,
-        "address": "Corso Cavour 195A 70121 Bari",
-        "contact": "https://jerome-chocolat.restauflow.it/store/bari",
-        "accessibility": "limited"
+        "indirizzo": "Corso Cavour 195A 70121 Bari",
+        "contatto": "https://jerome-chocolat.restauflow.it/store/bari",
+        "accessibilita": "limited"
     },
     {
         "Spazio": null,
@@ -1061,18 +1061,18 @@
         "latitudine": 41.1214819,
         "longitudine": 16.8698878,
         "brand": "Nespresso",
-        "address": "Via Sparano da Bari 156 70121 Bari",
-        "business_info": "Mo-Fr 09:30-20:00; Sa 09:30-20:30; Su 10:00-13:15,16:30-20:00 Nespresso",
-        "accessibility": "yes"
+        "indirizzo": "Via Sparano da Bari 156 70121 Bari",
+        "informazioni_attivita": "Mo-Fr 09:30-20:00; Sa 09:30-20:30; Su 10:00-13:15,16:30-20:00 Nespresso",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Artemisia",
         "Categoria": "Caffè",
         "latitudine": 41.158707,
         "longitudine": 16.7495677,
-        "address": "Corso Umberto I 57 70127 Bari IT Palese",
-        "contact": "+39 080 524 6972 info@artemisiabari.it https://www.artemisiabari.it/",
-        "business_info": "Cooperativa Sociale Artes a.r.l."
+        "indirizzo": "Corso Umberto I 57 70127 Bari IT Palese",
+        "contatto": "+39 080 524 6972 info@artemisiabari.it https://www.artemisiabari.it/",
+        "informazioni_attivita": "Cooperativa Sociale Artes a.r.l."
     },
     {
         "Spazio": null,
@@ -1091,18 +1091,18 @@
         "Categoria": "Caffè",
         "latitudine": 41.1601002,
         "longitudine": 16.7631458,
-        "address": "Via Tenente Saverio Noviello 2 70128",
-        "business_info": "Valentina Caldarulo Il bar del Lido Moretti ha un nome diverso da lido"
+        "indirizzo": "Via Tenente Saverio Noviello 2 70128",
+        "informazioni_attivita": "Valentina Caldarulo Il bar del Lido Moretti ha un nome diverso da lido"
     },
     {
         "Spazio": "La Trulleria, Peroni Bar",
         "Categoria": "Caffè",
         "latitudine": 41.1346766,
         "longitudine": 16.7640495,
-        "address": "Bari",
-        "contact": "info@mychef.it",
-        "business_info": "MyChef Ristorante Comm. S.p.A.",
-        "accessibility": "yes",
+        "indirizzo": "Bari",
+        "contatto": "info@mychef.it",
+        "informazioni_attivita": "MyChef Ristorante Comm. S.p.A.",
+        "accessibilita": "yes",
         "services": "wlan no yes"
     },
     {
@@ -1110,8 +1110,8 @@
         "Categoria": "Caffè",
         "latitudine": 41.1235626,
         "longitudine": 16.8714622,
-        "address": "Via Nicolò Putignani 19 70121 Bari",
-        "contact": "+39 0805247022",
+        "indirizzo": "Via Nicolò Putignani 19 70121 Bari",
+        "contatto": "+39 0805247022",
         "services": "wlan"
     },
     {
@@ -1119,9 +1119,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1239135,
         "longitudine": 16.8533555,
-        "address": "Via Michele Mirenghi 35 70123 Bari",
-        "contact": "0805740865 https://restaurantguru.it/BAR-Stallone-di-Stallone-Ignazio-Bari",
-        "business_info": "Mo-Fr 08:00-20:00",
+        "indirizzo": "Via Michele Mirenghi 35 70123 Bari",
+        "contatto": "0805740865 https://restaurantguru.it/BAR-Stallone-di-Stallone-Ignazio-Bari",
+        "informazioni_attivita": "Mo-Fr 08:00-20:00",
         "services": "yes"
     },
     {
@@ -1129,73 +1129,73 @@
         "Categoria": "Caffè",
         "latitudine": 41.1131612,
         "longitudine": 16.8761047,
-        "address": "Via Giuseppe Re David 171 70125 Bari",
-        "contact": "+39  393 122 1988",
-        "business_info": "Mo-Sa 06:30-20:00"
+        "indirizzo": "Via Giuseppe Re David 171 70125 Bari",
+        "contatto": "+39  393 122 1988",
+        "informazioni_attivita": "Mo-Sa 06:30-20:00"
     },
     {
         "Spazio": "Baba Yaga",
         "Categoria": "Caffè",
         "latitudine": 41.1636941,
         "longitudine": 16.7490123,
-        "address": "Lungomare Cristoforo Colombo 154 70127 Bari",
-        "contact": "+39 080 533 1437",
-        "business_info": "Mo-Su 06:00-00:45"
+        "indirizzo": "Lungomare Cristoforo Colombo 154 70127 Bari",
+        "contatto": "+39 080 533 1437",
+        "informazioni_attivita": "Mo-Su 06:00-00:45"
     },
     {
         "Spazio": "Pasticceria Rex",
         "Categoria": "Caffè",
         "latitudine": 41.1255887,
         "longitudine": 16.8642946,
-        "address": "Corso Vittorio Emanuele Secondo 146 70122 Bari",
-        "contact": "+39 0805232296 pasticceriarex@tiscali.it",
-        "business_info": "Mo-Sa 06:30-20:30; We off; Su 06:30-14:00"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 146 70122 Bari",
+        "contatto": "+39 0805232296 pasticceriarex@tiscali.it",
+        "informazioni_attivita": "Mo-Sa 06:30-20:30; We off; Su 06:30-14:00"
     },
     {
         "Spazio": "Sweet Coffee Bean",
         "Categoria": "Caffè",
         "latitudine": 41.1256108,
         "longitudine": 16.8646783,
-        "address": "Corso Vittorio Emanuele Secondo 134 70122 Bari",
-        "contact": "+39 0806450713",
-        "business_info": "Mo-Sa 06:30-20:30"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 134 70122 Bari",
+        "contatto": "+39 0806450713",
+        "informazioni_attivita": "Mo-Sa 06:30-20:30"
     },
     {
         "Spazio": "Caffetteria Pizzuto",
         "Categoria": "Caffè",
         "latitudine": 41.124892,
         "longitudine": 16.8653981,
-        "address": "Via de Rossi 28 70122 Bari",
-        "contact": "+39 0805214141",
-        "business_info": "Mo-Sa 06:30-18:30"
+        "indirizzo": "Via de Rossi 28 70122 Bari",
+        "contatto": "+39 0805214141",
+        "informazioni_attivita": "Mo-Sa 06:30-18:30"
     },
     {
         "Spazio": "Mokador",
         "Categoria": "Caffè",
         "latitudine": 41.1221339,
         "longitudine": 16.8728576,
-        "address": "Corso Cavour 56 70121 Bari",
-        "contact": "+3913355308",
-        "business_info": "Mo-Su 07:00-00:00",
-        "accessibility": "limited"
+        "indirizzo": "Corso Cavour 56 70121 Bari",
+        "contatto": "+3913355308",
+        "informazioni_attivita": "Mo-Su 07:00-00:00",
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Caffè Italiano",
         "Categoria": "Caffè",
         "latitudine": 41.1203094,
         "longitudine": 16.8728012,
-        "address": "Corso Cavour 126 70121 Bari IT"
+        "indirizzo": "Corso Cavour 126 70121 Bari IT"
     },
     {
         "Spazio": "Salvatore Petriella - Pasticceria Café & Bistrot",
         "Categoria": "Caffè",
         "latitudine": 41.1233424,
         "longitudine": 16.8731527,
-        "address": "Via Salvatore Cognetti 22 70121 Bari",
-        "contact": "+39 080 864 1410 https://www.salvatorepetriella.it",
-        "business_info": "Mo-Su 07:00-21:30; PH closed Petriella Salvatore",
-        "accessibility": "limited 0",
-        "location_info": "0",
+        "indirizzo": "Via Salvatore Cognetti 22 70121 Bari",
+        "contatto": "+39 080 864 1410 https://www.salvatorepetriella.it",
+        "informazioni_attivita": "Mo-Su 07:00-21:30; PH closed Petriella Salvatore",
+        "accessibilita": "limited 0",
+        "informazioni_posto": "0",
         "services": "yes"
     },
     {
@@ -1203,9 +1203,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1264539,
         "longitudine": 16.8703801,
-        "address": "Corso Vittorio Emanuele Secondo 47 70122 Bari",
-        "contact": "+39 080 917 9912;+39 375 548 8463",
-        "accessibility": "no",
+        "indirizzo": "Corso Vittorio Emanuele Secondo 47 70122 Bari",
+        "contatto": "+39 080 917 9912;+39 375 548 8463",
+        "accessibilita": "no",
         "services": "yes"
     },
     {
@@ -1213,9 +1213,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1253748,
         "longitudine": 16.8718677,
-        "address": "Via Niccolò Piccinni 23 70122 Bari",
-        "contact": "+39 0809671169",
-        "accessibility": "limited",
+        "indirizzo": "Via Niccolò Piccinni 23 70122 Bari",
+        "contatto": "+39 0809671169",
+        "accessibilita": "limited",
         "services": "yes"
     },
     {
@@ -1223,15 +1223,15 @@
         "Categoria": "Caffè",
         "latitudine": 41.1202182,
         "longitudine": 16.874029,
-        "address": "Via Nicola de Giosa 94"
+        "indirizzo": "Via Nicola de Giosa 94"
     },
     {
         "Spazio": "Caffè Big Ben",
         "Categoria": "Caffè",
         "latitudine": 41.1233234,
         "longitudine": 16.8641392,
-        "address": "Via Quintino Sella 75 70122 Bari",
-        "contact": "+39 0805227668"
+        "indirizzo": "Via Quintino Sella 75 70122 Bari",
+        "contatto": "+39 0805227668"
     },
     {
         "Spazio": "Caffè Sospeso",
@@ -1244,7 +1244,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1227278,
         "longitudine": 16.8693012,
-        "address": "Via Principe Amedeo 63 70121 Bari"
+        "indirizzo": "Via Principe Amedeo 63 70121 Bari"
     },
     {
         "Spazio": "Starbucks",
@@ -1252,10 +1252,10 @@
         "latitudine": 41.1225391,
         "longitudine": 16.8706769,
         "brand": "Starbucks",
-        "address": "Via Argiro 112 70121 Bari",
-        "contact": "https://www.starbucks.it/",
-        "business_info": "07:00-21:00",
-        "accessibility": "limited"
+        "indirizzo": "Via Argiro 112 70121 Bari",
+        "contatto": "https://www.starbucks.it/",
+        "informazioni_attivita": "07:00-21:00",
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Bistrot 21",
@@ -1268,7 +1268,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1244724,
         "longitudine": 16.8744347,
-        "address": "Via Sabino Fiorese",
+        "indirizzo": "Via Sabino Fiorese",
         "services": "yes"
     },
     {
@@ -1282,9 +1282,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.0986502,
         "longitudine": 16.828504,
-        "business_info": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
-        "accessibility": "yes 0",
-        "location_info": "0",
+        "informazioni_attivita": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+        "accessibilita": "yes 0",
+        "informazioni_posto": "0",
         "services": "yes"
     },
     {
@@ -1292,9 +1292,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.0975454,
         "longitudine": 16.8293618,
-        "business_info": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
-        "accessibility": "yes 1",
-        "location_info": "1",
+        "informazioni_attivita": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+        "accessibilita": "yes 1",
+        "informazioni_posto": "1",
         "services": "yes"
     },
     {
@@ -1302,9 +1302,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1235735,
         "longitudine": 16.8686645,
-        "address": "Via Andrea da Bari 79 70122",
-        "contact": "+39 0805236101",
-        "business_info": "M. & M. Srlsu"
+        "indirizzo": "Via Andrea da Bari 79 70122",
+        "contatto": "+39 0805236101",
+        "informazioni_attivita": "M. & M. Srlsu"
     },
     {
         "Spazio": "Vavì",
@@ -1317,8 +1317,8 @@
         "Categoria": "Caffè",
         "latitudine": 41.1283925,
         "longitudine": 16.8683763,
-        "address": "Piazza dell'Odegitria 5 Bari",
-        "business_info": "Ar. Gio s.r.l.s.",
+        "indirizzo": "Piazza dell'Odegitria 5 Bari",
+        "informazioni_attivita": "Ar. Gio s.r.l.s.",
         "services": "no"
     },
     {
@@ -1326,49 +1326,49 @@
         "Categoria": "Caffè",
         "latitudine": 41.1251144,
         "longitudine": 16.8692524,
-        "address": "Via Sparano da Bari 25/a 70122 Bari",
-        "contact": "+39 0805234177 http://www.baciodilattebari.it/",
-        "business_info": "07:00-21:00",
-        "accessibility": "yes"
+        "indirizzo": "Via Sparano da Bari 25/a 70122 Bari",
+        "contatto": "+39 0805234177 http://www.baciodilattebari.it/",
+        "informazioni_attivita": "07:00-21:00",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Jérôme Cafè",
         "Categoria": "Caffè",
         "latitudine": 41.124141,
         "longitudine": 16.8692049,
-        "address": "Via Alessandro Maria Calefati 61b 70121 Bari",
-        "contact": "+39 0805212525"
+        "indirizzo": "Via Alessandro Maria Calefati 61b 70121 Bari",
+        "contatto": "+39 0805212525"
     },
     {
         "Spazio": "Caffè Cognetti",
         "Categoria": "Caffè",
         "latitudine": 41.1224965,
         "longitudine": 16.8698103,
-        "address": "Via Sparano da Bari 120 70121 Bari",
-        "contact": "+39 0809260733 https://www.caffecognetti.com/"
+        "indirizzo": "Via Sparano da Bari 120 70121 Bari",
+        "contatto": "+39 0809260733 https://www.caffecognetti.com/"
     },
     {
         "Spazio": "Caffè Vergnano 1882",
         "Categoria": "Caffè",
         "latitudine": 41.1216231,
         "longitudine": 16.869873,
-        "address": "Via Sparano da Bari 150 70121 Bari"
+        "indirizzo": "Via Sparano da Bari 150 70121 Bari"
     },
     {
         "Spazio": "Tiffany Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1218656,
         "longitudine": 16.87047,
-        "address": "Via Argiro 137 70121 Bari",
-        "contact": "+39 0805232447 https://www.tiffanycaffe.com/"
+        "indirizzo": "Via Argiro 137 70121 Bari",
+        "contatto": "+39 0805232447 https://www.tiffanycaffe.com/"
     },
     {
         "Spazio": "Jérôme Bakery",
         "Categoria": "Caffè",
         "latitudine": 41.1192267,
         "longitudine": 16.8700978,
-        "address": "Via Sparano da Bari 178 70121 Bari",
-        "contact": "+39 080 975 3071 https://jeromebakery.it/"
+        "indirizzo": "Via Sparano da Bari 178 70121 Bari",
+        "contatto": "+39 080 975 3071 https://jeromebakery.it/"
     },
     {
         "Spazio": "Bar Adua",
@@ -1387,17 +1387,17 @@
         "Categoria": "Caffè",
         "latitudine": 41.1259186,
         "longitudine": 16.8700645,
-        "address": "Via Argiro 1 70122 Bari",
-        "contact": "https://www.saicaf.it/"
+        "indirizzo": "Via Argiro 1 70122 Bari",
+        "contatto": "https://www.saicaf.it/"
     },
     {
         "Spazio": "Semplice Café",
         "Categoria": "Caffè",
         "latitudine": 41.1250035,
         "longitudine": 16.8704343,
-        "address": "Via Argiro 32 70122 Bari",
-        "contact": "+39 080 573 9071 https://www.semplicecafe.it/",
-        "business_info": "Mo-Sa 07:00-22:30; Su 08:00-22:30",
+        "indirizzo": "Via Argiro 32 70122 Bari",
+        "contatto": "+39 080 573 9071 https://www.semplicecafe.it/",
+        "informazioni_attivita": "Mo-Sa 07:00-22:30; Su 08:00-22:30",
         "services": "yes"
     },
     {
@@ -1405,24 +1405,24 @@
         "Categoria": "Caffè",
         "latitudine": 41.0969364,
         "longitudine": 16.8550728,
-        "address": "Via Camillo Rosalba 49A 70124 Bari",
-        "contact": "+39 0805618471"
+        "indirizzo": "Via Camillo Rosalba 49A 70124 Bari",
+        "contatto": "+39 0805618471"
     },
     {
         "Spazio": "Jérôme Café",
         "Categoria": "Caffè",
         "latitudine": 41.1236739,
         "longitudine": 16.8705695,
-        "address": "Via Argiro 74 70121 Bari",
-        "contact": "+39 0805215211"
+        "indirizzo": "Via Argiro 74 70121 Bari",
+        "contatto": "+39 0805215211"
     },
     {
         "Spazio": "Se Ti Va",
         "Categoria": "Caffè",
         "latitudine": 41.123882,
         "longitudine": 16.8705504,
-        "address": "Via Argiro 64 70121 Bari",
-        "contact": "+39 3293332016",
+        "indirizzo": "Via Argiro 64 70121 Bari",
+        "contatto": "+39 3293332016",
         "services": "yes"
     },
     {
@@ -1430,24 +1430,24 @@
         "Categoria": "Caffè",
         "latitudine": 41.1232568,
         "longitudine": 16.8706048,
-        "address": "Via Argiro 88 70121 Bari",
-        "contact": "+39 0802049109"
+        "indirizzo": "Via Argiro 88 70121 Bari",
+        "contatto": "+39 0802049109"
     },
     {
         "Spazio": "Serafina Cafè",
         "Categoria": "Caffè",
         "latitudine": 41.1228882,
         "longitudine": 16.8703656,
-        "address": "Via Argiro 105 70121 Bari",
-        "contact": "+39 3209672960"
+        "indirizzo": "Via Argiro 105 70121 Bari",
+        "contatto": "+39 3209672960"
     },
     {
         "Spazio": "Fuwa",
         "Categoria": "Caffè",
         "latitudine": 41.122447,
         "longitudine": 16.8704273,
-        "address": "Via Argiro 119 70121 Bari",
-        "contact": "https://www.instagram.com/fuwa_bari/"
+        "indirizzo": "Via Argiro 119 70121 Bari",
+        "contatto": "https://www.instagram.com/fuwa_bari/"
     },
     {
         "Spazio": "Bar Giotì",
@@ -1460,77 +1460,77 @@
         "Categoria": "Caffè",
         "latitudine": 41.1241993,
         "longitudine": 16.8682278,
-        "address": "Via Roberto da Bari 58A 70122 Bari",
-        "contact": "+39 3517204482 info@caffeportineria.it https://www.caffèportineria.it"
+        "indirizzo": "Via Roberto da Bari 58A 70122 Bari",
+        "contatto": "+39 3517204482 info@caffeportineria.it https://www.caffèportineria.it"
     },
     {
         "Spazio": "Caffè Vanity",
         "Categoria": "Caffè",
         "latitudine": 41.1252131,
         "longitudine": 16.8712815,
-        "address": "Via Melo da Bari 28 70122 Bari",
-        "contact": "+39 0805212265"
+        "indirizzo": "Via Melo da Bari 28 70122 Bari",
+        "contatto": "+39 0805212265"
     },
     {
         "Spazio": "Glamour Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1243719,
         "longitudine": 16.8710992,
-        "address": "Via Melo da Bari 57 70121 Bari",
-        "contact": "+39 0803215895"
+        "indirizzo": "Via Melo da Bari 57 70121 Bari",
+        "contatto": "+39 0803215895"
     },
     {
         "Spazio": "Mozart Caffé",
         "Categoria": "Caffè",
         "latitudine": 41.1219103,
         "longitudine": 16.8713624,
-        "address": "Via Melo da Bari 139 70121 Bari",
-        "contact": "+39 0805245015"
+        "indirizzo": "Via Melo da Bari 139 70121 Bari",
+        "contatto": "+39 0805245015"
     },
     {
         "Spazio": "Floro in Centro",
         "Categoria": "Caffè",
         "latitudine": 41.1258324,
         "longitudine": 16.8684429,
-        "address": "Corso Vittorio Emanuele Secondo 74 70122 Bari",
-        "contact": "+39 0805679290 pasticceriafloro@libero.it https://www.pasticceriafloro.com/"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 74 70122 Bari",
+        "contatto": "+39 0805679290 pasticceriafloro@libero.it https://www.pasticceriafloro.com/"
     },
     {
         "Spazio": "Black Lounge Bar",
         "Categoria": "Caffè",
         "latitudine": 41.1255207,
         "longitudine": 16.8630281,
-        "address": "Corso Vittorio Emanuele Secondo 182 70123 Bari",
-        "contact": "+39 0808642695 https://www.blackloungebar.com/"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 182 70123 Bari",
+        "contatto": "+39 0808642695 https://www.blackloungebar.com/"
     },
     {
         "Spazio": "Pausa Caffè Caffetteria",
         "Categoria": "Caffè",
         "latitudine": 41.1260129,
         "longitudine": 16.8714587,
-        "address": "Corso Vittorio Emanuele Secondo 16 70122 Bari"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 16 70122 Bari"
     },
     {
         "Spazio": "Bar Sayonara",
         "Categoria": "Caffè",
         "latitudine": 41.1192524,
         "longitudine": 16.8706133,
-        "address": "18 70122 Bari Piazza Aldo Moro"
+        "indirizzo": "18 70122 Bari Piazza Aldo Moro"
     },
     {
         "Spazio": "Cafe-Bar Georgia",
         "Categoria": "Caffè",
         "latitudine": 41.1224997,
         "longitudine": 16.8607734,
-        "business_info": "2022"
+        "informazioni_attivita": "2022"
     },
     {
         "Spazio": "Komodo Cafè",
         "Categoria": "Caffè",
         "latitudine": 41.1226141,
         "longitudine": 16.8668767,
-        "address": "Via Principe Amedeo 125 70122 Bari",
-        "contact": "+39 3496910600 atricasi@hotmail.com"
+        "indirizzo": "Via Principe Amedeo 125 70122 Bari",
+        "contatto": "+39 3496910600 atricasi@hotmail.com"
     },
     {
         "Spazio": null,
@@ -1543,71 +1543,71 @@
         "Categoria": "Caffè",
         "latitudine": 41.1622906,
         "longitudine": 16.7506725,
-        "address": "Via Napoli in Santo Spirito 43A 70127 Santo Spirito",
-        "accessibility": "no"
+        "indirizzo": "Via Napoli in Santo Spirito 43A 70127 Santo Spirito",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Caffetteria Italia",
         "Categoria": "Caffè",
         "latitudine": 41.1631185,
         "longitudine": 16.7475364,
-        "address": "Via Napoli in Santo Spirito 70127 Santo Spirito"
+        "indirizzo": "Via Napoli in Santo Spirito 70127 Santo Spirito"
     },
     {
         "Spazio": "Il Gabbiano",
         "Categoria": "Caffè",
         "latitudine": 41.1633594,
         "longitudine": 16.7512074,
-        "address": "Lungomare Cristoforo Colombo 70127 Bari",
-        "business_info": "Mo-Su 05:30-00:00",
-        "accessibility": "no"
+        "indirizzo": "Lungomare Cristoforo Colombo 70127 Bari",
+        "informazioni_attivita": "Mo-Su 05:30-00:00",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Peccati di Gola",
         "Categoria": "Caffè",
         "latitudine": 41.1598715,
         "longitudine": 16.7676791,
-        "address": "Via Vittorio Veneto in Palese 70128 Palese"
+        "indirizzo": "Via Vittorio Veneto in Palese 70128 Palese"
     },
     {
         "Spazio": "Bar Gemma",
         "Categoria": "Caffè",
         "latitudine": 41.1534698,
         "longitudine": 16.7649449,
-        "address": "Via Renna 32 70128 Palese"
+        "indirizzo": "Via Renna 32 70128 Palese"
     },
     {
         "Spazio": "Manila",
         "Categoria": "Caffè",
         "latitudine": 41.1512054,
         "longitudine": 16.767377,
-        "address": "Via Amedeo di Savoia 70128 Palese",
-        "accessibility": "no"
+        "indirizzo": "Via Amedeo di Savoia 70128 Palese",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Marea",
         "Categoria": "Caffè",
         "latitudine": 41.1631939,
         "longitudine": 16.7516147,
-        "address": "70127 Santo Spirito"
+        "indirizzo": "70127 Santo Spirito"
     },
     {
         "Spazio": "Caffè Diaz",
         "Categoria": "Caffè",
         "latitudine": 41.1532867,
         "longitudine": 16.7668985,
-        "address": "Via Armando Diaz 70128 Palese"
+        "indirizzo": "Via Armando Diaz 70128 Palese"
     },
     {
         "Spazio": "Benny's Bar",
         "Categoria": "Caffè",
         "latitudine": 41.1627791,
         "longitudine": 16.7482856,
-        "address": "Via Napoli in Santo Spirito 110 70127 Santo Spirito",
-        "contact": "+39 080 533 5669",
-        "business_info": "Mo-Su 06:00-23:00",
-        "accessibility": "limited 0",
-        "location_info": "0"
+        "indirizzo": "Via Napoli in Santo Spirito 110 70127 Santo Spirito",
+        "contatto": "+39 080 533 5669",
+        "informazioni_attivita": "Mo-Su 06:00-23:00",
+        "accessibilita": "limited 0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "Exó",
@@ -1626,9 +1626,9 @@
         "Categoria": "Caffè",
         "latitudine": 41.1639706,
         "longitudine": 16.7526497,
-        "address": "Largo Cristoforo Colombo 20A 70127 Bari",
-        "contact": "+39 342 147 7727",
-        "business_info": "Mo 06:30-00:00; Tu off; We-Su 06:30-00:00",
+        "indirizzo": "Largo Cristoforo Colombo 20A 70127 Bari",
+        "contatto": "+39 342 147 7727",
+        "informazioni_attivita": "Mo 06:30-00:00; Tu off; We-Su 06:30-00:00",
         "services": "yes"
     },
     {
@@ -1636,14 +1636,14 @@
         "Categoria": "Caffè",
         "latitudine": 41.1221011,
         "longitudine": 16.8694325,
-        "address": "Via Dante Alighieri 63 70121 Bari"
+        "indirizzo": "Via Dante Alighieri 63 70121 Bari"
     },
     {
         "Spazio": "Bar Ospedale San Paolo",
         "Categoria": "Caffè",
         "latitudine": 41.1186307,
         "longitudine": 16.7813771,
-        "address": "Strada Capo Scardicchio Bari",
+        "indirizzo": "Strada Capo Scardicchio Bari",
         "services": "no"
     },
     {
@@ -1663,8 +1663,8 @@
         "Categoria": "Caffè",
         "latitudine": 41.1213921,
         "longitudine": 16.8688612,
-        "address": "Via Domenico Nicolai 70121 Bari",
-        "business_info": "Mo-Sa 07:30-20:30; Su 08:30-13:30",
+        "indirizzo": "Via Domenico Nicolai 70121 Bari",
+        "informazioni_attivita": "Mo-Sa 07:30-20:30; Su 08:30-13:30",
         "services": "yes"
     },
     {
@@ -1678,7 +1678,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1222581,
         "longitudine": 16.8695214,
-        "address": "Via Sparano da Bari 105"
+        "indirizzo": "Via Sparano da Bari 105"
     },
     {
         "Spazio": null,
@@ -1691,38 +1691,38 @@
         "Categoria": "Caffè",
         "latitudine": 41.1287109,
         "longitudine": 16.8686077,
-        "address": "Piazza dell'Odegitria",
-        "contact": "https://www.stefyscathedralcoffee.it/"
+        "indirizzo": "Piazza dell'Odegitria",
+        "contatto": "https://www.stefyscathedralcoffee.it/"
     },
     {
         "Spazio": "Caffè Roma",
         "Categoria": "Caffè",
         "latitudine": 41.1238267,
         "longitudine": 16.8686557,
-        "address": "Via Andrea da Bari 67"
+        "indirizzo": "Via Andrea da Bari 67"
     },
     {
         "Spazio": "White cafè",
         "Categoria": "Caffè",
         "latitudine": 41.1226487,
         "longitudine": 16.8550707,
-        "address": "Via Indipendenza 18 70123",
-        "contact": "+393476506817",
-        "business_info": "Mo-Sa 07:00-19:30; Su 07:00-13:00"
+        "indirizzo": "Via Indipendenza 18 70123",
+        "contatto": "+393476506817",
+        "informazioni_attivita": "Mo-Sa 07:00-19:30; Su 07:00-13:00"
     },
     {
         "Spazio": "Mamajuana",
         "Categoria": "Caffè",
         "latitudine": 41.1171484,
         "longitudine": 16.8736733,
-        "address": "Via Giuseppe Re David"
+        "indirizzo": "Via Giuseppe Re David"
     },
     {
         "Spazio": "Conticchio",
         "Categoria": "Caffè",
         "latitudine": 41.1161646,
         "longitudine": 16.8729409,
-        "address": "Viale Unità d'Italia"
+        "indirizzo": "Viale Unità d'Italia"
     },
     {
         "Spazio": "Dea cafè",
@@ -1735,22 +1735,22 @@
         "Categoria": "Caffè",
         "latitudine": 41.1033618,
         "longitudine": 16.8757996,
-        "address": "Via della Resistenza"
+        "indirizzo": "Via della Resistenza"
     },
     {
         "Spazio": "Crema & Cioccolato",
         "Categoria": "Caffè",
         "latitudine": 41.1220024,
         "longitudine": 16.8680501,
-        "address": "Via Dante Alighieri",
-        "contact": "https://www.cremaecioccolato.com/"
+        "indirizzo": "Via Dante Alighieri",
+        "contatto": "https://www.cremaecioccolato.com/"
     },
     {
         "Spazio": "Fadi",
         "Categoria": "Caffè",
         "latitudine": 41.1212433,
         "longitudine": 16.8550035,
-        "address": "Via Dante Alighieri"
+        "indirizzo": "Via Dante Alighieri"
     },
     {
         "Spazio": "Mary",
@@ -1781,7 +1781,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1238528,
         "longitudine": 16.8682535,
-        "business_info": "Mo-Su 07:00-19:00"
+        "informazioni_attivita": "Mo-Su 07:00-19:00"
     },
     {
         "Spazio": "Baretto",
@@ -1794,7 +1794,7 @@
         "Categoria": "Caffè",
         "latitudine": 41.1615522,
         "longitudine": 16.7538959,
-        "address": "Vico Traversa 3"
+        "indirizzo": "Vico Traversa 3"
     },
     {
         "Spazio": "Caravella",
@@ -1813,29 +1813,29 @@
         "Categoria": "Caffè",
         "latitudine": 41.121966,
         "longitudine": 16.8674154,
-        "address": "Via Dante Alighieri"
+        "indirizzo": "Via Dante Alighieri"
     },
     {
         "Spazio": "Dodo",
         "Categoria": "Caffè",
         "latitudine": 41.1219101,
         "longitudine": 16.8663748,
-        "address": "Via Dante Alighieri",
-        "contact": "https://dodo-cafe.metro.bar/"
+        "indirizzo": "Via Dante Alighieri",
+        "contatto": "https://dodo-cafe.metro.bar/"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.1213876,
         "longitudine": 16.8654873,
-        "address": "Via de Rossi"
+        "indirizzo": "Via de Rossi"
     },
     {
         "Spazio": "Crema & Amarena",
         "Categoria": "Caffè",
         "latitudine": 41.1588264,
         "longitudine": 16.7611292,
-        "address": "Via Napoli in Santo Spirito"
+        "indirizzo": "Via Napoli in Santo Spirito"
     },
     {
         "Spazio": "Video Gusto",
@@ -1848,54 +1848,54 @@
         "Categoria": "Caffè",
         "latitudine": 41.1237486,
         "longitudine": 16.8610606,
-        "address": "Via Alessandro Manzoni"
+        "indirizzo": "Via Alessandro Manzoni"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.1669959,
         "longitudine": 16.7467438,
-        "address": "Lungomare Cristoforo Colombo 70127",
-        "business_info": "Lido La Rotonda"
+        "indirizzo": "Lungomare Cristoforo Colombo 70127",
+        "informazioni_attivita": "Lido La Rotonda"
     },
     {
         "Spazio": "Veronero Caffè",
         "Categoria": "Caffè",
         "latitudine": 41.1253986,
         "longitudine": 16.868929,
-        "address": "Via Niccolò Piccinni 81 70122 Bari",
-        "contact": "https://www.veronero.it/"
+        "indirizzo": "Via Niccolò Piccinni 81 70122 Bari",
+        "contatto": "https://www.veronero.it/"
     },
     {
         "Spazio": "Napoleon",
         "Categoria": "Caffè",
         "latitudine": 41.1214392,
         "longitudine": 16.8718135,
-        "address": "Via Antonio Beatillo"
+        "indirizzo": "Via Antonio Beatillo"
     },
     {
         "Spazio": "Bar dello Studente",
         "Categoria": "Caffè",
         "latitudine": 41.1269413,
         "longitudine": 16.8644238,
-        "address": "Via San Francesco d'Assisi 35 70122 Bari",
-        "contact": "+39 080 5211516",
-        "business_info": "Scamarda Maria",
-        "accessibility": "yes"
+        "indirizzo": "Via San Francesco d'Assisi 35 70122 Bari",
+        "contatto": "+39 080 5211516",
+        "informazioni_attivita": "Scamarda Maria",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Caracolito Coffee Shop",
         "Categoria": "Caffè",
         "latitudine": 41.1253778,
         "longitudine": 16.8668321,
-        "address": "Via Benedetto Cairoli 15 70122 Bari"
+        "indirizzo": "Via Benedetto Cairoli 15 70122 Bari"
     },
     {
         "Spazio": "Caffè del Ferrarese",
         "Categoria": "Caffè",
         "latitudine": 41.1267912,
         "longitudine": 16.8717197,
-        "address": "Piazza del Ferrarese 1 70122 Bari"
+        "indirizzo": "Piazza del Ferrarese 1 70122 Bari"
     },
     {
         "Spazio": "White Manhattan",
@@ -1908,30 +1908,30 @@
         "Categoria": "Caffè",
         "latitudine": 41.1245072,
         "longitudine": 16.8649828,
-        "address": "Via Abate Giacinto Gimma 175 70122 Bari"
+        "indirizzo": "Via Abate Giacinto Gimma 175 70122 Bari"
     },
     {
         "Spazio": "Bar Martini",
         "Categoria": "Caffè",
         "latitudine": 41.1191843,
         "longitudine": 16.8590882,
-        "address": "Via Scipione Crisanzio 198 70123 Bari"
+        "indirizzo": "Via Scipione Crisanzio 198 70123 Bari"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.1332058,
         "longitudine": 16.8483713,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Chiosco Garibaldi",
         "Categoria": "Caffè",
         "latitudine": 41.125781,
         "longitudine": 16.8616432,
-        "address": "Piazza Giuseppe Garibaldi",
-        "accessibility": "no",
-        "location_info": "yes",
+        "indirizzo": "Piazza Giuseppe Garibaldi",
+        "accessibilita": "no",
+        "informazioni_posto": "yes",
         "services": "no"
     },
     {
@@ -1939,65 +1939,65 @@
         "Categoria": "Caffè",
         "latitudine": 41.1482455,
         "longitudine": 16.7846304,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.0741245,
         "longitudine": 16.8711227,
-        "location_info": "kiosk"
+        "informazioni_posto": "kiosk"
     },
     {
         "Spazio": "Hyde park cafè",
         "Categoria": "Caffè",
         "latitudine": 41.101018,
         "longitudine": 16.8739738,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.0737141,
         "longitudine": 16.8850665,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Cafè Movida",
         "Categoria": "Caffè",
         "latitudine": 41.0738176,
         "longitudine": 16.8709599,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": null,
         "Categoria": "Caffè",
         "latitudine": 41.1379387,
         "longitudine": 16.8234428,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "IL cHiOsCo",
         "Categoria": "Caffè",
         "latitudine": 41.1210047,
         "longitudine": 16.8699718,
-        "address": "Piazza Umberto Primo 70121 Bari",
-        "location_info": "yes"
+        "indirizzo": "Piazza Umberto Primo 70121 Bari",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Eni Café",
         "Categoria": "Caffè",
         "latitudine": 41.1073894,
         "longitudine": 16.8209389,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Carbur Drink Shop",
         "Categoria": "Caffè",
         "latitudine": 41.1022112,
         "longitudine": 16.9254717,
-        "contact": "https://cds416.wixsite.com/carbur-drink-shop",
-        "location_info": "yes"
+        "contatto": "https://cds416.wixsite.com/carbur-drink-shop",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Winning games Slot Italy",
@@ -2011,9 +2011,9 @@
         "latitudine": 41.1179704,
         "longitudine": 16.8642494,
         "old_name": "Cinema Teatro Royal",
-        "contact": "https://www.anchecinema.com/",
-        "business_info": "AncheCinema s.r.l.",
-        "accessibility": "yes",
+        "contatto": "https://www.anchecinema.com/",
+        "informazioni_attivita": "AncheCinema s.r.l.",
+        "accessibilita": "yes",
         "entertainment": "1"
     },
     {
@@ -2021,15 +2021,15 @@
         "Categoria": "Cinema",
         "latitudine": 41.1185756,
         "longitudine": 16.8832022,
-        "address": "Largo Monsignore Augusto Curi 19 70121",
-        "contact": "http://www.cinemaesedra.it/"
+        "indirizzo": "Largo Monsignore Augusto Curi 19 70121",
+        "contatto": "http://www.cinemaesedra.it/"
     },
     {
         "Spazio": "Nuovo Splendor",
         "Categoria": "Cinema",
         "latitudine": 41.1106541,
         "longitudine": 16.8699432,
-        "address": "Via Buccari 24 70125"
+        "indirizzo": "Via Buccari 24 70125"
     },
     {
         "Spazio": "ABCinema",
@@ -2042,17 +2042,17 @@
         "Categoria": "Cinema",
         "latitudine": 41.1372163,
         "longitudine": 16.8388862,
-        "business_info": "Fondazione Apulia Film Commission",
-        "accessibility": "yes"
+        "informazioni_attivita": "Fondazione Apulia Film Commission",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Multicinema Galleria",
         "Categoria": "Cinema",
         "latitudine": 41.118706,
         "longitudine": 16.8683224,
-        "address": "Corso Italia 17 70123 Bari",
-        "contact": "+39 0805214563 https://www.multicinemagalleria.it/",
-        "business_info": "Mo-Su 15:30-21:30; Sa-Su 10:00-13:00",
+        "indirizzo": "Corso Italia 17 70123 Bari",
+        "contatto": "+39 0805214563 https://www.multicinemagalleria.it/",
+        "informazioni_attivita": "Mo-Su 15:30-21:30; Sa-Su 10:00-13:00",
         "entertainment": "8"
     },
     {
@@ -2060,9 +2060,9 @@
         "Categoria": "Cinema",
         "latitudine": 41.1629075,
         "longitudine": 16.7489786,
-        "address": "Via Giannone de Maioribus 4 70127 Santo Spirito",
-        "contact": "+39 080 411 7036 info@cinemapiccolo.it https://www.cinemapiccolo.it/",
-        "accessibility": "yes",
+        "indirizzo": "Via Giannone de Maioribus 4 70127 Santo Spirito",
+        "contatto": "+39 080 411 7036 info@cinemapiccolo.it https://www.cinemapiccolo.it/",
+        "accessibilita": "yes",
         "entertainment": "1",
         "services": "yes"
     },
@@ -2072,10 +2072,10 @@
         "latitudine": 41.0907937,
         "longitudine": 16.8877972,
         "brand": "UCI",
-        "address": "Via Mario Giannini 9 70125 Bari",
-        "contact": "https://www.ucicinemas.it/cinema/puglia/bari/uci-cinemas-showville-bari/",
-        "accessibility": "yes",
-        "location_info": "yes",
+        "indirizzo": "Via Mario Giannini 9 70125 Bari",
+        "contatto": "https://www.ucicinemas.it/cinema/puglia/bari/uci-cinemas-showville-bari/",
+        "accessibilita": "yes",
+        "informazioni_posto": "yes",
         "entertainment": "8"
     },
     {
@@ -2083,8 +2083,8 @@
         "Categoria": "Cinema",
         "latitudine": 41.1067622,
         "longitudine": 16.8474221,
-        "contact": "https://www.facebook.com/CinemaAiriciclotteri/",
-        "business_info": "Jun-Aug",
+        "contatto": "https://www.facebook.com/CinemaAiriciclotteri/",
+        "informazioni_attivita": "Jun-Aug",
         "entertainment": "1"
     },
     {
@@ -2098,32 +2098,32 @@
         "Categoria": "Cinema",
         "latitudine": 41.1193133,
         "longitudine": 16.868297,
-        "contact": "https://www.multicinemagalleria.it/arena-4-palme-2/",
-        "business_info": "Multicinema Galleria"
+        "contatto": "https://www.multicinemagalleria.it/arena-4-palme-2/",
+        "informazioni_attivita": "Multicinema Galleria"
     },
     {
         "Spazio": "Il giardino delle feste",
         "Categoria": "Sede eventi",
         "latitudine": 41.1466513,
         "longitudine": 16.7407401,
-        "address": "Via Natale Pisicchio 18 70127 Bari B/C/D",
-        "contact": "https://www.facebook.com/Il-Giardino-delle-Feste-488044918015511/ 347 798 9768"
+        "indirizzo": "Via Natale Pisicchio 18 70127 Bari B/C/D",
+        "contatto": "https://www.facebook.com/Il-Giardino-delle-Feste-488044918015511/ 347 798 9768"
     },
     {
         "Spazio": "Extreme Music Academy",
         "Categoria": "Sede eventi",
         "latitudine": 41.113067,
         "longitudine": 16.8423374,
-        "address": "Via Glomerelli 17 70132 Bari",
-        "contact": "https://extrememusicacademy.it/"
+        "indirizzo": "Via Glomerelli 17 70132 Bari",
+        "contatto": "https://extrememusicacademy.it/"
     },
     {
         "Spazio": "Villa Morisco",
         "Categoria": "Sede eventi",
         "latitudine": 41.159441,
         "longitudine": 16.7492777,
-        "address": "Corso Umberto I 51 70127 Santo Spirito",
-        "contact": "+39 080 533 3285 +39 080 533 0049 https://www.villamorisco.it/",
+        "indirizzo": "Corso Umberto I 51 70127 Santo Spirito",
+        "contatto": "+39 080 533 3285 +39 080 533 0049 https://www.villamorisco.it/",
         "services": "yes"
     },
     {
@@ -2131,30 +2131,30 @@
         "Categoria": "Sede eventi",
         "latitudine": 41.1210979,
         "longitudine": 16.8663177,
-        "address": "Via Domenico Nicolai"
+        "indirizzo": "Via Domenico Nicolai"
     },
     {
         "Spazio": "Auditorium Parrocchiale San Girolamo",
         "Categoria": "Sede eventi",
         "latitudine": 41.13644,
         "longitudine": 16.8229922,
-        "address": "Lungomare Nove Maggio 70132 Bari",
-        "business_info": "Parrocchia San GIrolamo",
-        "location_info": "church 2"
+        "indirizzo": "Lungomare Nove Maggio 70132 Bari",
+        "informazioni_attivita": "Parrocchia San GIrolamo",
+        "informazioni_posto": "church 2"
     },
     {
         "Spazio": "MULATA",
         "Categoria": "Sede eventi",
         "latitudine": 41.085565,
         "longitudine": 16.8794052,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Villa De Grecis",
         "Categoria": "Sede eventi",
         "latitudine": 41.1092206,
         "longitudine": 16.8518455,
-        "address": "Viale delle Murge 70124 Bari",
+        "indirizzo": "Viale delle Murge 70124 Bari",
         "services": "yes"
     },
     {
@@ -2162,7 +2162,7 @@
         "Categoria": "Sede eventi",
         "latitudine": 41.1033747,
         "longitudine": 16.9202648,
-        "contact": "+39 0805494224 https://www.facebook.com/moriscoeventi"
+        "contatto": "+39 0805494224 https://www.facebook.com/moriscoeventi"
     },
     {
         "Spazio": "Villa Renoir",
@@ -2170,29 +2170,29 @@
         "latitudine": 41.1060715,
         "longitudine": 16.8456982,
         "alt_name": "Villa Massimi Losacco",
-        "contact": "+39 3337666856 https://www.facebook.com/villarenoireventi/"
+        "contatto": "+39 3337666856 https://www.facebook.com/villarenoireventi/"
     },
     {
         "Spazio": "White Garden",
         "Categoria": "Sede eventi",
         "latitudine": 41.1516186,
         "longitudine": 16.7812049,
-        "contact": "+39 0805305580 whitegardenricevimenti4@gmail.com https://www.facebook.com/whitegardenricevimenti"
+        "contatto": "+39 0805305580 whitegardenricevimenti4@gmail.com https://www.facebook.com/whitegardenricevimenti"
     },
     {
         "Spazio": "Aury Bakery & Coffee",
         "Categoria": "Sede eventi",
         "latitudine": 41.1539006,
         "longitudine": 16.76195,
-        "contact": "+39 3457954211 auryhappyparty@gmail.com https://www.facebook.com/Aurybakerycoffee/"
+        "contatto": "+39 3457954211 auryhappyparty@gmail.com https://www.facebook.com/Aurybakerycoffee/"
     },
     {
         "Spazio": "Villa Rotondo",
         "Categoria": "Sede eventi",
         "latitudine": 41.0918908,
         "longitudine": 16.8693539,
-        "address": "433",
-        "contact": "+39 3933326263 segreteria.opusbari@gmail.com https://www.villarotondo.it/"
+        "indirizzo": "433",
+        "contatto": "+39 3933326263 segreteria.opusbari@gmail.com https://www.villarotondo.it/"
     },
     {
         "Spazio": "McDonald's",
@@ -2200,10 +2200,10 @@
         "latitudine": 41.1192043,
         "longitudine": 16.8698259,
         "brand": "McDonald's",
-        "address": "Via Sparano da Bari 159 70121 Bari",
-        "contact": "+39 080 5283038",
-        "business_info": "Mo-Fr,Su 06:30-00:30; Sa 06:30-01:30",
-        "accessibility": "limited",
+        "indirizzo": "Via Sparano da Bari 159 70121 Bari",
+        "contatto": "+39 080 5283038",
+        "informazioni_attivita": "Mo-Fr,Su 06:30-00:30; Sa 06:30-01:30",
+        "accessibilita": "limited",
         "services": "wlan"
     },
     {
@@ -2211,14 +2211,14 @@
         "Categoria": "Fast food",
         "latitudine": 41.1282374,
         "longitudine": 16.8715742,
-        "accessibility": "yes"
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Pizzeria Fantasia",
         "Categoria": "Fast food",
         "latitudine": 41.1033352,
         "longitudine": 16.8644708,
-        "address": "Viale del Concilio Vaticano II 61 70124 Bari"
+        "indirizzo": "Viale del Concilio Vaticano II 61 70124 Bari"
     },
     {
         "Spazio": "Rosticceria Oriente",
@@ -2232,9 +2232,9 @@
         "latitudine": 41.1192402,
         "longitudine": 16.8703798,
         "brand": "Burger King",
-        "address": "Piazza Aldo Moro 15 70122 Bari",
-        "contact": "+39 0805210571 https://www.burgerking.it/",
-        "business_info": "Mo-Th 11:00-23:30; Fr 11:00-00:00; Sa 11:00-00:30; Su 11:30-00:00",
+        "indirizzo": "Piazza Aldo Moro 15 70122 Bari",
+        "contatto": "+39 0805210571 https://www.burgerking.it/",
+        "informazioni_attivita": "Mo-Th 11:00-23:30; Fr 11:00-00:00; Sa 11:00-00:30; Su 11:30-00:00",
         "services": "wlan"
     },
     {
@@ -2254,7 +2254,7 @@
         "Categoria": "Fast food",
         "latitudine": 41.1085564,
         "longitudine": 16.8765011,
-        "address": "Via Gioacchino Toma 95 70125"
+        "indirizzo": "Via Gioacchino Toma 95 70125"
     },
     {
         "Spazio": "Pizzeria Lo Squalo",
@@ -2262,8 +2262,8 @@
         "latitudine": 41.1192452,
         "longitudine": 16.8602842,
         "alt_name": "Lo squalo",
-        "address": "70123 Bari",
-        "business_info": "Tu-Su 18:30-00:00"
+        "indirizzo": "70123 Bari",
+        "informazioni_attivita": "Tu-Su 18:30-00:00"
     },
     {
         "Spazio": "Paradise",
@@ -2276,14 +2276,14 @@
         "Categoria": "Fast food",
         "latitudine": 41.0687308,
         "longitudine": 16.8563319,
-        "address": "Via Roccaporena 70129 Bari Santa Rita"
+        "indirizzo": "Via Roccaporena 70129 Bari Santa Rita"
     },
     {
         "Spazio": "Pizzeria da asporto Disco Volante",
         "Categoria": "Fast food",
         "latitudine": 41.099939,
         "longitudine": 16.8675662,
-        "address": "Via Giulio Petroni 106"
+        "indirizzo": "Via Giulio Petroni 106"
     },
     {
         "Spazio": "Pizzeria La Maddalena",
@@ -2302,22 +2302,22 @@
         "Categoria": "Fast food",
         "latitudine": 41.1462811,
         "longitudine": 16.7405923,
-        "address": "Via Natale Pisicchio 70127 Bari"
+        "indirizzo": "Via Natale Pisicchio 70127 Bari"
     },
     {
         "Spazio": "Rosticceria GL",
         "Categoria": "Fast food",
         "latitudine": 41.1071808,
         "longitudine": 16.8812953,
-        "contact": "+39 348 8939505",
-        "business_info": "Giandonato Lafirenze"
+        "contatto": "+39 348 8939505",
+        "informazioni_attivita": "Giandonato Lafirenze"
     },
     {
         "Spazio": null,
         "Categoria": "Fast food",
         "latitudine": 41.1088752,
         "longitudine": 16.8769108,
-        "address": "Via Giuseppe Re David Bari"
+        "indirizzo": "Via Giuseppe Re David Bari"
     },
     {
         "Spazio": "McDonald's",
@@ -2325,16 +2325,16 @@
         "latitudine": 41.1260189,
         "longitudine": 16.871798,
         "brand": "McDonald's",
-        "address": "Corso Cavour 1 70122 Bari",
-        "accessibility": "yes"
+        "indirizzo": "Corso Cavour 1 70122 Bari",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Mister Burrata",
         "Categoria": "Fast food",
         "latitudine": 41.1196597,
         "longitudine": 16.8676626,
-        "address": "Via Scipione Crisanzio 38 70122 Bari",
-        "contact": "+39 3286326101"
+        "indirizzo": "Via Scipione Crisanzio 38 70122 Bari",
+        "contatto": "+39 3286326101"
     },
     {
         "Spazio": null,
@@ -2347,8 +2347,8 @@
         "Categoria": "Fast food",
         "latitudine": 41.1196641,
         "longitudine": 16.8677668,
-        "address": "Via Scipione Crisanzio 36 70122 Bari",
-        "contact": "+39 3452839891"
+        "indirizzo": "Via Scipione Crisanzio 36 70122 Bari",
+        "contatto": "+39 3452839891"
     },
     {
         "Spazio": "Break Time Gentile",
@@ -2361,62 +2361,62 @@
         "Categoria": "Fast food",
         "latitudine": 41.1282492,
         "longitudine": 16.8714428,
-        "address": "Piazza Mercantile 34 70122 Bari",
-        "business_info": "A. Losacco & C",
-        "accessibility": "yes"
+        "indirizzo": "Piazza Mercantile 34 70122 Bari",
+        "informazioni_attivita": "A. Losacco & C",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Focacceria",
         "Categoria": "Fast food",
         "latitudine": 41.1290009,
         "longitudine": 16.8688163,
-        "address": "Vico San Cristoforo 70122 Bari",
-        "business_info": "Tu-Su 19:00-01:00"
+        "indirizzo": "Vico San Cristoforo 70122 Bari",
+        "informazioni_attivita": "Tu-Su 19:00-01:00"
     },
     {
         "Spazio": "Da Maria Sgagliozze",
         "Categoria": "Fast food",
         "latitudine": 41.1290059,
         "longitudine": 16.8689985,
-        "address": "Strada Filioli Bari",
-        "accessibility": "limited"
+        "indirizzo": "Strada Filioli Bari",
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Magna sano",
         "Categoria": "Fast food",
         "latitudine": 41.1205733,
         "longitudine": 16.8655716,
-        "address": "Via de Rossi Bari"
+        "indirizzo": "Via de Rossi Bari"
     },
     {
         "Spazio": "La Sgagliozze",
         "Categoria": "Fast food",
         "latitudine": 41.1274531,
         "longitudine": 16.8677344,
-        "address": "Largo Albicocca",
-        "accessibility": "yes"
+        "indirizzo": "Largo Albicocca",
+        "accessibilita": "yes"
     },
     {
         "Spazio": null,
         "Categoria": "Fast food",
         "latitudine": 41.1274974,
         "longitudine": 16.8713633,
-        "address": "Strada Vallisa 7"
+        "indirizzo": "Strada Vallisa 7"
     },
     {
         "Spazio": "Canarute",
         "Categoria": "Fast food",
         "latitudine": 41.0988771,
         "longitudine": 16.8555805,
-        "address": "Via Cardinale Ciasca 7 Bari",
-        "contact": "+39 080 5613927"
+        "indirizzo": "Via Cardinale Ciasca 7 Bari",
+        "contatto": "+39 080 5613927"
     },
     {
         "Spazio": "Panificio S.Teresa",
         "Categoria": "Fast food",
         "latitudine": 41.127705,
         "longitudine": 16.8707486,
-        "accessibility": "no"
+        "accessibilita": "no"
     },
     {
         "Spazio": null,
@@ -2430,7 +2430,7 @@
         "latitudine": 41.1179245,
         "longitudine": 16.8692913,
         "brand": "Spizzico",
-        "business_info": "Mo-Su 06:00-21:00",
+        "informazioni_attivita": "Mo-Su 06:00-21:00",
         "services": "yes"
     },
     {
@@ -2439,8 +2439,8 @@
         "latitudine": 41.1342084,
         "longitudine": 16.764015,
         "brand": "McDonald's",
-        "accessibility": "1",
-        "location_info": "1"
+        "accessibilita": "1",
+        "informazioni_posto": "1"
     },
     {
         "Spazio": "Panificio Violante",
@@ -2473,11 +2473,11 @@
         "longitudine": 16.869163,
         "alt_name": "Kentucky Fried Chicken",
         "brand": "KFC",
-        "address": "Piazza Aldo Moro 55 70122 Bari",
-        "contact": "+39 080 995 5304",
-        "business_info": "Mo-Th 10:00-22:00; Fr-Su 10:00-23:00 US FOOD NETWORK S.R.L.",
-        "accessibility": "yes 0",
-        "location_info": "0",
+        "indirizzo": "Piazza Aldo Moro 55 70122 Bari",
+        "contatto": "+39 080 995 5304",
+        "informazioni_attivita": "Mo-Th 10:00-22:00; Fr-Su 10:00-23:00 US FOOD NETWORK S.R.L.",
+        "accessibilita": "yes 0",
+        "informazioni_posto": "0",
         "services": "yes"
     },
     {
@@ -2485,7 +2485,7 @@
         "Categoria": "Fast food",
         "latitudine": 41.1165122,
         "longitudine": 16.8629471,
-        "contact": "+393495524705"
+        "contatto": "+393495524705"
     },
     {
         "Spazio": "Rosticceria",
@@ -2498,42 +2498,42 @@
         "Categoria": "Fast food",
         "latitudine": 41.1279153,
         "longitudine": 16.8721999,
-        "address": "Piazza Mercantile 74",
-        "accessibility": "0",
-        "location_info": "0"
+        "indirizzo": "Piazza Mercantile 74",
+        "accessibilita": "0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "Venezia 40",
         "Categoria": "Fast food",
         "latitudine": 41.1292608,
         "longitudine": 16.8717463,
-        "address": "Via Venezia 40 70122 Bari",
-        "contact": "https://www.facebook.com/people/Venezia-40/100063590590540/"
+        "indirizzo": "Via Venezia 40 70122 Bari",
+        "contatto": "https://www.facebook.com/people/Venezia-40/100063590590540/"
     },
     {
         "Spazio": "Oiza Chicken",
         "Categoria": "Fast food",
         "latitudine": 41.1234123,
         "longitudine": 16.8666656,
-        "address": "Via Marchese di Montrone 80 70122 Bari",
-        "contact": "+390806458198 https://www.oiza.it/",
-        "business_info": "Tu-Sa 18:30-02:00",
-        "accessibility": "0",
-        "location_info": "0"
+        "indirizzo": "Via Marchese di Montrone 80 70122 Bari",
+        "contatto": "+390806458198 https://www.oiza.it/",
+        "informazioni_attivita": "Tu-Sa 18:30-02:00",
+        "accessibilita": "0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "Lo sfizio del borgo",
         "Categoria": "Fast food",
         "latitudine": 41.1267201,
         "longitudine": 16.8708764,
-        "address": "Strada Vallisa 53 70122 Bari"
+        "indirizzo": "Strada Vallisa 53 70122 Bari"
     },
     {
         "Spazio": "La Casa del Gusto",
         "Categoria": "Fast food",
         "latitudine": 41.1223168,
         "longitudine": 16.8619257,
-        "address": "Via Principe Amedeo 271"
+        "indirizzo": "Via Principe Amedeo 271"
     },
     {
         "Spazio": "Frise & Mange",
@@ -2546,16 +2546,16 @@
         "Categoria": "Fast food",
         "latitudine": 41.1264483,
         "longitudine": 16.8702216,
-        "address": "Corso Vittorio Emanuele Secondo 55 70122 Bari",
-        "contact": "https://pienoripieno.it/"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 55 70122 Bari",
+        "contatto": "https://pienoripieno.it/"
     },
     {
         "Spazio": "All'Antico Vinaio",
         "Categoria": "Fast food",
         "latitudine": 41.1196745,
         "longitudine": 16.8697873,
-        "address": "Via Sparano da Bari 137 70121 Bari",
-        "contact": "https://www.allanticovinaio.com/"
+        "indirizzo": "Via Sparano da Bari 137 70121 Bari",
+        "contatto": "https://www.allanticovinaio.com/"
     },
     {
         "Spazio": "Flower Burger",
@@ -2563,9 +2563,9 @@
         "latitudine": 41.1226285,
         "longitudine": 16.8671185,
         "brand": "Flower Burger",
-        "address": "Via Principe Amedeo 121 70122 Bari",
-        "contact": "https://flowerburger.it",
-        "business_info": "Mo-Fr,Su 12:30-15:00, 19:30-23:00; Sa 12:30-15:00, 19:30-00:00 vegan Burger place",
+        "indirizzo": "Via Principe Amedeo 121 70122 Bari",
+        "contatto": "https://flowerburger.it",
+        "informazioni_attivita": "Mo-Fr,Su 12:30-15:00, 19:30-23:00; Sa 12:30-15:00, 19:30-00:00 vegan Burger place",
         "services": "yes"
     },
     {
@@ -2573,24 +2573,24 @@
         "Categoria": "Fast food",
         "latitudine": 41.121882,
         "longitudine": 16.865426,
-        "address": "Via de Rossi 137 Bari"
+        "indirizzo": "Via de Rossi 137 Bari"
     },
     {
         "Spazio": "COMETIGIRA",
         "Categoria": "Fast food",
         "latitudine": 41.1505963,
         "longitudine": 16.763138,
-        "address": "Corso Vittorio Emanuele 82 70128 Bari",
-        "contact": "+39 333 281 9111",
-        "business_info": "We-Mo 19:00-24:00"
+        "indirizzo": "Corso Vittorio Emanuele 82 70128 Bari",
+        "contatto": "+39 333 281 9111",
+        "informazioni_attivita": "We-Mo 19:00-24:00"
     },
     {
         "Spazio": "Donna Marà",
         "Categoria": "Fast food",
         "latitudine": 41.1122435,
         "longitudine": 16.8636674,
-        "address": "Piazza Giulio Cesare 27 70124 Bari",
-        "contact": "0805564094"
+        "indirizzo": "Piazza Giulio Cesare 27 70124 Bari",
+        "contatto": "0805564094"
     },
     {
         "Spazio": null,
@@ -2615,22 +2615,22 @@
         "Categoria": "Fast food",
         "latitudine": 41.1208271,
         "longitudine": 16.8712427,
-        "address": "Via Giuseppe Forges Davanzati 31 70121 Bari"
+        "indirizzo": "Via Giuseppe Forges Davanzati 31 70121 Bari"
     },
     {
         "Spazio": "Istanbul Doner Kebab",
         "Categoria": "Fast food",
         "latitudine": 41.1206315,
         "longitudine": 16.8709556,
-        "address": "Via Giuseppe Forges Davanzati 44 70121 Bari"
+        "indirizzo": "Via Giuseppe Forges Davanzati 44 70121 Bari"
     },
     {
         "Spazio": "My Day",
         "Categoria": "Fast food",
         "latitudine": 41.1195737,
         "longitudine": 16.8697952,
-        "address": "Via Sparano da Bari 143 70121 Bari",
-        "contact": "+39 0802460598 https://www.mydaycoffee.it/",
+        "indirizzo": "Via Sparano da Bari 143 70121 Bari",
+        "contatto": "+39 0802460598 https://www.mydaycoffee.it/",
         "services": "yes"
     },
     {
@@ -2638,60 +2638,60 @@
         "Categoria": "Fast food",
         "latitudine": 41.125922,
         "longitudine": 16.8699585,
-        "address": "Corso Vittorio Emanuele Secondo 40A 70122 Bari",
-        "contact": "+39 3450618692 lavogliamatta_p@libero.it"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 40A 70122 Bari",
+        "contatto": "+39 3450618692 lavogliamatta_p@libero.it"
     },
     {
         "Spazio": "Honèst",
         "Categoria": "Fast food",
         "latitudine": 41.1195411,
         "longitudine": 16.8697976,
-        "address": "Via Sparano da Bari 143a 70121 Bari",
-        "contact": "+39 0808837592 https://www.honestbari.com/"
+        "indirizzo": "Via Sparano da Bari 143a 70121 Bari",
+        "contatto": "+39 0808837592 https://www.honestbari.com/"
     },
     {
         "Spazio": "Kiki Fish & Poké",
         "Categoria": "Fast food",
         "latitudine": 41.1198322,
         "longitudine": 16.8706482,
-        "address": "Piazza Umberto Primo 48b 70121 Bari"
+        "indirizzo": "Piazza Umberto Primo 48b 70121 Bari"
     },
     {
         "Spazio": "Maki Taki",
         "Categoria": "Fast food",
         "latitudine": 41.1186419,
         "longitudine": 16.8710636,
-        "address": "39 70122 Bari Piazza Aldo Moro"
+        "indirizzo": "39 70122 Bari Piazza Aldo Moro"
     },
     {
         "Spazio": null,
         "Categoria": "Fast food",
         "latitudine": 41.11891,
         "longitudine": 16.8691157,
-        "address": "56 70122 Bari Piazza Aldo Moro"
+        "indirizzo": "56 70122 Bari Piazza Aldo Moro"
     },
     {
         "Spazio": "Fufú Chicken Wok",
         "Categoria": "Fast food",
         "latitudine": 41.1258407,
         "longitudine": 16.8686695,
-        "address": "Corso Vittorio Emanuele Secondo 72 70122 Bari"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 72 70122 Bari"
     },
     {
         "Spazio": "Con Mollica o Senza?",
         "Categoria": "Fast food",
         "latitudine": 41.1257193,
         "longitudine": 16.8665806,
-        "address": "Corso Vittorio Emanuele Secondo 90 70122 Bari",
-        "contact": "https://conmollicaosenzashop.it/",
-        "business_info": "Con Mollica O Senza S.r.l."
+        "indirizzo": "Corso Vittorio Emanuele Secondo 90 70122 Bari",
+        "contatto": "https://conmollicaosenzashop.it/",
+        "informazioni_attivita": "Con Mollica O Senza S.r.l."
     },
     {
         "Spazio": "Kebabberia Group",
         "Categoria": "Fast food",
         "latitudine": 41.1194753,
         "longitudine": 16.8690623,
-        "address": "Via Raffaele de Cesare 11 70122 Bari"
+        "indirizzo": "Via Raffaele de Cesare 11 70122 Bari"
     },
     {
         "Spazio": "Panzerotteria",
@@ -2704,15 +2704,15 @@
         "Categoria": "Fast food",
         "latitudine": 41.1283775,
         "longitudine": 16.8685754,
-        "address": "Strada Dei dottula 26",
-        "contact": "3761172501"
+        "indirizzo": "Strada Dei dottula 26",
+        "contatto": "3761172501"
     },
     {
         "Spazio": "Country Pizza",
         "Categoria": "Fast food",
         "latitudine": 41.1633533,
         "longitudine": 16.7493179,
-        "address": "Via Giannone de Maioribus 70127 Santo Spirito",
+        "indirizzo": "Via Giannone de Maioribus 70127 Santo Spirito",
         "services": "no"
     },
     {
@@ -2720,42 +2720,42 @@
         "Categoria": "Fast food",
         "latitudine": 41.1633547,
         "longitudine": 16.7496902,
-        "address": "Lungomare Cristoforo Colombo 140 70127 Santo Spirito",
-        "contact": "+39 377 301 5583 lacicciasantospirito@gmail.com https://www.romanocarni.it/"
+        "indirizzo": "Lungomare Cristoforo Colombo 140 70127 Santo Spirito",
+        "contatto": "+39 377 301 5583 lacicciasantospirito@gmail.com https://www.romanocarni.it/"
     },
     {
         "Spazio": "Il Buongustaio",
         "Categoria": "Fast food",
         "latitudine": 41.1532995,
         "longitudine": 16.7668218,
-        "address": "Via Armando Diaz 7D 70128 Palese"
+        "indirizzo": "Via Armando Diaz 7D 70128 Palese"
     },
     {
         "Spazio": "Deba Dark Kitchen",
         "Categoria": "Fast food",
         "latitudine": 41.1635287,
         "longitudine": 16.7525521,
-        "address": "Lungomare Cristoforo Colombo 42 70127 Santo Spirito",
-        "contact": "+39 351 375 1726 https://debadarkkitchen.com/",
-        "business_info": "Tu-Su 18:30-00:00; Mo off"
+        "indirizzo": "Lungomare Cristoforo Colombo 42 70127 Santo Spirito",
+        "contatto": "+39 351 375 1726 https://debadarkkitchen.com/",
+        "informazioni_attivita": "Tu-Su 18:30-00:00; Mo off"
     },
     {
         "Spazio": "Zia Maria street food",
         "Categoria": "Fast food",
         "latitudine": 41.125109,
         "longitudine": 16.8734069,
-        "contact": "+39 338 595 1324 ziamaria1980",
-        "business_info": "19:00-04:00",
-        "accessibility": "yes"
+        "contatto": "+39 338 595 1324 ziamaria1980",
+        "informazioni_attivita": "19:00-04:00",
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Malanghino a mare",
         "Categoria": "Fast food",
         "latitudine": 41.163318,
         "longitudine": 16.751789,
-        "address": "70127 Santo Spirito Piazza dei MIlle",
-        "contact": "https://malanghino.it/",
-        "accessibility": "yes",
+        "indirizzo": "70127 Santo Spirito Piazza dei MIlle",
+        "contatto": "https://malanghino.it/",
+        "accessibilita": "yes",
         "services": "no"
     },
     {
@@ -2775,9 +2775,9 @@
         "Categoria": "Fast food",
         "latitudine": 41.1198433,
         "longitudine": 16.8709481,
-        "address": "Via Prospero Petroni 44 70121 Bari",
-        "contact": "https://www.facebook.com/Mypokebari",
-        "accessibility": "limited"
+        "indirizzo": "Via Prospero Petroni 44 70121 Bari",
+        "contatto": "https://www.facebook.com/Mypokebari",
+        "accessibilita": "limited"
     },
     {
         "Spazio": null,
@@ -2802,9 +2802,9 @@
         "Categoria": "Fast food",
         "latitudine": 41.1127236,
         "longitudine": 16.8622971,
-        "address": "Viale Quinto Ennio 84 70124",
-        "contact": "3298468457 https://the-butcher-hamburgeria-bari.it/",
-        "business_info": "Sa 11:00-00:00; Tu-Fr 11:00-23:00; Su 18:00-00:00"
+        "indirizzo": "Viale Quinto Ennio 84 70124",
+        "contatto": "3298468457 https://the-butcher-hamburgeria-bari.it/",
+        "informazioni_attivita": "Sa 11:00-00:00; Tu-Fr 11:00-23:00; Su 18:00-00:00"
     },
     {
         "Spazio": "La Piadineria",
@@ -2812,31 +2812,31 @@
         "latitudine": 41.1263281,
         "longitudine": 16.8690319,
         "brand": "La Piadineria",
-        "address": "Corso Vittorio Emanuele Secondo 93 70122 Bari",
-        "contact": "https://lapiadineria.com/i-nostri-ristoranti/bari-corso-vittorio-emanuele-ii",
-        "business_info": "Mo-Th 11:00-23:00; Fr-Su 11:00-24:00"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 93 70122 Bari",
+        "contatto": "https://lapiadineria.com/i-nostri-ristoranti/bari-corso-vittorio-emanuele-ii",
+        "informazioni_attivita": "Mo-Th 11:00-23:00; Fr-Su 11:00-24:00"
     },
     {
         "Spazio": "Ristokebab Istanbul",
         "Categoria": "Fast food",
         "latitudine": 41.1262864,
         "longitudine": 16.8713277,
-        "address": "Corso Vittorio Emanuele Secondo 11 70122 Bari"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 11 70122 Bari"
     },
     {
         "Spazio": "Da Tina",
         "Categoria": "Fast food",
         "latitudine": 41.16358,
         "longitudine": 16.7525753,
-        "contact": "https://www.instagram.com/datina_gastronomia/"
+        "contatto": "https://www.instagram.com/datina_gastronomia/"
     },
     {
         "Spazio": "La Baita",
         "Categoria": "Fast food",
         "latitudine": 41.0881331,
         "longitudine": 16.9982441,
-        "address": "Viale Grotta della Regina",
-        "location_info": "yes"
+        "indirizzo": "Viale Grotta della Regina",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "McDonald's",
@@ -2844,9 +2844,9 @@
         "latitudine": 41.0990041,
         "longitudine": 16.8294388,
         "brand": "McDonald's",
-        "business_info": "PH,Mo-Su 07:00-02:00",
-        "accessibility": "yes",
-        "location_info": "yes",
+        "informazioni_attivita": "PH,Mo-Su 07:00-02:00",
+        "accessibilita": "yes",
+        "informazioni_posto": "yes",
         "services": "wlan"
     },
     {
@@ -2855,17 +2855,17 @@
         "latitudine": 41.0892764,
         "longitudine": 16.8957537,
         "brand": "McDonald's",
-        "contact": "+39 0805484840 https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca",
-        "business_info": "Mo-Su 08:00-01:00 Mo-Su 08:00-02:00",
-        "location_info": "yes"
+        "contatto": "+39 0805484840 https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca",
+        "informazioni_attivita": "Mo-Su 08:00-01:00 Mo-Su 08:00-02:00",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Il Chioschetto",
         "Categoria": "Fast food",
         "latitudine": 41.1230301,
         "longitudine": 16.8609427,
-        "address": "Via Alessandro Manzoni 73 70122 Bari",
-        "location_info": "shed"
+        "indirizzo": "Via Alessandro Manzoni 73 70122 Bari",
+        "informazioni_posto": "shed"
     },
     {
         "Spazio": "McDonald's",
@@ -2873,16 +2873,16 @@
         "latitudine": 41.0894103,
         "longitudine": 16.863743,
         "brand": "McDonald's",
-        "address": "Tangenziale di Bari Bari",
-        "business_info": "Mo-Th 07:00-00:00; Fr-Su 07:00-01:00 Mo 00:00-02:00, 07:00-02:00; Tu-Th 07:00-02:00; Fr 07:00-24:00; Sa-Su 00:00-24:00",
-        "location_info": "yes"
+        "indirizzo": "Tangenziale di Bari Bari",
+        "informazioni_attivita": "Mo-Th 07:00-00:00; Fr-Su 07:00-01:00 Mo 00:00-02:00, 07:00-02:00; Tu-Th 07:00-02:00; Fr 07:00-24:00; Sa-Su 00:00-24:00",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Antico Chiosco da U' Russ",
         "Categoria": "Fast food",
         "latitudine": 41.1302496,
         "longitudine": 16.867954,
-        "location_info": "kiosk"
+        "informazioni_posto": "kiosk"
     },
     {
         "Spazio": "McDonald's",
@@ -2890,8 +2890,8 @@
         "latitudine": 41.1247498,
         "longitudine": 16.821869,
         "brand": "McDonald's",
-        "contact": "+39 0805343026 https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale",
-        "business_info": "Mo-Su 07:00-01:00"
+        "contatto": "+39 0805343026 https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale",
+        "informazioni_attivita": "Mo-Su 07:00-01:00"
     },
     {
         "Spazio": "McDonald's",
@@ -2899,8 +2899,8 @@
         "latitudine": 41.1318058,
         "longitudine": 16.8245263,
         "brand": "McDonald's",
-        "contact": "+39 0802100422 https://www.mcdonalds.it/",
-        "business_info": "Mo-Su 07:00-01:00 Su-Th 07:00-02:00; Fr-Sa 00:00-00:00",
+        "contatto": "+39 0802100422 https://www.mcdonalds.it/",
+        "informazioni_attivita": "Mo-Su 07:00-01:00 Su-Th 07:00-02:00; Fr-Sa 00:00-00:00",
         "services": "wlan"
     },
     {
@@ -2908,17 +2908,17 @@
         "Categoria": "Area ristorazione",
         "latitudine": 41.1676575,
         "longitudine": 16.7340448,
-        "address": "Via Caladonia 48 70128 Bari",
-        "contact": "3274359761 https://vymaps.com/IT/La-Cucina-Itinerante-Di-Lory-405345749667803/"
+        "indirizzo": "Via Caladonia 48 70128 Bari",
+        "contatto": "3274359761 https://vymaps.com/IT/La-Cucina-Itinerante-Di-Lory-405345749667803/"
     },
     {
         "Spazio": "Sandrino",
         "Categoria": "Gelateria",
         "latitudine": 41.1274867,
         "longitudine": 16.8715415,
-        "address": "Piazza Mercantile 3 70122 Bari",
-        "contact": "info@gelateriasandrino.it https://www.gelateriesandrino.it/",
-        "accessibility": "limited"
+        "indirizzo": "Piazza Mercantile 3 70122 Bari",
+        "contatto": "info@gelateriasandrino.it https://www.gelateriesandrino.it/",
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Il Gelatiere",
@@ -2937,65 +2937,65 @@
         "Categoria": "Gelateria",
         "latitudine": 41.1128985,
         "longitudine": 16.8730165,
-        "address": "Via Luigi Galvani 6/r 70124 Bari"
+        "indirizzo": "Via Luigi Galvani 6/r 70124 Bari"
     },
     {
         "Spazio": "Epiko",
         "Categoria": "Gelateria",
         "latitudine": 41.1258628,
         "longitudine": 16.8718131,
-        "address": "Corso Cavour 9 70122 Bari",
-        "contact": "+39 3889823052 epiko2023@gmail.com",
-        "accessibility": "no"
+        "indirizzo": "Corso Cavour 9 70122 Bari",
+        "contatto": "+39 3889823052 epiko2023@gmail.com",
+        "accessibilita": "no"
     },
     {
         "Spazio": "Gelateria Gentile",
         "Categoria": "Gelateria",
         "latitudine": 41.1279984,
         "longitudine": 16.8675066,
-        "address": "Piazza Federico Secondo di Svevia 33"
+        "indirizzo": "Piazza Federico Secondo di Svevia 33"
     },
     {
         "Spazio": "Gasperini",
         "Categoria": "Gelateria",
         "latitudine": 41.1243631,
         "longitudine": 16.8719788,
-        "address": "Corso Cavour 55 70121 Bari",
-        "contact": "https://www.gelateriagasperini.it/"
+        "indirizzo": "Corso Cavour 55 70121 Bari",
+        "contatto": "https://www.gelateriagasperini.it/"
     },
     {
         "Spazio": "Gelateria Piccinni",
         "Categoria": "Gelateria",
         "latitudine": 41.1252156,
         "longitudine": 16.8659603,
-        "address": "Via Niccolò Piccinni 131 70122 Bari",
-        "business_info": "Mo-Fr 11:00-23:00",
-        "accessibility": "limited"
+        "indirizzo": "Via Niccolò Piccinni 131 70122 Bari",
+        "informazioni_attivita": "Mo-Fr 11:00-23:00",
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Yogo",
         "Categoria": "Gelateria",
         "latitudine": 41.1262892,
         "longitudine": 16.8713843,
-        "address": "Corso Vittorio Emanuele Secondo 9 70122 Bari",
-        "business_info": "Mo-Fr 17:00-26:00; Sa 17:00-28:00; Su 17:00-27:00"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 9 70122 Bari",
+        "informazioni_attivita": "Mo-Fr 17:00-26:00; Sa 17:00-28:00; Su 17:00-27:00"
     },
     {
         "Spazio": "Coccolato",
         "Categoria": "Gelateria",
         "latitudine": 41.1260185,
         "longitudine": 16.8715626,
-        "address": "Corso Vittorio Emanuele Secondo 12 70122 Bari",
-        "contact": "+39 3287354289 icedreamsrls@gmail.com"
+        "indirizzo": "Corso Vittorio Emanuele Secondo 12 70122 Bari",
+        "contatto": "+39 3287354289 icedreamsrls@gmail.com"
     },
     {
         "Spazio": "Rapalisi Gelateria Argentina",
         "Categoria": "Gelateria",
         "latitudine": 41.162628,
         "longitudine": 16.75118,
-        "address": "Corso Umberto I 19 70127 Santo Spirito",
-        "business_info": "Tu 16:00-00:00; We-Sa 08:30-13:00,16:00-00:00; Su 08:30-13:00,16:00-00:00",
-        "accessibility": "limited",
+        "indirizzo": "Corso Umberto I 19 70127 Santo Spirito",
+        "informazioni_attivita": "Tu 16:00-00:00; We-Sa 08:30-13:00,16:00-00:00; Su 08:30-13:00,16:00-00:00",
+        "accessibilita": "limited",
         "services": "no"
     },
     {
@@ -3003,14 +3003,14 @@
         "Categoria": "Gelateria",
         "latitudine": 41.109695,
         "longitudine": 16.8720776,
-        "location_info": "shed"
+        "informazioni_posto": "shed"
     },
     {
         "Spazio": "World Connection 2",
         "Categoria": "Internet café",
         "latitudine": 41.1206569,
         "longitudine": 16.8713109,
-        "address": "Via Giuseppe Forges Davanzati 30 70121 Bari"
+        "indirizzo": "Via Giuseppe Forges Davanzati 30 70121 Bari"
     },
     {
         "Spazio": null,
@@ -3035,22 +3035,22 @@
         "Categoria": "Mercato",
         "latitudine": 41.1283184,
         "longitudine": 16.8746695,
-        "accessibility": "yes"
+        "accessibilita": "yes"
     },
     {
         "Spazio": "Mercato Coperto di Via Tanzi",
         "Categoria": "Mercato",
         "latitudine": 41.1186426,
         "longitudine": 16.875534,
-        "accessibility": "0",
-        "location_info": "yes 0"
+        "accessibilita": "0",
+        "informazioni_posto": "yes 0"
     },
     {
         "Spazio": "Antiquariando",
         "Categoria": "Mercato",
         "latitudine": 41.1263442,
         "longitudine": 16.8665163,
-        "business_info": "Oct-Jun Sa,Su 09:00-21:00 \"1st week of the month\""
+        "informazioni_attivita": "Oct-Jun Sa,Su 09:00-21:00 \"1st week of the month\""
     },
     {
         "Spazio": "Mercato di Santa Chiara",
@@ -3064,14 +3064,14 @@
         "latitudine": 41.0737185,
         "longitudine": 16.8635501,
         "alt_name": "Mercato Coperto di Carbonara",
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Mercato coperto",
         "Categoria": "Mercato",
         "latitudine": 41.1079555,
         "longitudine": 16.8962738,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Mercato Coperto \"Madonna del Carmelo\"",
@@ -3079,8 +3079,8 @@
         "latitudine": 41.1257335,
         "longitudine": 16.8525072,
         "alt_name": "Mercato Coperto di Corso Mazzini",
-        "address": "Corso Giuseppe Mazzini",
-        "location_info": "roof"
+        "indirizzo": "Corso Giuseppe Mazzini",
+        "informazioni_posto": "roof"
     },
     {
         "Spazio": "Mercato Coperto Ex Manifattura Tabacchi",
@@ -3093,8 +3093,8 @@
         "Categoria": "Mercato",
         "latitudine": 41.1157716,
         "longitudine": 16.8809848,
-        "address": "Via Giovanni Amendola",
-        "location_info": "yes"
+        "indirizzo": "Via Giovanni Amendola",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Mercato Santa Scolastica",
@@ -3107,8 +3107,8 @@
         "Categoria": "Mercato",
         "latitudine": 41.1368797,
         "longitudine": 16.8188249,
-        "business_info": "Comune di Bari",
-        "location_info": "yes"
+        "informazioni_attivita": "Comune di Bari",
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Mercato Settimanale",
@@ -3121,7 +3121,7 @@
         "Categoria": "Mercato",
         "latitudine": 41.0739025,
         "longitudine": 16.8627278,
-        "business_info": "Tu 6:00-16:00"
+        "informazioni_attivita": "Tu 6:00-16:00"
     },
     {
         "Spazio": null,
@@ -3134,8 +3134,8 @@
         "Categoria": "Discoteca",
         "latitudine": 41.1194921,
         "longitudine": 16.8664488,
-        "address": "Piazzetta dei Frati Cappuccini 1 70122 Bari",
-        "contact": "+39 3515063856"
+        "indirizzo": "Piazzetta dei Frati Cappuccini 1 70122 Bari",
+        "contatto": "+39 3515063856"
     },
     {
         "Spazio": "NOVA Club Culture",
@@ -3154,7 +3154,7 @@
         "Categoria": "Pub",
         "latitudine": 41.1161123,
         "longitudine": 16.8618772,
-        "address": "Via Giuseppe Albanese",
+        "indirizzo": "Via Giuseppe Albanese",
         "services": "wlan"
     },
     {
@@ -3181,14 +3181,14 @@
         "Categoria": "Pub",
         "latitudine": 41.1227294,
         "longitudine": 16.8524108,
-        "accessibility": "limited"
+        "accessibilita": "limited"
     },
     {
         "Spazio": "Bourbon Street",
         "Categoria": "Pub",
         "latitudine": 41.1165341,
         "longitudine": 16.8643811,
-        "business_info": "Nicola Pignataro"
+        "informazioni_attivita": "Nicola Pignataro"
     },
     {
         "Spazio": "Flying Circus",
@@ -3201,8 +3201,8 @@
         "Categoria": "Pub",
         "latitudine": 41.0981688,
         "longitudine": 16.8513618,
-        "address": "Via Giuseppe Posca 59 70124 Bari",
-        "contact": "+39 3482655171 https://www.facebook.com/oktoberbari",
+        "indirizzo": "Via Giuseppe Posca 59 70124 Bari",
+        "contatto": "+39 3482655171 https://www.facebook.com/oktoberbari",
         "services": "no"
     },
     {
@@ -3216,8 +3216,8 @@
         "Categoria": "Pub",
         "latitudine": 41.1131195,
         "longitudine": 16.8706468,
-        "address": "Via Buccari 120 Bari",
-        "business_info": "Mo-Sa 20:00-01:00, Aug off local knowledge",
+        "indirizzo": "Via Buccari 120 Bari",
+        "informazioni_attivita": "Mo-Sa 20:00-01:00, Aug off local knowledge",
         "services": "no"
     },
     {
@@ -3226,16 +3226,16 @@
         "latitudine": 41.1212599,
         "longitudine": 16.8663622,
         "alt_name": "Taverna Nuova",
-        "accessibility": "0",
-        "location_info": "0"
+        "accessibilita": "0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "Blu eyes",
         "Categoria": "Pub",
         "latitudine": 41.1150131,
         "longitudine": 16.8743534,
-        "address": "Via Francesco Muciaccia 8 70125 Bari",
-        "business_info": "Mo-Sa 12:30-15:30,20:00-00:00; Tu off; Su 12:30-15:30,20:00-24:00"
+        "indirizzo": "Via Francesco Muciaccia 8 70125 Bari",
+        "informazioni_attivita": "Mo-Sa 12:30-15:30,20:00-00:00; Tu off; Su 12:30-15:30,20:00-24:00"
     },
     {
         "Spazio": "Il Pellicano",
@@ -3254,33 +3254,33 @@
         "Categoria": "Pub",
         "latitudine": 41.1057339,
         "longitudine": 16.8798958,
-        "address": "Via Omodeo 12",
-        "contact": "+39 0808976081"
+        "indirizzo": "Via Omodeo 12",
+        "contatto": "+39 0808976081"
     },
     {
         "Spazio": "ekoiné",
         "Categoria": "Pub",
         "latitudine": 41.1077125,
         "longitudine": 16.8637537,
-        "address": "Via Antonio De Ferraris 49b",
-        "business_info": "EKO s.a.s. di Fabio Bellucci"
+        "indirizzo": "Via Antonio De Ferraris 49b",
+        "informazioni_attivita": "EKO s.a.s. di Fabio Bellucci"
     },
     {
         "Spazio": "Noise",
         "Categoria": "Pub",
         "latitudine": 41.1158465,
         "longitudine": 16.8646588,
-        "address": "Viale Antonio Salandra 8a 70124",
-        "business_info": "Antonio Marzio"
+        "indirizzo": "Viale Antonio Salandra 8a 70124",
+        "informazioni_attivita": "Antonio Marzio"
     },
     {
         "Spazio": "Windigo Saloon",
         "Categoria": "Pub",
         "latitudine": 41.1025837,
         "longitudine": 16.8581635,
-        "address": "Via Mauro Amoruso 33",
-        "contact": "+39 347 6440575",
-        "business_info": "24/7"
+        "indirizzo": "Via Mauro Amoruso 33",
+        "contatto": "+39 347 6440575",
+        "informazioni_attivita": "24/7"
     },
     {
         "Spazio": null,
@@ -3293,30 +3293,30 @@
         "Categoria": "Pub",
         "latitudine": 41.1118392,
         "longitudine": 16.8776393,
-        "address": "Via Quarto 10"
+        "indirizzo": "Via Quarto 10"
     },
     {
         "Spazio": "drops",
         "Categoria": "Pub",
         "latitudine": 41.1121498,
         "longitudine": 16.8637088,
-        "address": "Piazza Giulio Cesare 28 70124",
-        "business_info": "BOX 28 s.n.c. di Minafra V. e De Tullio G."
+        "indirizzo": "Piazza Giulio Cesare 28 70124",
+        "informazioni_attivita": "BOX 28 s.n.c. di Minafra V. e De Tullio G."
     },
     {
         "Spazio": "Dexter",
         "Categoria": "Pub",
         "latitudine": 41.0882481,
         "longitudine": 16.8649861,
-        "contact": "http://www.dexterpub.it"
+        "contatto": "http://www.dexterpub.it"
     },
     {
         "Spazio": "Keller",
         "Categoria": "Pub",
         "latitudine": 41.0941757,
         "longitudine": 16.865395,
-        "address": "Via Aurelio Carrante Bari IT",
-        "business_info": "Keller-fapfap s.a.s."
+        "indirizzo": "Via Aurelio Carrante Bari IT",
+        "informazioni_attivita": "Keller-fapfap s.a.s."
     },
     {
         "Spazio": "Gramigna",
@@ -3341,16 +3341,16 @@
         "Categoria": "Pub",
         "latitudine": 41.1250352,
         "longitudine": 16.8659798,
-        "address": "Via Niccolò Piccinni 148 70122 Bari IT"
+        "indirizzo": "Via Niccolò Piccinni 148 70122 Bari IT"
     },
     {
         "Spazio": "Terra di Mezzo",
         "Categoria": "Pub",
         "latitudine": 41.1144488,
         "longitudine": 16.8799486,
-        "address": "Via Giovanni Amendola 133 70126 Bari",
-        "contact": "https://www.pubterradimezzo.it/",
-        "accessibility": "limited",
+        "indirizzo": "Via Giovanni Amendola 133 70126 Bari",
+        "contatto": "https://www.pubterradimezzo.it/",
+        "accessibilita": "limited",
         "services": "yes"
     },
     {
@@ -3364,26 +3364,26 @@
         "Categoria": "Pub",
         "latitudine": 41.1280209,
         "longitudine": 16.8722504,
-        "address": "Piazza Mercantile 69",
-        "accessibility": "0",
-        "location_info": "0"
+        "indirizzo": "Piazza Mercantile 69",
+        "accessibilita": "0",
+        "informazioni_posto": "0"
     },
     {
         "Spazio": "La Farmacia dei Sani",
         "Categoria": "Pub",
         "latitudine": 41.1229074,
         "longitudine": 16.8683594,
-        "address": "Via Roberto da Bari 104 70122 Bari",
-        "contact": "+39 0805282944 farmaciadeisani@live.it",
-        "business_info": "Mo-Fr 12:30-14:30, 19:30-24:00"
+        "indirizzo": "Via Roberto da Bari 104 70122 Bari",
+        "contatto": "+39 0805282944 farmaciadeisani@live.it",
+        "informazioni_attivita": "Mo-Fr 12:30-14:30, 19:30-24:00"
     },
     {
         "Spazio": "La Ciclatera",
         "Categoria": "Pub",
         "latitudine": 41.1270821,
         "longitudine": 16.8697074,
-        "address": "Strada Angiola 23 70122 Bari",
-        "contact": "+39 0805289368 https://laciclatera.eatbu.com/"
+        "indirizzo": "Strada Angiola 23 70122 Bari",
+        "contatto": "+39 0805289368 https://laciclatera.eatbu.com/"
     },
     {
         "Spazio": "Jerusalem",
@@ -3396,46 +3396,46 @@
         "Categoria": "Pub",
         "latitudine": 41.1638765,
         "longitudine": 16.7525856,
-        "address": "Largo Cristoforo Colombo 22 70127 Bari",
-        "contact": "+39 348 549 1311",
-        "business_info": "Tu-Fr 18:00-25:00; Sa-Su 11:00-13:30"
+        "indirizzo": "Largo Cristoforo Colombo 22 70127 Bari",
+        "contatto": "+39 348 549 1311",
+        "informazioni_attivita": "Tu-Fr 18:00-25:00; Sa-Su 11:00-13:30"
     },
     {
         "Spazio": "Taboo",
         "Categoria": "Pub",
         "latitudine": 41.1636661,
         "longitudine": 16.7526381,
-        "address": "Lungomare Cristoforo Colombo 36 70127 Santo Spirito",
-        "contact": "https://www.facebook.com/taboospeakeasy/"
+        "indirizzo": "Lungomare Cristoforo Colombo 36 70127 Santo Spirito",
+        "contatto": "https://www.facebook.com/taboospeakeasy/"
     },
     {
         "Spazio": "Sun",
         "Categoria": "Pub",
         "latitudine": 41.1633693,
         "longitudine": 16.7496518,
-        "address": "Lungomare Cristoforo Colombo 142 70127 Santo Spirito"
+        "indirizzo": "Lungomare Cristoforo Colombo 142 70127 Santo Spirito"
     },
     {
         "Spazio": "Fuori Orario",
         "Categoria": "Pub",
         "latitudine": 41.1480012,
         "longitudine": 16.7404467,
-        "address": "1 70127 San Pio Piazzetta Eleonora",
-        "contact": "https://www.instagram.com/fuoriorariobirrificio/",
-        "business_info": "2023-05-26"
+        "indirizzo": "1 70127 San Pio Piazzetta Eleonora",
+        "contatto": "https://www.instagram.com/fuoriorariobirrificio/",
+        "informazioni_attivita": "2023-05-26"
     },
     {
         "Spazio": "Fermento - Beershop",
         "Categoria": "Pub",
         "latitudine": 41.1064301,
         "longitudine": 16.8777082,
-        "location_info": "yes"
+        "informazioni_posto": "yes"
     },
     {
         "Spazio": "Timeout - Play Around Food",
         "Categoria": "Pub",
         "latitudine": 41.0896244,
         "longitudine": 16.8833894,
-        "contact": "+39 3896954338 info@timeoutsteakhouse.it https://www.timeoutpub.it/"
+        "contatto": "+39 3896954338 info@timeoutsteakhouse.it https://www.timeoutpub.it/"
     }
 ]

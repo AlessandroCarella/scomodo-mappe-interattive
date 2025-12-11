@@ -11,6 +11,7 @@ export const dataSources = [
         categoryField: "Categoria",
         latField: "Latitudine",
         lngField: "Longitudine",
+        interactive: true, // Enable hover tooltip and click behavior
     },
     // {
     //     id: "questionario",
@@ -23,6 +24,7 @@ export const dataSources = [
     //     categoryField: "Categoria",
     //     latField: "Latitudine",
     //     lngField: "Longitudine",
+    //     interactive: true,
     // },
     {
         id: "SpaziDiConsumo",
@@ -35,7 +37,8 @@ export const dataSources = [
         categoryField: "Categoria",
         latField: "latitudine",
         lngField: "longitudine",
-    },
+        interactive: false, // Enable hover tooltip and click behavior
+    }
 ];
 
 // Heatmap configuration

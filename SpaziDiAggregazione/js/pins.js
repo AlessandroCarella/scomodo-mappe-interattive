@@ -40,14 +40,21 @@ export class PinLayer {
             const marker = L.marker([lat, lng], {
                 icon: icon,
                 zIndexOffset: this.config.zIndexOffset || 0,
-            })
-                .bindTooltip(`<strong>${name}</strong><br>${category}`, {
+            });
+
+            // Only add interactive features if enabled
+            if (this.config.interactive !== false) {
+                // Add tooltip on hover
+                marker.bindTooltip(`<strong>${name}</strong><br>${category}`, {
                     direction: "top",
                     offset: [0, -20],
-                })
-                .on("click", () => {
+                });
+
+                // Add click event to show info panel
+                marker.on("click", () => {
                     showLocationInfo(item, this.config);
                 });
+            }
 
             marker.locationData = item;
             marker.sourceId = this.sourceId;
