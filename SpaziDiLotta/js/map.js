@@ -1,4 +1,3 @@
-import { mapPngAddress } from "./config.js";
 
 let map = null;
 let polygonLayer = null;
@@ -131,11 +130,9 @@ export async function initializeMap() {
         scrollWheelZoom: true,
     }).setView(settings.center, settings.zoom);
 
-    // Add map tiles
-    L.tileLayer(mapPngAddress, {
-        maxZoom: 19,
-        minZoom: 6,
-    }).addTo(map);
+    // Basemap: OpenFreeMap Positron (see positronLayer in index.html)
+    positronLayer().addTo(map);
+    map.setMinZoom(6).setMaxZoom(19);
 
     drawPolygonOutline(coordinates);
 

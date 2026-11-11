@@ -1,9 +1,6 @@
 // ============================================================================
 // MAP CONFIGURATION
 // ============================================================================
-export const mapPngAddress =
-    "https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png";
-
 export const mapConfig = {
     center: {
         lat: 41.117982061313434,
@@ -12,8 +9,6 @@ export const mapConfig = {
     zoom: 12,
     minZoom: 6,
     maxZoom: 19,
-    tileLayer:
-        "https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png",
     polygonFile: "resources/bariCoordinates.json",
     polygonStyle: {
         color: "#000000",

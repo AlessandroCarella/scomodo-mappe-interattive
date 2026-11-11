@@ -123,19 +123,14 @@ function getResponsiveMapSettings() {
 export async function initializeMap() {
     const { center, coordinates } = await loadPolygonData();
     const settings = getResponsiveMapSettings();
-    const mapPngAddress =
-        "https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png";
-
     map = L.map("map", {
         zoomControl: false,
         scrollWheelZoom: true,
     }).setView(settings.center, settings.zoom);
 
-    // Add map tiles
-    L.tileLayer(mapPngAddress, {
-        maxZoom: 19,
-        minZoom: 6,
-    }).addTo(map);
+    // Basemap: OpenFreeMap Positron (see positronLayer in index.html)
+    positronLayer().addTo(map);
+    map.setMinZoom(6).setMaxZoom(19);
 
     drawPolygonOutline(coordinates);
 
